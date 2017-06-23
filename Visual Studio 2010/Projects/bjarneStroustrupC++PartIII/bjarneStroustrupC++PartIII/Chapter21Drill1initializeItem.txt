@@ -1,0 +1,10 @@
+apple 0 2.50
+orange 1 2.15
+banana 2 2.00
+peach 3 1.75
+melon 4 3.20
+grapes 5 3.50
+strawberry 6 2.75
+cramberry 7 2.86
+cherry 8 3.11
+ananas 9 1.99

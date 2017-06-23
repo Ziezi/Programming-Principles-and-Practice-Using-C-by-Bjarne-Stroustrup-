@@ -1,0 +1,6 @@
+Infix notation is easier for humans to read
+and understand whereas for electronic machines 
+like computers, postfix is the best form of 
+expression to parse. We shall see here a 
+program to convert and evaluate infix 
+notation to postfix notation 

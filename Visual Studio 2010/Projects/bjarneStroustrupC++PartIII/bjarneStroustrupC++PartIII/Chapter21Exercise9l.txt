@@ -1,0 +1,38 @@
+Kozlodui	BUL,SOF,V.Levski35	11.03.2017
+Electricity	1.5	1000000
+Reactor	1e+009	2
+Turbine	1e+009	2
+
+Alibaba	CHI,BJ,Mao	28.02.2017
+BMWReplica	15000.3	2
+MercedesReplics	8350.69	5
+
+Jumbo	GRE,ATH,Papandreou140	01.03.2017
+Toy	5.2	10000
+Doll	2.34	5000
+Bike	50.23	300
+Pen	0.25	5000000
+
+Atom	RU,Moscow,LeninBlvrd	28.02.2017
+Reactor	1.5e+008	2
+Compressors	8.39995e+006	2
+CoolingSystem	2.83001e+007	2
+ControlSystm	1.00035e+006	1
+
+Apple	USA,LA,RocketRoad1	28.02.2017
+Iphone	500	2
+Ipad	300	2
+Imaiko	0	2
+
+Microsoft	USA,LA,RocketRoad1	01.03.2017
+Windows98	100	5
+Windows7	12	5
+Windows10	0	5
+WindowsXP	150	5
+
+Boeing	USA,TEX,FighterRoad1	28.02.2017
+F16	1.24e+006	2
+F18	3.43995e+006	2
+Drone	6.57001e+007	2
+Missile	1.43035e+006	1
+

@@ -1,0 +1,12 @@
+The IP host address, or more commonly just IP address,
+is used to identify hosts connected to the Internet.
+IP stands for Internet Protocol and refers to the
+Internet Layer of the overall network architecture of the Internet.
+
+An IP address is a 32-bit quantity interpreted as 48-bit numbers or octets.
+Each IP address uniquely identifies the participating user network,
+the host on the network, and the class of the user network.
+
+An IP address is usually written in a dotted-decimal notation 
+of the form N1.N2.N3.N4, where each Ni is a decimal number
+between 0 and 255 decimal (00 through FF hexadecimal).
