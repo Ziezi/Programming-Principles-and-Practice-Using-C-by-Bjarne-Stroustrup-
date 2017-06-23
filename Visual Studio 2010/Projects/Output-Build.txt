@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: Hello,World!, Configuration: Debug Win32 ------
+1>  Hello,World!.cpp
+1>LINK : fatal error LNK1123: failure during conversion to COFF: file invalid or corrupt
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
