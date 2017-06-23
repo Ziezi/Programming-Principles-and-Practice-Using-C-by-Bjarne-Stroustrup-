@@ -1,0 +1,3 @@
+﻿  PrimalityTestNoFactorization.cpp
+d:\c++ projects\visual studio 2010\projects\algorithms\algorithms\primalitytestnofactorization.cpp(50): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+  Algorithms.vcxproj -> D:\C++ Projects\Visual Studio 2010\Projects\Algorithms\Debug\Algorithms.exe

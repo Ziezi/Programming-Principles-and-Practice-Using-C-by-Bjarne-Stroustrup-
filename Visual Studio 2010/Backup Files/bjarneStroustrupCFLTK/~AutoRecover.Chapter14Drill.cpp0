@@ -1,0 +1,43 @@
+/*
+	TITLE		   Class inheritane/overrloading      Chapter14Drill.cpp
+	"Bjarne Stroustrup "Programming Principles and Practices Using C++""
+	COMMENT
+		Objective: 1. Define class B1 with virtual function vf() and
+				      non-virtual f(), within B, with access specifier
+				      public and implement them to print their name.
+				      Make object B1 and call each fucntion.
+				   2. Derive a class D1 from B1 and override vf().
+				      Make object D1 and call vf( ) and f() for it .
+		    Input: -
+		   Output: Prints the invoked function and members.
+		   Author: 26.09.2015
+		     Date: Chris B. Kirov
+*/
+#include <iostream>
+// 1. 
+class B1{
+public:
+	virtual void vf() const { std::cout <<"B1::vf()"; }
+	void f() const { std::cout <<"B1::f()"; }
+};
+// 2.
+class D1: public B1{
+public:
+	void vf() const { std::cout <<"D1::vf()"; }
+};
+
+
+int main(){
+	// 1.
+	B1 b1;
+	b1.vf();  // virtual function is called normally
+	b1.f();
+	std::cout <<'\n'; 
+	// 2.
+	D1 d1;
+	d1.vf(); 
+	d1.f();
+
+
+	getchar();
+}
