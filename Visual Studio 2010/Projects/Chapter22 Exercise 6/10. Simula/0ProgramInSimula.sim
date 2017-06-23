@@ -1,0 +1,8 @@
+BEGIN
+    REAL X, Y;
+    X := 0.5;
+    Y := 0.3 * X ** 2 + 0.25 * X - 1;
+    OUTFIX(X, 6, 20);
+    OUTFIX(Y, 6, 20);
+    OUTIMAGE;
+END;
