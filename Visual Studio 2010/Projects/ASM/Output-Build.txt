@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: ASM, Configuration: Debug Win32 ------
+1>  testex_c.cpp
+1>c:\users\chris\documents\visual studio 2010\projects\asm\testex_c.cpp(18): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "StdAfx.h"' to your source?
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
