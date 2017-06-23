@@ -1,0 +1,53 @@
+// Solutions of 8 Queen Problem
+
+get "<BCPL>HEAD.BCP"
+get "<BCPL>UTILHEAD.BCP"					// Link to I/0 subroutine library
+
+static 
+{ 	Solution: nil							// Total number of legal solutions
+	Row:	  vec 7							// Array to remember the col
+											// the Queen is in for each row 0-7
+	Horiz:    vec 7							// True if queen is in
+											// the Horizontal row 0-7
+	Updiag:   vec 14						// True if a queen is in
+											// the upward diagonal 0-14
+	Downdiag: vec 14						// True if Queen is in
+											// the downward diagonal 0-14
+}
+
+let Start () be
+{	st
+	for I := 0 to 7							// Each Horiz row is empty
+	do Horiz | I := false					// 
+	for I := 0 to 14						// and each diagonal is empty
+	do { Updiag|I:=false; Downgiag|I:=false }
+	Solutions:=0							// No solutions yet
+	Queens(0)								// Types out all solutions
+	WriteS("*n Number of Solutions= ")
+	WriteN(Solutions)						// Summary
+} st
+and Queens(Col) be							// There are no conflicts in previous columns
+{	qn
+	let Updiag2, Downdiag2:=Updiag+7-Col, Downdiag+Col
+	for N:=0 to 7 do 						// Try to put the Queen in each row of this column
+	unless (Horiz|N Updiag2|N Downdiag2|N) do	// No conflict to with queens to left
+	{	Row|Col:=N							// Remember where to typeout
+		test Col=7							// Check for all done
+		ifso
+		{	WriteS("*n")					// Legal Solution
+			for Col:=0 to 7 do { WriteN(Rol|Col); WriteS("*s") }
+			Solutions := Solutions + 1
+		}
+		if not
+		{	Horiz|N:=true					// Place a Queen there
+			Updiag2|N:=true
+			Downdiag2|N:=true
+			Queens(Col+1)					// Find all legal configs
+											// in cols to the right 
+			Horiz|N:=false					// Now remove Queen
+			Updiag2|N:=false
+			Downdiag2|N:=false
+		}
+	}
+}qn
+
