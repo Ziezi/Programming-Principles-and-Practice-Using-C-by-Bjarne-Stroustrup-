@@ -1,0 +1,10 @@
+﻿1>------ Build started: Project: bjarneStroustroupC, Configuration: Debug Win32 ------
+1>  stdafx.cpp
+1>  drill1Chapter7.cpp
+1>c:\users\chris\documents\visual studio 2010\projects\object_oriented_examples\object_oriented_examples\drill1chapter7.cpp(96): warning C4715: 'Token_stream::get' : not all control paths return a value
+1>c:\users\chris\documents\visual studio 2010\projects\object_oriented_examples\object_oriented_examples\drill1chapter7.cpp(107): warning C4715: 'Token_stream::unget' : not all control paths return a value
+1>c:\users\chris\documents\visual studio 2010\projects\object_oriented_examples\object_oriented_examples\drill1chapter7.cpp(141): warning C4715: 'get_value' : not all control paths return a value
+1>c:\users\chris\documents\visual studio 2010\projects\object_oriented_examples\object_oriented_examples\drill1chapter7.cpp(191): warning C4715: 'primary' : not all control paths return a value
+1>drill1Chapter7.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+1>  object_oriented_examples.vcxproj -> C:\Users\Chris\Documents\Visual Studio 2010\Projects\object_oriented_examples\Debug\bjarneStroustroupC.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

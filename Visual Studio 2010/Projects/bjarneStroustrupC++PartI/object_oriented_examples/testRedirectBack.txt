@@ -1,0 +1,3 @@
+5+2
+V*V
+from std::cin
