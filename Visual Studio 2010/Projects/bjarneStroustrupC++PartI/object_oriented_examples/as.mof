@@ -1,0 +1,15 @@
+#pragma autorecover
+#pragma namespace("\\\\.\\root")
+instance of __Namespace
+{
+Name = "SecurityCenter2";
+};
+#pragma namespace("\\\\.\\root\\SecurityCenter2")
+instance of AntiSpywareProduct
+{
+displayName = "Microsoft Security Essentials";
+instanceGuid = "{0C8D1929-27B2-688D-E114-9117BD2BB1B7}";
+pathToSignedProductExe = "C:\\Program Files\\Microsoft Security Client\\msseces.exe";
+pathToSignedReportingExe = "C:\\Program Files\\Microsoft Security Client\\MsMpEng.exe";
+productState = 393216;
+};

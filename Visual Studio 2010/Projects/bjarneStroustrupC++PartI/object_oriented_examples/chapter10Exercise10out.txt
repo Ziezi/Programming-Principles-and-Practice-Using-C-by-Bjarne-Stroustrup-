@@ -1,0 +1,37 @@
+primary expected!
+= -1.#IND
+> primary expected!
+= -1.#IND
+> = 1
+> = 10
+> = 33
+> = -97
+> primary expected!
+= -1.#IND
+> ')' expected!
+= 4
+> primary expected!
+')' expected!
+= -1.#IND
+> primary expected!
+= -1.#IND
+> primary expected!
+= -1.#IND
+> division by zero!
+= 1.#INF
+> = 3
+> = -2
+> primary expected!
+= -1.#IND
+> = 1.23457e+015
+> unknown exception!
+> = 36
+> = -8
+> primary expected!
+= -1.#IND
+> ')' expected!
+= 4
+> primary expected!
+')' expected!
+= -1.#IND
+> unknown exception!
