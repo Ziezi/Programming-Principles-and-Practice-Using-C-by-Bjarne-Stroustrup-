@@ -1,0 +1,23 @@
+﻿  Chapter19Exercise15.cpp
+d:\c++ projects\visual studio 2010\projects\bjarnestroustrupc++partii\bjarnestroustrupcfltk\graph.h(45): warning C4305: 'initializing' : truncation from 'Graph_lib::Color::Transparency' to 'char'
+d:\c++ projects\visual studio 2010\projects\bjarnestroustrupc++partii\bjarnestroustrupcfltk\graph.h(45): warning C4309: 'initializing' : truncation of constant value
+d:\c++ projects\visual studio 2010\projects\bjarnestroustrupc++partii\bjarnestroustrupcfltk\graph.h(47): warning C4305: 'initializing' : truncation from 'Graph_lib::Color::Transparency' to 'char'
+d:\c++ projects\visual studio 2010\projects\bjarnestroustrupc++partii\bjarnestroustrupcfltk\graph.h(47): warning C4309: 'initializing' : truncation of constant value
+d:\c++ projects\visual studio 2010\projects\bjarnestroustrupc++partii\bjarnestroustrupcfltk\gui.h(106): warning C4018: '<' : signed/unsigned mismatch
+d:\c++ projects\visual studio 2010\projects\bjarnestroustrupc++partii\bjarnestroustrupcfltk\gui.h(111): warning C4018: '<' : signed/unsigned mismatch
+d:\c++ projects\visual studio 2010\projects\bjarnestroustrupc++partii\bjarnestroustrupcfltk\gui.h(116): warning C4018: '<' : signed/unsigned mismatch
+d:\c++ projects\visual studio 2010\projects\bjarnestroustrupc++partii\bjarnestroustrupcfltk\chapter19exercise15.h(36): warning C4482: nonstandard extension used: enum 'Graph_lib::Menu::Kind' used in qualified name
+d:\c++ projects\visual studio 2010\projects\bjarnestroustrupc++partii\bjarnestroustrupcfltk\chapter19exercise15.h(203): warning C4018: '<' : signed/unsigned mismatch
+d:\c++ projects\visual studio 2010\projects\bjarnestroustrupc++partii\bjarnestroustrupcfltk\chapter19exercise15.h(351): warning C4018: '<' : signed/unsigned mismatch
+d:\c++ projects\visual studio 2010\projects\bjarnestroustrupc++partii\bjarnestroustrupcfltk\graph.h(130): warning C4018: '<' : signed/unsigned mismatch
+          d:\c++ projects\visual studio 2010\projects\bjarnestroustrupc++partii\bjarnestroustrupcfltk\graph.h(130) : while compiling class template member function 'Graph_lib::Vector_ref<T>::~Vector_ref(void)'
+          with
+          [
+              T=Graph_lib::Button
+          ]
+          d:\c++ projects\visual studio 2010\projects\bjarnestroustrupc++partii\bjarnestroustrupcfltk\gui.h(98) : see reference to class template instantiation 'Graph_lib::Vector_ref<T>' being compiled
+          with
+          [
+              T=Graph_lib::Button
+          ]
+  bjarneStroustrupCFLTK.vcxproj -> D:\C++ Projects\Visual Studio 2010\Projects\bjarneStroustrupC++PartII\Debug\bjarneStroustrupC++PartII.exe
