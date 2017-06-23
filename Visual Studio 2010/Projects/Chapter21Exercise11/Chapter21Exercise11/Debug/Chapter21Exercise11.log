@@ -1,0 +1,20 @@
+﻿  Chapter21Exercise15.cpp
+d:\c++ projects\visual studio 2010\projects\chapter21exercise11\chapter21exercise11\graph.h(45): warning C4305: 'initializing' : truncation from 'Graph_lib::Color::Transparency' to 'char'
+d:\c++ projects\visual studio 2010\projects\chapter21exercise11\chapter21exercise11\graph.h(45): warning C4309: 'initializing' : truncation of constant value
+d:\c++ projects\visual studio 2010\projects\chapter21exercise11\chapter21exercise11\graph.h(47): warning C4305: 'initializing' : truncation from 'Graph_lib::Color::Transparency' to 'char'
+d:\c++ projects\visual studio 2010\projects\chapter21exercise11\chapter21exercise11\graph.h(47): warning C4309: 'initializing' : truncation of constant value
+d:\c++ projects\visual studio 2010\projects\chapter21exercise11\chapter21exercise11\gui.h(106): warning C4018: '<' : signed/unsigned mismatch
+d:\c++ projects\visual studio 2010\projects\chapter21exercise11\chapter21exercise11\gui.h(111): warning C4018: '<' : signed/unsigned mismatch
+d:\c++ projects\visual studio 2010\projects\chapter21exercise11\chapter21exercise11\gui.h(116): warning C4018: '<' : signed/unsigned mismatch
+d:\c++ projects\visual studio 2010\projects\chapter21exercise11\chapter21exercise11\graph.h(130): warning C4018: '<' : signed/unsigned mismatch
+          d:\c++ projects\visual studio 2010\projects\chapter21exercise11\chapter21exercise11\graph.h(130) : while compiling class template member function 'Graph_lib::Vector_ref<T>::~Vector_ref(void)'
+          with
+          [
+              T=Graph_lib::Button
+          ]
+          d:\c++ projects\visual studio 2010\projects\chapter21exercise11\chapter21exercise11\gui.h(98) : see reference to class template instantiation 'Graph_lib::Vector_ref<T>' being compiled
+          with
+          [
+              T=Graph_lib::Button
+          ]
+  Chapter21Exercise11.vcxproj -> D:\C++ Projects\Visual Studio 2010\Projects\Chapter21Exercise11\Debug\Chapter21.exe

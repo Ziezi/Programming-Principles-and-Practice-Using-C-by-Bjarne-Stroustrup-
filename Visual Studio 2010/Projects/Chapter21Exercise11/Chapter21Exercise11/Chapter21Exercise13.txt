@@ -1,0 +1,6 @@
+Dos and don'ts is an especially unusual exception.
+The apostrophe in the contraction don't seems to 
+make people want to use an apostrophe to make	 
+plural (do's and don'ts), but then to be consistent,
+you'd also have to use an apostrophe to make don't
+plural, which becomes downright ugly (do's and don't's).
