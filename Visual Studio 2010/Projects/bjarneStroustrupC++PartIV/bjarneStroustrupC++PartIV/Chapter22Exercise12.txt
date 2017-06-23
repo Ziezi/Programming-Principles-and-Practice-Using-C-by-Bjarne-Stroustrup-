@@ -1,0 +1,24 @@
+Of the language designers mentioned in this chapter
+who has a degree in Mathematics, who has not.
+
+1. Charles Babbage			yes
+2. John Backus						no
+3. Ole-Johan Dahl					no
+4. Edsgar Dijkstra		    yes	
+5. Anders Hejlsberg					no
+6. Grace Hopper				yes
+7. Jean Ichbiah						no
+8. Brian Kernighan					no
+9. John McCarthy			yes
+10.Doug Mclroy				yes
+11.Peter Naur						no
+12.Kristen Nygaard			yes
+13.Dennis Ritchie			yes
+15.Alex Stepanov			yes?
+16.Bjarne Stroustrup		yes
+17.Ken Thompson						no
+18.David Wheeler			yes
+19.Niklaus Wirth					no
+
+Total:						10		8
+

@@ -1,0 +1,156 @@
+3. Which of the chapter vignettes were written by a scientist?
+   Write a paragraph with the contribution of each scientist.
+
+Preface
+ "Damn the torpedoes!
+  Full speed ahead."
+	-Admiral Farragut
+
+Notes for the reader
+ "When the terrain disagrees with the map,
+  trust the terrain."
+	-Swiss army proverb
+
+Chapter 1
+ "Specialization is for insects."
+	-R. A. Heinlein (writer)
+
+Chapter 2
+ "Programming is learned
+ by writing programs."
+	-Brian Kernighan (scientist)
+	-AWK, AMPL, UNIX, C
+
+Chapter 3
+ "Fortune favors the prepared mind."
+	-Louis Pasteur (scientist)
+	-vaccination, fermentation, pasteurization
+
+Chapter 4
+ "If it doesn't have to produce correct results,
+ I can make it arbitrarily fas t."
+	-Gerald M. Weinberg (scientist)
+	-The Psychology of Computer Programming, Introduction to General Systems Thinking.
+
+Chapter 5
+ "I realized that from now on a large part
+ of my life would be spent finding and
+ correcting my own mistakes."
+	-Maurice Wilkes (scientist)
+	-EDSAC, Microprogramming
+
+Chapter 6
+ "Progranuning is understanding."
+	-Kristen Nygaard (scientist)
+	-OOP, Simula
+
+Chapter 7
+ "It ain't over till the fat lady sings."
+	-Opera proverb
+
+Chapter 8
+ "No amount of genius can overcome
+ obsession with detail."
+	- Traditional
+
+Chapter 9
+ "Remember, things take time."
+	-Piet Hein (scientist)
+	-poems
+
+Chapter 10
+ "Science is what we have learned about
+ how to keep from fooling ourselves."
+	-Richard P. Feynman (scientist)
+	-Avant Garde of Quantum Theory, Physics Education, The Manhattan Project, Nobel Prize
+
+Chapter 11
+ "Keep it simple: 
+ as simple as possible, but no simpler."
+	-Albert Einstein (scientist)
+	-Founder of QM, General & Special Relativity, Nobel Prize
+
+Chapter 12
+ "The world was black and white then.
+ [It] didn't turn color until sometime in the 193Os."
+	- Calvin's dad
+
+Chapter 13
+ "A language that doesn't
+ change the way you think
+ isn't worth learning."
+	-Traditional
+
+Chapter 14
+ "Functional, durable, beautiful."
+	-Vitruvius
+
+Chapter 15
+ "The best is the enemy of the good."
+	-Voltaire
+
+Chapter 16
+ "Computing is not about computers any more.
+ It is about living."
+	-Nicholas Negroponte
+
+Chapter 17
+ "Use vector as the default!"
+	-Alex Stepanov
+	-Ada, Generic Programming, STL
+	
+Chapter 18
+ "Caveat emptor!"
+	-Good advice	 
+
+Chapter 19
+ "Success is never final."
+	-Winston Churchill
+
+Chapter 20
+ "Write programs that do one thing and do it well. 
+  Write programs to work together."
+	-Doug Mcilroy (scientist)
+	-Unix tools development
+
+Chapter 21
+ "In theory, practice is simple."
+	-Trygve Reenskaug (scientist)
+	-Model–view–controller
+
+Chapter 22
+ "When someone says,I want a programming language
+  in which I need only say what I wish done,'
+  give him a lollipop."
+	-Alan Perlis (scientist)
+	-1st recipient of Turing Award
+
+Chapter 23
+ "Nothing is so obvious that it's obvious... .
+ The use of the word 'obvious' indicates
+ the absence of a logical argument."
+	-Errol Morris (film maker)
+
+Chapter 24
+ "For every complex problem there is an
+ answer that is clear, simple, and wrong."
+	-H. l. Mencken (journalist, satirist, cultural critic)
+
+Chapter 25
+ "'Unsafe' means 'Somebody may die.'"
+	-Safety officer
+
+Chapter 26
+ "I have only proven the code correct,
+ not tested it."
+	-Donald Knuth (scientist)
+	-The Art of Computer Programming, TEX, algorithms
+
+Chapter 27
+ "C is a strongly typed, weakly checked,
+ programming language."
+	-Dennis Ritchie (scientist)
+	-Unix, C, ALTRAN, B, BCPL, Multics
+
+
+

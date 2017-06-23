@@ -1,0 +1,264 @@
+What is C++ used for and why?
+
+from http://www.stroustrup.com/bs_faq.html#general
+
+Bjarne Stroustrup started working on what became C++ in 1979. The initial version was called "C with Classes". 
+The first version of C++ was used internally in AT&T in August 1983. The name "C++" was used late that year. 
+The first commercial implementation was released October 1985 at the same time as the publication of the 1st 
+edition of The C++ Programming Language. Templates and exception handling were included later in the 1980's 
+and documented in The Annotated C++ Reference Manual and The C++ Programming Language (2rd Edition). 
+The first ISO C++ standard was C++98 as described in The C++ Programming Language (3rd Edition).
+
+The name C++ was picked because it was short, had nice interpretations: "next," "successor," or "increment,"
+though it is always pronounced "plus plus". The name C++ was suggested by Rick Mascitti to signify the evolutionary
+nature of the changes from C; For yet another interpretation of the name C++, see the appendix of [Orwell,1949]. 
+It was first used in December of 1983 when it was edited into the final copies of [Stroustrup,1984] and [Stroustrup,1984c].
+The 'C' in C++ has a long history. Naturally, it is the name of the language Dennis Ritchie designed. 
+C's immediate ancestor was an interpreted descendant of BCPL called B designed by Ken Thompson. 
+BCPL was designed and implemented by Martin Richards from Cambridge University while visiting MIT in the other Cambridge.
+BCPL in turn was Basic CPL, where CPL is the name of a rather large (for its time) and elegant programming language developed 
+jointly by the universities of Cambridge and London. Before the London people joined the project "C" stood for Cambridge. 
+Later, "C" officially stood for Combined. Unofficially, "C" stood for Christopher because Christopher Strachey was the 
+main power behind CPL.
+
+The prime reason for it was he (B. Stroustrup) wanted to write efficient systems programs in the styles encouraged by Simula67.
+To do that, he added facilities for better type checking, data abstraction, and object-oriented programming to C. 
+The more general aim was to design a language in which programs could be written that were both efficient and elegant. 
+The specific tasks that caused designing start and implementing C++ (initially called "C with Classes") 
+had to do with distributing operating system facilities across a network.
+More detailed explanations could be found in The Design and Evolution of C++, also A History of C++: 1979-1991 and 
+Evolving a language in and for the real world: C++ 1991-2006.
+
+The first C++ compiler (Cfront) was writen in C++. To build that, C was used to write "C with Classes"-to-preprocessor.
+"C with classes" was a dialect, immeditate ancestor to C++. That preprocessor translated "C with Classes" constructs
+(such as classes and constructors) into C.  It was a traditional preprocessor that didn't understand all of the language,
+left most of the type checking for the C compiler to do, and translated individual constructs without complete knowledge. 
+Then B. Stroustup wrote the first version of Cfront in "C with Classes".
+Cfront was a traditional compiler that did complete syntax and semantic checking of the C++ source. For that, it had a complete parser,
+built symbol tables, and built a complete internal tree representation of each class, function, etc. 
+It also did some source level optimization on its internal tree representation of C++ constructs before outputting C. 
+The version that generated C, did not rely on C for any type checking. It simply used C as an assembler. 
+The resulting code was uncompromisingly fast.
+
+from http://www.stroustrup.com/applications.html
+
+This is not intended to be a complete list. In fact, it couldn't list a 1000th of all major C++ programs.
+It is a list of systems, applications, and libraries that might give an idea what is being done with C++:
+
+	Applications clearly associated with a single organization:
+
+	12D Solutions: Computer Aided Design system for surveying, civil engineering, and more.
+	Adobe Systems: All major applications are developed in C++:
+		Photoshop & ImageReady,
+		Illustrator,
+		Acrobat,
+		InDesign,
+		GoLive,
+	Frame (mostly C, some C++)
+	Alias|Wavefront: Maya. Maya has been used in the production of just about every major film involving computer-generated effects since its release, including Star Wars Episode I, Spider-Man, Lord of the Rings, Stuart Little, etc. "I love 3d animation".
+	Amadeus: running the biggest non-military datacenter in Europe (in excess of 5000 transactions per second, 200000 terminals connected, 24/7 operation) is doing most of its current developments in C++. All Unix-based server applications are completely C++. Some of them:
+		Car reservation
+		Customer profile server
+		Electronic ticketing
+		TCP/IP front end
+	Amazon.com: Software for large-scale e-commerce.
+	Apple: OS X is written in a mix of language, but a few important parts are C++. The two most interesting are
+		Finder
+		IOKit device drivers. (IOKit is the only place where we use C++ in the kernel, though.)
+	Also,
+		AppleWorks
+		the iPod user interface (uses Pixo application framework written in C++)
+		"Of the thousands of Macintosh applications that have shipped I estimate that over half were written C++".
+		Frameworks: There are three major C++ application frame works developed for Macintosh: Apple's MacApp (some MacApp applications), Symantec's Think Class Libraries, and Metrowerks' PowerPlant. There are also a number of smaller (in market share) frameworks that have been developed.
+	Amdocs: It's main telecom billing module (Enabler) is completely in C++. They are world no.1 BSS vendor for telecom.
+	Arium: Sourcepoint; Hardware debugging and emulation for Intel and ARM systems (incl. multi-processor systems).
+	AT&T: The largest US telecommunications provider.
+		1-800 service
+		provisioning systems
+		systems for rapid network recovery after failure
+	Autodesk: A large number of major number of application in the CAD domain.
+	BeOS: a multiprocessor multimedia personal operating system.
+	BigFix, Inc.: BigFix is a communication system for delivering technical support information to the people for whom it is relevant and timely. It is used by companies such as Autodesk and eMachines to support both software and hardware. All BigFix products are written in C++.
+	Bloomberg: Providing real-time financial information to investors.
+	Cabot Communications: Portable set top box and digital TV software (incl. ISO MHEG-5).
+	Caldera: OpenWBEM open source implementation of the WBEM standard for system management software is written in C++ (www.openwbem.com). This uses more new C++ 98 features than almost any source base I've seen outside of those done by the standards community itself.
+	callas Software: software for the analysis, correction and optimization of PDF files: pdfInspektor, Acrobat Preflight and other plug-ins.
+	CERN: Data analysis - especially for large high-energy physics experiments - using the ROOT toolset and libraries.
+	Clang and LLVM clang: a C language family frontend for LLVM. All of the LLVM tools and libraries are written in C++ with extensive use of the STL.
+	Codemill:
+		SuperDoc: A PalmOS document reader, notable for fast font anti-aliasing.
+		SecurityContext: A Win32 COM component to simplify the querying of the OS security context of the current thread.
+		Map: A Win32 COM component that provides a thread-safe map (as in std::map) of COM Variant data types e.g. for data cacheing within IIS web applications.
+	Code Synthesis Tools: Provides XSD, an XML data binding generator for C++ with support for in-memory and stream-oriented processing models. XSD is written in portable C++ and compiles with a wide range of C++ compilers. XSD is used in telecommunications, finance, high-performance computing, and integrated circuit design.
+	Coverity: Static source code analysis tool for C and C++ written in C++. Used for finding Linux bugs.
+	CoWare: system/chip specification in C++.
+	Credit Agricole Indosuez Cheuvreux: uses C++ exclusively for tracking orders on the European stock markets.
+	Dantz Development Corporation: Retrospect backup software for Windows.
+	D-Cubed: Components for geometric constraint solving, motion simulation, collision detection, hidden line removal and profile management. Our emphasis is on accuracy and speed. Used in the vast majority of CAD applications (e.g. CATIA, SolidWorks, AutoCAD, NX, SolidEdge).
+	D E Shaw: Financial analysis and trading software.
+	Digiquant: Internet Management System (IMS), infrastructure software fo services over IP-based networks. Some of the C++-based elements of IMS are extendable AAA Server, Service provisioning, Rating Engine, and Port Server.
+	Dassault Systems: Catia v5; leading CAD software, on which was conceived all recent Airbus planes (A380, ...). Also, Boeing 787 software. Entirely written in C++, using STL.
+	Doxygen: A document generation tool.
+	Dutch ministry of transport, public works, and water management: surge barrier control. The BOS control system for the Maeslant Barrier protecting Rotterdam from flooding. This safety-critical system (highest safety integrity level according to IEC 61508) is built using C++, Z and PROMELA. A high level overview with nice pictures can be found here.
+	Efficient Networks: (a wholly owned subsidiary of Siemens) has sold more than 8 million licenses worldwide of its PPPoE client software for Macintosh, Windows and Linux systems. Products often are distributed under ISP brand names. New Macintosh development is wholly C++; Windows development is a mix of C and C++. Products using C++ include
+	EnterNet: PPPoE client drivers and settings applications
+		Tango Qualifier: pre-purchase evaluation of user environment
+		Tango Installer: a wizard-like installer program
+		Tango Access: PPPoE client drivers and settings applications
+		Tango Support: user-level network diagnostic tools
+	Ericsson:
+		TelORB - Distributed operating system with object oriented
+		distributed RAM database, The base for the TSP application
+		server platform.
+		TDMA-CDMA HLR
+		GSM-TDMA-CDMA mobility gateway
+		AAA server.
+	Facebook: Several high-performance and high-reliability components.
+	FASTprotocol: A protocol for financial transactions with many implementstions, including Quickfast (open source) and FIX/FAST for the Russian trading system.
+	FlightGear: an open source flight simulator, using JSBSim, one of the flight dynamics math models used in FlightGear and by other simulators.
+	Geant4: Toolkit for the simulation of particles interaction with matter for use in High Energy and Nuclear Physics experiments, Space, and Medical applications. The Geant4 project is a world-wide collaboration of about 100 scientists participating in more than 10 physics experiments in Europe, Russia, Japan, Canada and USA. It involves the participation of several national and international institutes and organizations. The software is entirely written in C++ and has been developed exploiting Object-Oriented methodologies and tools. It consists of roughly 500K lines of code and includes the implementation of a rather wide set of state-of-the-art algorithms and theoretical models for electro-magnetic and hadronic physics interactions.
+	GCC GCC now uses C++ as its implementation language [2012-08-14]. The GNU Compiler Collection includes front ends for C, C++, Objective-C, Fortran, Java, Ada, and Go, as well as libraries for these languages (libstdc++, libgcj,...).
+	Google: web search engine, etc.
+		Chromium browser.
+		Google file system.
+		MapReduce large cluster data processing.
+	Haiku OS: Major parts of the system (including most of the kernel) are written in C++. It's the logical continuation of BeOS.
+	Havoc: Real-time physics for animation and games. "Havok, like Guinness, is made in Ireland.
+	HP: Here is a tiny fraction of HP's C++ apps:
+		C, C++, Fortran90 compilers, and linker for the new HP IA64 platform (these add to more than 1 million lines of C++ code).
+		SAM (HP's system management utility)
+		Some of the networking libraries in HP-UX
+		Java VM core
+		Parts of Openview
+		Non-stop XML parser (originally from compaq)
+	IBM:
+		OS/400.
+		K42: a high performance, open source, general-purpose operating system kernel for cache-coherent multiprocessors.
+	Image Systems: TrackEye and TEMA, the world leading motion analysis programs (based on digital image processing). Used by most car manufacturers to analyse the effects of crash tests. Also used by car and aircraft manufacturers to analyse the performance of new models, "in short wherever high-speed sequences are used".
+	Intel:
+		Vtune performace analysis software
+		compilers and optimizers
+		lots of chip design and manufacturing software.
+	Intuit: Quicken (personal financial software).
+	ILOG: At ILOG, we provide libraries written in C++ used for:
+		Visualization. This set of libraries is used to build applications that needs portable GUI's and advanced graphical features.
+		Optimization. This set of libraries is used to build programs that needs constraint programming or/and the simplex algorithm.
+		Rules. This set of libraries is used to build applications that needs a rule engine to fire actions according to events that may happen.
+	Here are some customers I'm aware of: Chrysler, EDF, CENA, Nortel, SAP, Alcatel, Renault, Manugistics, Communaut urbaine de Lyon (Traffic regulation in the city of Lyon), Parc Technologies Ltd, Barclays Global Investors (BGI), TLC (Transport, Informatik- und Logistik-Consulting GmbH) subsidiary of Deutsche Bahn, DoD's Joint Operational Support Airlift Center (JOSAC), Telefonica, CISCO, NISSAN, POSCO, Sony Bank, isMobile, Southwest Airlines, Novient, Vodafone TeleCommerce, Sabre Holdings Corporation, France Telecom, Ericsson, Deutsche Telekom, Lucent Technologies, MCI WorldCom, Siemens, First Union Home Equity Bank, Baan, HP, Adonix, Peugeot, ARINC, McHugh.
+	KLA-Tencor: Semiconductor manufacturing systems.
+	Looksmart is predominantly written in C++. All products related to searching and exploring the web are written in C++. Used by well over 5,000,000 unique users per day.
+	Lockheed-Martin Aero: Mission critical software for the F-16 and F-35 planes. And more.
+	MAN B&W Diesel A/S: Purveyers of engines for large and very large ships (such as container ships and tankers).
+		Electronic controlled fuel injection and exhaust valve control system for very large (up to more than 100.000 break horse power) two stroke diesel engines. Hard real-time system running on medium size embedded system. Absolutely critical 24/7 operation with distributed, redundant error recovery. Written entirely in high performance, high level C++, except for a few hundred lines of assembler code.
+		Several large support systems for engines and crew running on desktop machines, written entirely in C++.
+		Several internal business critical applications, for engine design calculations and design information storage."
+		Medimage: all products: These products range from medical image display systems to custom communications software which move images from one machine to another via modems and TCP/IP. We build our products for both Mac OS and Windows computers.
+		Mentor Graphics: Since the 1980s Mentor Graphics has built most of its applications using C++, including:
+		Calibre: software for IC physical verification, manufacturing, and resolution enhancement.
+		Formal Pro: formal verification equivalency checker which enables multi-million gate ASIC and SoC verification.
+		FastScan: automatic test pattern generation tool for ASICs and ICs.
+		FlexTest: test pattern generation for optimizing test coverage.
+		TestKompress: tool suite which reduces ATE memory and time requirements for testing by up to 10 times.
+		MachTA/PA: fast, accurate, high capacity, transistor-level circuit simulation for timing and power analysis of DSM and mixed-signal IC designs.
+	Metrowerks is a leading provider of software development tools. The CodeWarrior Integrated Development Environment (IDE), RAD plugins and PowerPlant, our object oriented class library, are all written in C++. Their website has a description of some cool applications, such as 3-D animation, real-time Web conferencing, and satellite control technology.
+	Microsoft: Literally everything at Microsoft is built using recent flavors of Visual C++ (using older versions would automatically cause an application to fail the security review). The list would include major products like:
+		Windows XP, Vista, System 7
+		Windows NT (NT4 and 2000)
+		Windows 9x (95, 98, Me)
+		Microsoft Office (Word, Excel, Access, PowerPoint, Outlook)
+		Internet Explorer (including Outlook Express)
+		Visual Studio (Visual C++, Visual Basic, Visual FoxPro) (Some parts of Visual Studio like the Base Class Libraries that ship with the .NET Framework were written using C# but the C# compiler itself is written in C++.)
+		Exchange
+		SQL
+	There are also "minor" products like:
+		FrontPage
+		Money
+		Picture It
+		Project
+		Z3: a high-performance theorem prover. Open Source from Microsoft Research.
+		and all the games.
+	mIRC: Chat. "is being used by over a million people"
+	MongoDB: An open-source database, widely used as the back end store for web applications, as well as in large enterprises like Viacom and Disney.
+	Morgan Stanley: a large chunk of their financial modelling.
+	Mozilla: Firefox browser and Thunderbird mail client (open source).
+	MySQL: MySQL Server (about 250,000 lines of C++) and MySQL Cluster. Arguably the world's most popular open source database.
+	NASA: Lots of projects, including
+		JPL (Jet Propulsion Lab, NASA): Mars rover autonomous driving system (incl. scene analysis and route planning). C++ on Mars! Also lots of supporting software "on the ground" (i.e. Earth).
+		James Webb Telescope James Webb is the successor to the Hubble Space Telescope.
+		(many) parts of the software for the international space station.
+	The National Census Bureau of Israel is written mostly in C++, with some components of embedded SQL. It serves millions of transactions per month, starting with birth and death registration, naturalization, passport issuance, visas and so on for 8 million civilians and foreign workers.
+	Netopia:
+		Timbuktu Pro -- Remote control, file exchange, and collaborative tools for Macintosh and Windows. Timbuktu Pro is up to about 10,000,000 installed nodes and is in 70% of Fortune 500 companies. The Mac version has won numerous awards over the years and the Windows version just won the 2002 World Class Award From PC World.
+		netOctopus -- Network-based system management for Macintosh and Windows. "4000 sites ... maybe 150 agents (managed systems) are installed at each site, which would make about 600,000 systems.".
+		eSite -- Web site server platform used by several Yellow Pages companies to provide web sites to advertisers.
+		eCare -- Web-based customer support. The Macintosh and Windows clients are in C++.
+	Nokia:
+		Mobile Communications radio-station/internet bridges: FlexiGGSN (Gateway GPRS Support Node) and FlexiSGSN (Server GPRS Support Node).
+		MSC/HLR
+		QT and Qt Creator: Graphics, GUI software for a wide variety of devices.
+		Most of the software for the N-series (and other "smart phones").
+	Nullsoft: All Nullsoft products are C++ (Winamp, NSI, etc.) and many are open source.
+	OpenDDS: OMG's Data Distribution Service for Real-time Systems (DDS).
+	Parametric Technology: CADDS5i is partly in C++.
+	Programming Research: QAC++: Analysis product for C++.
+	Propellerhead Reason: Reason is a virtual studio rack with all the tools and instruments you need to turn your ideas into music.
+	Radiometer Medical A/S: Advanced medical instruments and applications handling patient-critical information on daily basis in over a thousand hospitals worldwide.
+		Bloog-gas analyzers: Medical blood analysis instruments running a database-based application. Appart from the GUI, this application is entirely written in C++
+		Blood-gas instruments management system: Distributed data management application written entirely in C++ (using the ACE framework in TAO CORBA), providing monitoring and reporting facilites.
+	Rain Bird Corporation: Maxicom2 irrigation control system. A Maxicom2 controls the irrigation for a large commercial site or distributed sites from a single central control PC. Communication with remote distributed controllers is via dialup telephone, cellular, radio, fiber optics, etc. Users include: Major amusement/theme parks, international airports, several colleges, county parks, and corporate headquarters.
+	Reliable Software: Co-op, A peer-to-peer version control system.
+	Renaissance Technologies: Financial analysis and trading software.
+	SAP DB: an "Enterprise Open Source Database" is written in a mix of Pascal, C and C++. But newer parts and rewrites of older parts are implemented in C++: "Release 7.4: 1088 C++ of 3392 source files".
+	Scansoft: Dragon Naturally Speaking. An award winning continuous speech dictation system. Originally developed by "Dragon Systems".
+	SGI: OpenInventor, a 3D graphics framework and tool kit built on top of OpenGL. Open Inventor serves as the basis for the VRML (Virtual Reality Modeling Language) standard.
+	Siemens: Major medical systems (often using ACE for convenience and portability).
+	Sophis: Cross-asset, front-to-back portfolio and risk management solutions: "sed world-wide by leading financial institutions".
+	Southwest airlines: Their website, flight reservations, flight status, frequent flyer program, etc.
+	Squid: Optimising Web Delivery.
+	Sun:
+		The HotSpot Java Virtual Machine is written in C++ (this is the leading edge, high performance replacement for Sun's "classic JVM" which was written in C).
+		Sun's compilers have major components written in C++, in particular the C++ front end, parts of the Fortran 95 front end, and the SPARC back end.
+		Parts of Solaris are written in C++, though the external interface is usually crafted to look like C, for compatibility and stability reasons.
+		OpenOffice "The Open Source Office Suite": "[...] the whole technology is based on a platform-independent approach. Less than 10% of the code is platform dependent. This acts as an abstraction layer for the upper software components. Because of the availability of C++-Compilers on every major platform, C++ is used as an implementation language. This allows to port the OpenOffice.org technology to a wide range of different platforms." "[...] It is a complex application consisting mainly of C++ code employing templates and exception handling and supporting independent language binding for a distributed component based architecture."
+	Symbian OS: rationale: "[...] using C++ for all system code, from the kernel upwards." This is one of the most widespread OS's for cellular phones.
+	Thomson Reuters: Eikon is a leading desktop product for finance professionals, mainly developed in C++ (some parts in C#). It is actually around 4M loc.
+	UIQ Technology: UIQ, an open software user interface platform for mobile phones, used by the world's leading mobile phone manufacturers. It is for phones running the Symbian OS. UIQ 3 is used in the Sony Ericsson M600, P990 and W950.
+	University of Karlsruhe: L4Ka: pistachio, a microkernel implemented in pure C++.
+	Vestel Electronics: Set top box and digital TV software.
+	Vodaphone: Mobile phone infrastructure, incl. provisioning and billing.
+	wxWidgets (formerly wxWindows): Cross platform widget set / toolkit (open source).
+	WAM!NET: "Transmission Manager" ISDN and TCP/IP-based data transfer software, formerly known as 4-Sight ISDN Manager - integrates ISDN support with the software to connect to WAM!NET's managed WAN.
+	ZeroC: Provides ICE, a distributed object-oriented computing infrastructure with a modern C++ mapping. ICE is written in portable C++ and compiles with a wide range of C++ compilers. ICE is used for games and massive training simulations.
+
+	Application areas and applications not clearly associated with a single organization:
+
+	The CDE desktop (the standard desktop on many UNIX systems) is written in C++.
+	Computational Geometry: CGAL Open Source Project, the Computational Geometry Algorithm Library, provides state of the art geometric data structures and algorithms. The major design goals are high performance, robustness and flexibility. To achieve the latter the designers of CGAL opted for the generic programming paradigm, and gave CGAL the look and feel of the STL. It is also commercially available as supported product from the GeometryFactory.
+	CORBA ORBs: MICO, omniORB, Orbix, TAO.
+	Games: Doom III engine. Sierra On-line: Birthright, Hellfire, Football Pro, Bullrider I & II, Trophy Bear, Kings Quest, Antara, Hoyle Card games suite, SWAT, and too many others to list... Blizzard: StarCraft, StarCraft: Brood War, Diablo I, Diablo II: Lord of Destruction, Warcraft III, World of Warcraft. Quicksilver: Shanghai Second Dynasty, Shanghai Mah Jongg Essentials, Starfleet Command, Invictus, PBS's Heritage: Civilization and the Jews, Master of Orion III, CS-XII. Microsoft: all games. EA: video game engine. Byond: a "world" development platform.
+	Interactive graphics:
+		Virtual Harlem (project at University of Illinois at Chicago and Central Missouri State University) is a learning environment that lets students experience the Harlem Renaissance of the 1920s and 1930s as a cultural field trip. Virtual Harlem is built on top of on top of a high-level VR scripting framework called Yggdrasil written in C++ using other C++ Libraries and freameworks:
+			SGI's OpenGL Performer graphics library.
+			CAVElib VR library.
+			CAVEGui is a graphical interface tool that provides interaction with a CAVE application.
+			CAVERNsoft G2 an Open Source C++ ready2ware toolkit for building collaborative networked applications.
+			COANIM (or the Collaborative Animator) is the application for viewing 3D content over AGAVE. The overall concept behind AGAVE is to append a low-cost PC-based graphics workstation to an Access Grid node that can be used to project 3D stereoscopic computer graphics to allow collaborators to share 3D content.
+			Coin is a high-level 3D graphics librarwith a C++ Application Programming Interface. Coin uses scenegraph data structureto render real-time graphics suitable for mostly all kinds of scientific anengineering visualization applications.
+			Agave: Access grid augmented virtual environment.
+	KDE from linux is written in C++. K Desktop Environment, is a powerful Open Source graphical desktop environment for Unix workstations. It is one of the leading desktop environments for Linux. It consists of about 300 different packages written in C++, including an office suite, a browser, development tools, games, and multimedia apps.
+	a major ballistic missile defense system being done using C++.
+	telephone systems: I think it would be almost easier to list the systems which aren't written in C++, at least here in Europe:
+		C++ is the only development language used for Alcatel transmission systems, both for network management (using ILog Views) and the actual transmission equipment. FWIW, the major transmission nodes (Frankfurt, Berlin, Munich, and another somewhere in northern Germany -- Cologne or Hamburg, I think) in Germany are all 100% C++. All telephone calls between different regions in Germany pass through one of these machines.
+		T-Mobile (the largest German cellular operator) uses C++ for both its billing system and for most of its WAP portal -- dynamic allocation of IP addresses, etc.
+	Put differently, anyone using a telephone in Germany depends on code written in C++ -- that's a lot of users:-). What counts as a user? The main telephone transmission nodes in Germany (and I'm pretty sure France as well) are written in C++. And I can't imagine anyone in the country who doesn't use a telephone -- does that count as 80 million (140 million with France) users of C++?
+	SETI@home Huge collaborative project to analyse data to find signs for extraterrestrial life. Partly written in C++.
+	Web development support library Poco. Here is list of poco users.
+
+
+
+
+
+
+
+
+

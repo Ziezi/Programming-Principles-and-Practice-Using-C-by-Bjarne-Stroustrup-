@@ -1,0 +1,4463 @@
+Return-Path: <mailer@infusionmail.com>
+Delivered-To: hristo_b_kirov@abv.bg
+Received: from mta-c-24-10.infusionmail.com (mta-c-24-10.infusionmail.com [208.76.24.10])
+	by pmx.abv.bg (Postfix) with ESMTP id E13CA1A0048
+	for <hristo_b_kirov@abv.bg>; Sun, 13 Sep 2015 15:00:50 +0300 (EEST)
+Pool-Debug: qn261 basic
+Pool-Name: default_basic
+x-sieve: enabled
+Pool-Version: 2
+Received: from [10.0.2.60] ([10.0.2.60:57056] helo=phxcw9)
+	by phxme1 (envelope-from <mailer@infusionmail.com>)
+	(ecelerity 3.6.12.50134 r(Core:3.6.12.0)) with ESMTP
+	id 1D/0D-35023-17565F55; Sun, 13 Sep 2015 08:00:49 -0400
+Date: Sun, 13 Sep 2015 08:00:47 -0400 (EDT)
+From: Greg Nuckols <support@strengtheory.com>
+Sender: mailer@infusionmail.com
+To: hristo_b_kirov@abv.bg
+Message-ID: <395229041.646681442145647868.JavaMail.tomcat@phxcw9>
+Subject: My best advice
+Errors-To: mailer@infusionmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_64621_1550147358.1442145647866"
+X-MailSentId: 62290
+X-campaignid: infusion_qn26162290
+X-BatchId: 7274
+X-InfApp: qn261
+X-InfContact: 106750
+X-InfSent: 835670
+X-inf-package: basic
+X-inf-uflags: DO,WF
+X-inf-iflags: DO,WF
+List-Unsubscribe: <https://qn261.infusionsoft.com/app/optOut/noConfirm/835670/4f04801e25d3a012>
+
+------=_Part_64621_1550147358.1442145647866
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+Content-Disposition: inline
+
+This email was sent as HTML-only. To view it, please visit:
+https://qn261.infusionsoft.com/app/hostedEmail/835670/4f04801e25d3a012
+
+
+https://qn261.infusionsoft.com/app/optOut/8/dd2b6c7b213d79b1/835670/4f04801e25d3a012
+
+Strengtheory P.O. Box 1504 Skyland, North Carolina 28776 United States
+
+
+
+Delivered By Infusionsoft
+https://crm.infusionsoft.com/go/infs/footer_qn261/text
+
+
+------=_Part_64621_1550147358.1442145647866
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+Content-Disposition: inline
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title></title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+      body {
+        margin: 0;
+        mso-line-height-rule: exactly;
+        padding: 0;
+        min-width: 100%;
+      }
+      table {
+        border-collapse: collapse;
+        border-spacing: 0;
+      }
+      td {
+        padding: 0;
+        vertical-align: top;
+      }
+      .spacer,
+      .border {
+        font-size: 1px;
+        line-height: 1px;
+      }
+      .spacer {
+        width: 100%;
+      }
+      img {
+        border: 0;
+        -ms-interpolation-mode: bicubic;
+      }
+      .image {
+        font-size: 12px;
+        Margin-bottom: 24px;
+        mso-line-height-rule: at-least;
+      }
+      .image img {
+        display: block;
+      }
+      .logo {
+        mso-line-height-rule: at-least;
+      }
+      .logo img {
+        display: block;
+      }
+      strong {
+        font-weight: bold;
+      }
+      h1,
+      h2,
+      h3,
+      p,
+      ol,
+      ul,
+      li {
+        Margin-top: 0;
+      }
+      ol,
+      ul,
+      li {
+        padding-left: 0;
+      }
+      blockquote {
+        Margin-top: 0;
+        Margin-right: 0;
+        Margin-bottom: 0;
+        padding-right: 0;
+      }
+      .column-top {
+        font-size: 32px;
+        line-height: 32px;
+      }
+      .column-bottom {
+        font-size: 8px;
+        line-height: 8px;
+      }
+      .column {
+        text-align: left;
+      }
+      .contents {
+        table-layout: fixed;
+        width: 100%;
+      }
+      .padded {
+        padding-left: 32px;
+        padding-right: 32px;
+        word-break: break-word;
+        word-wrap: break-word;
+      }
+      .wrapper {
+        display: table;
+        table-layout: fixed;
+        width: 100%;
+        min-width: 620px;
+        -webkit-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+      }
+      table.wrapper {
+        table-layout: fixed;
+      }
+      .one-col,
+      .two-col,
+      .three-col {
+        Margin-left: auto;
+        Margin-right: auto;
+        width: 600px;
+      }
+      .centered {
+        Margin-left: auto;
+        Margin-right: auto;
+      }
+      .two-col .image {
+        Margin-bottom: 23px;
+      }
+      .two-col .column-bottom {
+        font-size: 9px;
+        line-height: 9px;
+      }
+      .two-col .column {
+        width: 300px;
+      }
+      .three-col .image {
+        Margin-bottom: 21px;
+      }
+      .three-col .column-bottom {
+        font-size: 11px;
+        line-height: 11px;
+      }
+      .three-col .column {
+        width: 200px;
+      }
+      .three-col .first .padded {
+        padding-left: 32px;
+        padding-right: 16px;
+      }
+      .three-col .second .padded {
+        padding-left: 24px;
+        padding-right: 24px;
+      }
+      .three-col .third .padded {
+        padding-left: 16px;
+        padding-right: 32px;
+      }
+      @media only screen and (min-width: 0) {
+        .wrapper {
+          text-rendering: optimizeLegibility;
+      }
+      }
+      @media only screen and (max-width: 620px) {
+        [class=wrapper] {
+          min-width: 318px !important;
+        width: 100% !important;
+      }
+      [class=wrapper] .one-col,
+      [class=wrapper] .two-col,
+      [class=wrapper] .three-col {
+        width: 318px !important;
+      }
+      [class=wrapper] .column,
+      [class=wrapper] .gutter {
+        display: block;
+        float: left;
+        width: 318px !important;
+      }
+      [class=wrapper] .padded {
+        padding-left: 32px !important;
+        padding-right: 32px !important;
+      }
+      [class=wrapper] .block {
+        display: block !important;
+      }
+      [class=wrapper] .hide {
+        display: none !important;
+      }
+      [class=wrapper] .image {
+        margin-bottom: 24px !important;
+      }
+      [class=wrapper] .image img {
+        height: auto !important;
+        width: 100% !important;
+      }
+      }
+      .wrapper h1 {
+        font-weight: 700;
+      }
+      .wrapper h2 {
+        font-style: italic;
+        font-weight: normal;
+      }
+      .wrapper h3 {
+        font-weight: normal;
+      }
+      .one-col blockquote,
+      .two-col blockquote,
+      .three-col blockquote {
+        font-style: italic;
+      }
+      .one-col-feature h1 {
+        font-weight: normal;
+      }
+      .one-col-feature h2 {
+        font-style: normal;
+        font-weight: bold;
+      }
+      .one-col-feature h3 {
+        font-style: italic;
+      }
+      td.border {
+        width: 1px;
+      }
+      tr.border {
+        background-color: #e9e9e9;
+        height: 1px;
+      }
+      tr.border td {
+        line-height: 1px;
+      }
+      .one-col,
+      .two-col,
+      .three-col,
+      .one-col-feature {
+        background-color: #ffffff;
+        font-size: 14px;
+        table-layout: fixed;
+      }
+      .one-col,
+      .two-col,
+      .three-col,
+      .one-col-feature,
+      .preheader,
+      .header,
+      .footer {
+        Margin-left: auto;
+        Margin-right: auto;
+      }
+      .preheader table {
+        width: 602px;
+      }
+      .preheader .title,
+      .preheader .webversion {
+        padding-top: 10px;
+        padding-bottom: 12px;
+        font-size: 12px;
+        line-height: 21px;
+      }
+      .preheader .title {
+        text-align: left;
+      }
+      .preheader .webversion {
+        text-align: right;
+        width: 300px;
+      }
+      .header {
+        width: 602px;
+      }
+      .header .logo {
+        padding: 32px 0;
+      }
+      .header .logo div {
+        font-size: 26px;
+        font-weight: 700;
+        letter-spacing: -0.02em;
+        line-height: 32px;
+      }
+      .header .logo div a {
+        text-decoration: none;
+      }
+      .header .logo div.logo-center {
+        text-align: center;
+      }
+      .header .logo div.logo-center img {
+        Margin-left: auto;
+        Margin-right: auto;
+      }
+      .gmail {
+        width: 650px;
+        min-width: 650px;
+      }
+      .gmail td {
+        font-size: 1px;
+        line-height: 1px;
+      }
+      .wrapper a {
+        text-decoration: underline;
+        transition: all .2s;
+      }
+      .wrapper h1 {
+        font-size: 36px;
+        Margin-bottom: 18px;
+      }
+      .wrapper h2 {
+        font-size: 26px;
+        line-height: 32px;
+        Margin-bottom: 20px;
+      }
+      .wrapper h3 {
+        font-size: 18px;
+        line-height: 22px;
+        Margin-bottom: 16px;
+      }
+      .wrapper h1 a,
+      .wrapper h2 a,
+      .wrapper h3 a {
+        text-decoration: none;
+      }
+      .one-col blockquote,
+      .two-col blockquote,
+      .three-col blockquote {
+        font-size: 14px;
+        border-left: 2px solid #e9e9e9;
+        Margin-left: 0;
+        padding-left: 16px;
+      }
+      table.divider {
+        width: 100%;
+      }
+      .divider .inner {
+        padding-bottom: 24px;
+      }
+      .divider table {
+        background-color: #e9e9e9;
+        font-size: 2px;
+        line-height: 2px;
+        width: 60px;
+      }
+      .wrapper .gray {
+        background-color: #f7f7f7;
+      }
+      .wrapper .gray blockquote {
+        border-left-color: #dddddd;
+      }
+      .wrapper .gray .divider table {
+        background-color: #dddddd;
+      }
+      .padded .image {
+        font-size: 0;
+      }
+      .image-frame {
+        padding: 8px;
+      }
+      .image-background {
+        display: inline-block;
+        font-size: 12px;
+      }
+      .btn {
+        Margin-bottom: 24px;
+        padding: 2px;
+      }
+      .btn a {
+        border: 1px solid #ffffff;
+        display: inline-block;
+        font-size: 13px;
+        font-weight: bold;
+        line-height: 15px;
+        outline-style: solid;
+        outline-width: 2px;
+        padding: 10px 30px;
+        text-align: center;
+        text-decoration: none !important;
+      }
+      .one-col .column table:nth-last-child(2) td h1:last-child,
+      .one-col .column table:nth-last-child(2) td h2:last-child,
+      .one-col .column table:nth-last-child(2) td h3:last-child,
+      .one-col .column table:nth-last-child(2) td p:last-child,
+      .one-col .column table:nth-last-child(2) td ol:last-child,
+      .one-col .column table:nth-last-child(2) td ul:last-child {
+        Margin-bottom: 24px;
+      }
+      .one-col p,
+      .one-col ol,
+      .one-col ul {
+        font-size: 16px;
+        line-height: 24px;
+      }
+      .one-col ol,
+      .one-col ul {
+        Margin-left: 18px;
+      }
+      .two-col .column table:nth-last-child(2) td h1:last-child,
+      .two-col .column table:nth-last-child(2) td h2:last-child,
+      .two-col .column table:nth-last-child(2) td h3:last-child,
+      .two-col .column table:nth-last-child(2) td p:last-child,
+      .two-col .column table:nth-last-child(2) td ol:last-child,
+      .two-col .column table:nth-last-child(2) td ul:last-child {
+        Margin-bottom: 23px;
+      }
+      .two-col .image-frame {
+        padding: 6px;
+      }
+      .two-col h1 {
+        font-size: 26px;
+        line-height: 32px;
+        Margin-bottom: 16px;
+      }
+      .two-col h2 {
+        font-size: 20px;
+        line-height: 26px;
+        Margin-bottom: 18px;
+      }
+      .two-col h3 {
+        font-size: 16px;
+        line-height: 20px;
+        Margin-bottom: 14px;
+      }
+      .two-col p,
+      .two-col ol,
+      .two-col ul {
+        font-size: 14px;
+        line-height: 23px;
+      }
+      .two-col ol,
+      .two-col ul {
+        Margin-left: 16px;
+      }
+      .two-col li {
+        padding-left: 5px;
+      }
+      .two-col .divider .inner {
+        padding-bottom: 23px;
+      }
+      .two-col .btn {
+        Margin-bottom: 23px;
+      }
+      .two-col blockquote {
+        padding-left: 16px;
+      }
+      .three-col .column table:nth-last-child(2) td h1:last-child,
+      .three-col .column table:nth-last-child(2) td h2:last-child,
+      .three-col .column table:nth-last-child(2) td h3:last-child,
+      .three-col .column table:nth-last-child(2) td p:last-child,
+      .three-col .column table:nth-last-child(2) td ol:last-child,
+      .three-col .column table:nth-last-child(2) td ul:last-child {
+        Margin-bottom: 21px;
+      }
+      .three-col .image-frame {
+        padding: 4px;
+      }
+      .three-col h1 {
+        font-size: 20px;
+        line-height: 26px;
+        Margin-bottom: 12px;
+      }
+      .three-col h2 {
+        font-size: 16px;
+        line-height: 22px;
+        Margin-bottom: 14px;
+      }
+      .three-col h3 {
+        font-size: 14px;
+        line-height: 18px;
+        Margin-bottom: 10px;
+      }
+      .three-col p,
+      .three-col ol,
+      .three-col ul {
+        font-size: 12px;
+        line-height: 21px;
+      }
+      .three-col ol,
+      .three-col ul {
+        Margin-left: 14px;
+      }
+      .three-col li {
+        padding-left: 6px;
+      }
+      .three-col .divider .inner {
+        padding-bottom: 21px;
+      }
+      .three-col .btn {
+        Margin-bottom: 21px;
+      }
+      .three-col .btn a {
+        font-size: 12px;
+        line-height: 14px;
+        padding: 8px 19px;
+      }
+      .three-col blockquote {
+        padding-left: 16px;
+      }
+      .one-col-feature .column-top {
+        font-size: 36px;
+        line-height: 36px;
+      }
+      .one-col-feature .column-bottom {
+        font-size: 4px;
+        line-height: 4px;
+      }
+      .one-col-feature .column {
+        text-align: center;
+        width: 600px;
+      }
+      .one-col-feature .image {
+        Margin-bottom: 32px;
+      }
+      .one-col-feature .column table:nth-last-child(2) td h1:last-child,
+      .one-col-feature .column table:nth-last-child(2) td h2:last-child,
+      .one-col-feature .column table:nth-last-child(2) td h3:last-child,
+      .one-col-feature .column table:nth-last-child(2) td p:last-child,
+      .one-col-feature .column table:nth-last-child(2) td ol:last-child,
+      .one-col-feature .column table:nth-last-child(2) td ul:last-child {
+        Margin-bottom: 32px;
+      }
+      .one-col-feature h1,
+      .one-col-feature h2,
+      .one-col-feature h3 {
+        text-align: center;
+      }
+      .one-col-feature h1 {
+        font-size: 52px;
+        Margin-bottom: 22px;
+      }
+      .one-col-feature h2 {
+        font-size: 42px;
+        Margin-bottom: 20px;
+      }
+      .one-col-feature h3 {
+        font-size: 32px;
+        line-height: 42px;
+        Margin-bottom: 20px;
+      }
+      .one-col-feature p,
+      .one-col-feature ol,
+      .one-col-feature ul {
+        font-size: 21px;
+        line-height: 32px;
+        Margin-bottom: 32px;
+      }
+      .one-col-feature p a,
+      .one-col-feature ol a,
+      .one-col-feature ul a {
+        text-decoration: none;
+      }
+      .one-col-feature p {
+        text-align: center;
+      }
+      .one-col-feature ol,
+      .one-col-feature ul {
+        Margin-left: 40px;
+        text-align: left;
+      }
+      .one-col-feature li {
+        padding-left: 3px;
+      }
+      .one-col-feature .btn {
+        Margin-bottom: 32px;
+        text-align: center;
+      }
+      .one-col-feature .divider .inner {
+        padding-bottom: 32px;
+      }
+      .one-col-feature blockquote {
+        border-bottom: 2px solid #e9e9e9;
+        border-left-color: #ffffff;
+        border-left-width: 0;
+        border-left-style: none;
+        border-top: 2px solid #e9e9e9;
+        Margin-bottom: 32px;
+        Margin-left: 0;
+        padding-bottom: 42px;
+        padding-left: 0;
+        padding-top: 42px;
+        position: relative;
+      }
+      .one-col-feature blockquote:before,
+      .one-col-feature blockquote:after {
+        background: -moz-linear-gradient(left, #ffffff 25%, #e9e9e9 25%,
+          #e9e9e9 75%,
+          #ffffff 75%);
+        background: -webkit-gradient(linear, left top, right top,
+          color-stop(25%,
+          #ffffff), color-stop(25%, #e9e9e9), color-stop(75%, #e9e9e9),
+          color-stop(75%,
+          #ffffff));
+        background: -webkit-linear-gradient(left, #ffffff 25%, #e9e9e9 25%,
+          #e9e9e9
+          75%, #ffffff 75%);
+        background: -o-linear-gradient(left, #ffffff 25%, #e9e9e9 25%, #e9e9e9
+          75%,
+          #ffffff 75%);
+        background: -ms-linear-gradient(left, #ffffff 25%, #e9e9e9 25%, #e9e9e9
+          75%,
+          #ffffff 75%);
+        background: linear-gradient(to right, #ffffff 25%, #e9e9e9 25%, #e9e9e9
+          75%,
+          #ffffff 75%);
+        content: '';
+        display: block;
+        height: 2px;
+        left: 0;
+        outline: 1px solid #ffffff;
+        position: absolute;
+        right: 0;
+      }
+      .one-col-feature blockquote:before {
+        top: -2px;
+      }
+      .one-col-feature blockquote:after {
+        bottom: -2px;
+      }
+      .one-col-feature blockquote p,
+      .one-col-feature blockquote ol,
+      .one-col-feature blockquote ul {
+        font-size: 42px;
+        line-height: 48px;
+        Margin-bottom: 48px;
+      }
+      .one-col-feature blockquote p:last-child,
+      .one-col-feature blockquote ol:last-child,
+      .one-col-feature blockquote ul:last-child {
+        Margin-bottom: 0 !important;
+      }
+      .footer {
+        width: 602px;
+      }
+      .footer .padded {
+        font-size: 12px;
+        line-height: 20px;
+      }
+      .social {
+        padding-top: 32px;
+        padding-bottom: 22px;
+      }
+      .social img {
+        display: block;
+      }
+      .social .divider {
+        font-family: sans-serif;
+        font-size: 10px;
+        line-height: 21px;
+        text-align: center;
+        padding-left: 14px;
+        padding-right: 14px;
+      }
+      .social .social-text {
+        height: 21px;
+        vertical-align: middle !important;
+        font-size: 10px;
+        font-weight: bold;
+        text-decoration: none;
+        text-transform: uppercase;
+      }
+      .social .social-text a {
+        text-decoration: none;
+      }
+      .address {
+        width: 250px;
+      }
+      .address .padded {
+        text-align: left;
+        padding-left: 0;
+        padding-right: 10px;
+      }
+      .subscription {
+        width: 350px;
+      }
+      .subscription .padded {
+        text-align: right;
+        padding-right: 0;
+        padding-left: 10px;
+      }
+      .address,
+      .subscription {
+        padding-top: 32px;
+        padding-bottom: 64px;
+      }
+      .address a,
+      .subscription a {
+        font-weight: bold;
+        text-decoration: none;
+      }
+      .address table,
+      .subscription table {
+        width: 100%;
+      }
+      @media only screen and (max-width: 651px) {
+        .gmail {
+          display: none !important;
+      }
+      }
+      @media only screen and (max-width: 620px) {
+        [class=wrapper] .one-col .column:last-child table:nth-last-child(2) td
+          h1:last-child,
+          [class=wrapper] .two-col .column:last-child table:nth-last-child(2) td
+          h1:last-child,
+          [class=wrapper] .three-col .column:last-child table:nth-last-child(2)
+          td
+          h1:last-child,
+          [class=wrapper] .one-col-feature .column:last-child
+          table:nth-last-child(2)
+          td h1:last-child,
+          [class=wrapper] .one-col .column:last-child table:nth-last-child(2) td
+          h2:last-child,
+          [class=wrapper] .two-col .column:last-child table:nth-last-child(2) td
+          h2:last-child,
+          [class=wrapper] .three-col .column:last-child table:nth-last-child(2)
+          td
+          h2:last-child,
+          [class=wrapper] .one-col-feature .column:last-child
+          table:nth-last-child(2)
+          td h2:last-child,
+          [class=wrapper] .one-col .column:last-child table:nth-last-child(2) td
+          h3:last-child,
+          [class=wrapper] .two-col .column:last-child table:nth-last-child(2) td
+          h3:last-child,
+          [class=wrapper] .three-col .column:last-child table:nth-last-child(2)
+          td
+          h3:last-child,
+          [class=wrapper] .one-col-feature .column:last-child
+          table:nth-last-child(2)
+          td h3:last-child,
+          [class=wrapper] .one-col .column:last-child table:nth-last-child(2) td
+          p:last-child,
+          [class=wrapper] .two-col .column:last-child table:nth-last-child(2) td
+          p:last-child,
+          [class=wrapper] .three-col .column:last-child table:nth-last-child(2)
+          td
+          p:last-child,
+          [class=wrapper] .one-col-feature .column:last-child
+          table:nth-last-child(2)
+          td p:last-child,
+          [class=wrapper] .one-col .column:last-child table:nth-last-child(2) td
+          ol:last-child,
+          [class=wrapper] .two-col .column:last-child table:nth-last-child(2) td
+          ol:last-child,
+          [class=wrapper] .three-col .column:last-child table:nth-last-child(2)
+          td
+          ol:last-child,
+          [class=wrapper] .one-col-feature .column:last-child
+          table:nth-last-child(2)
+          td ol:last-child,
+          [class=wrapper] .one-col .column:last-child table:nth-last-child(2) td
+          ul:last-child,
+          [class=wrapper] .two-col .column:last-child table:nth-last-child(2) td
+          ul:last-child,
+          [class=wrapper] .three-col .column:last-child table:nth-last-child(2)
+          td
+          ul:last-child,
+          [class=wrapper] .one-col-feature .column:last-child
+          table:nth-last-child(2)
+          td ul:last-child {
+          Margin-bottom: 24px !important;
+      }
+      [class=wrapper] .address,
+      [class=wrapper] .subscription {
+        display: block;
+        float: left;
+        width: 318px !important;
+        text-align: center !important;
+      }
+      [class=wrapper] .address {
+        padding-bottom: 0 !important;
+      }
+      [class=wrapper] .subscription {
+        padding-top: 0 !important;
+      }
+      [class=wrapper] h1 {
+        font-size: 36px !important;
+        line-height: 42px !important;
+        Margin-bottom: 18px !important;
+      }
+      [class=wrapper] h2 {
+        font-size: 26px !important;
+        line-height: 32px !important;
+        Margin-bottom: 20px !important;
+      }
+      [class=wrapper] h3 {
+        font-size: 18px !important;
+        line-height: 22px !important;
+        Margin-bottom: 16px !important;
+      }
+      [class=wrapper] p,
+      [class=wrapper] ol,
+      [class=wrapper] ul {
+        font-size: 16px !important;
+        line-height: 24px !important;
+        Margin-bottom: 24px !important;
+      }
+      [class=wrapper] ol,
+      [class=wrapper] ul {
+        Margin-left: 18px !important;
+      }
+      [class=wrapper] li {
+        padding-left: 2px !important;
+      }
+      [class=wrapper] blockquote {
+        padding-left: 16px !important;
+      }
+      [class=wrapper] .two-col .column:nth-child(n + 3) {
+        border-top: 1px solid #e9e9e9;
+      }
+      [class=wrapper] .btn {
+        margin-bottom: 24px !important;
+      }
+      [class=wrapper] .btn a {
+        display: block !important;
+        font-size: 13px !important;
+        font-weight: bold !important;
+        line-height: 15px !important;
+        padding: 10px 30px !important;
+      }
+      [class=wrapper] .column-bottom {
+        font-size: 8px !important;
+        line-height: 8px !important;
+      }
+      [class=wrapper] .first .column-bottom,
+      [class=wrapper] .three-col .second .column-bottom {
+        display: none;
+      }
+      [class=wrapper] .second .column-top,
+      [class=wrapper] .third .column-top {
+        display: none;
+      }
+      [class=wrapper] .image-frame {
+        padding: 4px !important;
+      }
+      [class=wrapper] .header .logo {
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+      }
+      [class=wrapper] .header .logo div {
+        font-size: 26px !important;
+        line-height: 32px !important;
+      }
+      [class=wrapper] .header .logo div img {
+        display: inline-block !important;
+        max-width: 280px !important;
+        height: auto !important;
+      }
+      [class=wrapper] table.border,
+      [class=wrapper] .header,
+      [class=wrapper] .webversion,
+      [class=wrapper] .footer {
+        width: 320px !important;
+      }
+      [class=wrapper] .preheader .webversion,
+      [class=wrapper] .header .logo a {
+        text-align: center !important;
+      }
+      [class=wrapper] .preheader table,
+      [class=wrapper] .border td {
+        width: 318px !important;
+      }
+      [class=wrapper] .border td.border {
+        width: 1px !important;
+      }
+      [class=wrapper] .image .border td {
+        width: auto !important;
+      }
+      [class=wrapper] .title {
+        display: none;
+      }
+      [class=wrapper] .footer .padded {
+        text-align: center !important;
+      }
+      [class=wrapper] .footer .subscription .padded {
+        padding-top: 20px !important;
+      }
+      [class=wrapper] .footer .social-link {
+        display: block !important;
+      }
+      [class=wrapper] .footer .social-link table {
+        margin: 0 auto 10px !important;
+      }
+      [class=wrapper] .footer .divider {
+        display: none !important;
+      }
+      [class=wrapper] .one-col-feature .btn {
+        margin-bottom: 28px !important;
+      }
+      [class=wrapper] .one-col-feature .image {
+        margin-bottom: 28px !important;
+      }
+      [class=wrapper] .one-col-feature .divider .inner {
+        padding-bottom: 28px !important;
+      }
+      [class=wrapper] .one-col-feature h1 {
+        font-size: 42px !important;
+        line-height: 48px !important;
+        margin-bottom: 20px !important;
+      }
+      [class=wrapper] .one-col-feature h2 {
+        font-size: 32px !important;
+        line-height: 36px !important;
+        margin-bottom: 18px !important;
+      }
+      [class=wrapper] .one-col-feature h3 {
+        font-size: 26px !important;
+        line-height: 32px !important;
+        margin-bottom: 20px !important;
+      }
+      [class=wrapper] .one-col-feature p,
+      [class=wrapper] .one-col-feature ol,
+      [class=wrapper] .one-col-feature ul {
+        font-size: 20px !important;
+        line-height: 28px !important;
+        margin-bottom: 28px !important;
+      }
+      [class=wrapper] .one-col-feature blockquote {
+        font-size: 18px !important;
+        line-height: 26px !important;
+        margin-bottom: 28px !important;
+        padding-bottom: 26px !important;
+        padding-left: 0 !important;
+        padding-top: 26px !important;
+      }
+      [class=wrapper] .one-col-feature blockquote p,
+      [class=wrapper] .one-col-feature blockquote ol,
+      [class=wrapper] .one-col-feature blockquote ul {
+        font-size: 26px !important;
+        line-height: 32px !important;
+      }
+      [class=wrapper] .one-col-feature blockquote p:last-child,
+      [class=wrapper] .one-col-feature blockquote ol:last-child,
+      [class=wrapper] .one-col-feature blockquote ul:last-child {
+        margin-bottom: 0 !important;
+      }
+      [class=wrapper] .one-col-feature .column table:last-of-type h1:last-child,
+      [class=wrapper] .one-col-feature .column table:last-of-type h2:last-child,
+      [class=wrapper] .one-col-feature .column table:last-of-type h3:last-child
+      {
+        margin-bottom: 28px !important;
+      }
+      }
+      @media only screen and (max-width: 320px) {
+        [class=wrapper] td.border {
+          display: none;
+      }
+      [class=wrapper] table.border,
+      [class=wrapper] .header,
+      [class=wrapper] .webversion,
+      [class=wrapper] .footer {
+        width: 318px !important;
+      }
+      }
+</style>
+<meta name="robots" content="noindex,nofollow" />
+<meta property="og:title" content="My First Campaign" />
+<style type="text/css">
+body,.wrapper,.emb-editor-canvas{background-color:#fbfbfb}.border{background-color:#e9e9e9}h1{color:#565656}.wrapper h1{}.wrapper h1{font-family:sans-serif}@media only screen and (min-width:
+      0){.wrapper h1{font-family:Avenir,sans-serif !important}}h1{}.one-col
+      h1{line-height:42px}.two-col h1{line-height:32px}.three-col
+      h1{line-height:26px}.wrapper .one-col-feature h1{line-height:58px}@media
+      only
+      screen and (max-width: 620px){h1{line-height:42px
+          !important}}h2{color:#555}.wrapper h2{}.wrapper
+      h2{font-family:sans-serif}@media only screen and (min-width: 0){.wrapper
+          h2{font-family:Avenir,sans-serif !important}}h2{}.one-col
+      h2{line-height:32px}.two-col h2{line-height:26px}.three-col
+      h2{line-height:22px}.wrapper .one-col-feature h2{line-height:48px}@media
+      only
+      screen and (max-width: 620px){h2{line-height:32px
+          !important}}h3{color:#555}.wrapper h3{}.wrapper 
+      h3{font-family:Georgia,serif}h3{}.one-col h3{line-height:26px}.two-col
+      h3{line-height:22px}.three-col h3{line-height:20px}.wrapper
+      .one-col-feature
+      h3{line-height:42px}@media only screen and (max-width:
+      620px){h3{line-height:26px !important}}p,ol,ul{color:#565656}.wrapper
+      p,.wrapper ol,.wrapper ul{}.wrapper p,.wrapper ol,.wrapper
+      ul{font-family:Georgia,serif}p,ol,ul{}.one-col p,.one-col ol,.one-col
+      ul{line-height:25px;Margin-bottom:25px}.two-col p,.two-col ol,.two-col
+      ul{line-height:23px;Margin-bottom:23px}.three-col p,.three-col
+      ol,.three-col
+      ul{line-height:21px;Margin-bottom:21px}.wrapper .one-col-feature
+      p,.wrapper
+      .one-col-feature ol,.wrapper .one-col-feature
+      ul{line-height:32px}.one-col-feature blockquote p,.one-col-feature
+      blockquote
+      ol,.one-col-feature blockquote ul{line-height:50px}@media only screen and
+      (max-width: 620px){p,ol,ul{line-height:25px !important;Margin-bottom:25px 
+!important}}.image{color:#565656}.image{font-family:Georgia,serif}.wrapper
+      a{color:#41637e}.wrapper a:hover{color:#30495c !important}.wrapper .logo
+      div{color:#41637e}.wrapper .logo div{font-family:sans-serif}@media only
+      screen
+      and (min-width: 0){.wrapper .logo div{font-family:Avenir,sans-serif
+          !important}}.wrapper .logo div a{color:#41637e}.wrapper .logo div
+      a:hover{color:#41637e !important}.wrapper .one-col-feature p a,.wrapper
+      .one-col-feature ol a,.wrapper .one-col-feature ul a{border-bottom:1px
+          solid
+          #41637e}.wrapper .one-col-feature p a:hover,.wrapper .one-col-feature
+      ol
+      a:hover,.wrapper .one-col-feature ul a:hover{color:#30495c
+          !important;border-bottom:1px solid #30495c !important}.btn
+      a{}.wrapper .btn
+      a{}.wrapper .btn a{font-family:Georgia,serif}.wrapper .btn
+      a{background-color:#41637e;color:#fff
+          !important;outline-color:#41637e;text-shadow:0 1px 0 #3b5971}.wrapper
+      .btn 
+      a:hover{background-color:#3b5971 !important;color:#fff
+          !important;outline-color:#3b5971 !important}.preheader
+      .title,.preheader
+      .webversion,.footer .padded{color:#999}.preheader .title,.preheader
+      .webversion,.footer .padded{font-family:Georgia,serif}.preheader .title
+      a,.preheader .webversion a,.footer .padded a{color:#999}.preheader .title
+      a:hover,.preheader .webversion a:hover,.footer .padded
+      a:hover{color:#737373
+          !important}.footer .social .divider{color:#e9e9e9}.footer .social
+      .social-text,.footer .social a{color:#999}.wrapper .footer .social
+      .social-text,.wrapper .footer .social a{}.wrapper .footer .social
+      .social-text,.wrapper .footer .social a{font-family:Georgia,serif}.footer
+      .social .social-text,.footer .social a{}.footer .social
+      .social-text,.footer
+      .social a{letter-spacing:0.05em}.footer .social .social-text:hover,.footer
+      .social a:hover{color:#737373 !important}.image 
+.border{background-color:#c8c8c8}.image-frame{background-color:#dadada}.image-background{background-color:#f7f7f7}
+</style>
+</head><body style="margin: 0;mso-line-height-rule: exactly;padding: 0;min-width:
+  100%;background-color: #fbfbfb">
+  <center class="wrapper" style="display: table;table-layout: fixed;width:
+  100%;min-width: 620px;-webkit-text-size-adjust: 100%;-ms-text-size-adjust:
+  100%;background-color: #fbfbfb">
+<table class="gmail" style="border-collapse: collapse;border-spacing: 0;width:
+    650px;min-width: 650px">
+<tbody>
+<tr>
+<td style="padding: 0;vertical-align: top;font-size: 1px;line-height: 1px">
+            &nbsp;
+</td>
+</tr>
+</tbody>
+</table>
+<table class="preheader centered" style="border-collapse:
+      collapse;border-spacing: 0;Margin-left: auto;Margin-right: auto">
+<tbody>
+<tr>
+<td style="padding: 0;vertical-align: top">
+<table style="border-collapse: collapse;border-spacing: 0;width: 602px">
+<tbody>
+<tr>
+<td class="webversion" style="padding: 0;vertical-align: top;padding-top:
+                    10px;padding-bottom: 12px;font-size: 12px;line-height:
+                    21px;text-align:
+                    right;width: 300px;color: #999;font-family: Georgia,serif">
+                      <webversion style="font-weight:bold;text-decoration:none;"></webversion>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="border" style="border-collapse: collapse;border-spacing:
+        0;font-size: 1px;line-height: 1px;background-color:
+        #e9e9e9;Margin-left:
+        auto;Margin-right: auto" width="602">
+<tbody>
+<tr>
+<td style="padding: 0;vertical-align: top">
+                &#8203;
+</td>
+</tr>
+</tbody>
+</table>
+<table class="centered" style="border-collapse: collapse;border-spacing:
+          0;Margin-left: auto;Margin-right: auto">
+<tbody>
+<tr>
+<td class="border" style="padding: 0;vertical-align: top;font-size:
+                1px;line-height: 1px;background-color:
+                #e9e9e9;width: 1px">
+                  &#8203;
+</td><td style="padding: 0;vertical-align: top">
+<table class="one-col" style="border-collapse: collapse;border-spacing:
+                0;Margin-left: auto;Margin-right: auto;width:
+                600px;background-color:
+                #ffffff;font-size: 14px;table-layout: fixed">
+<tbody>
+<tr>
+<td class="column" style="padding: 0;vertical-align: top;text-align: left">
+                        <div>
+                          <div class="column-top" style="font-size:
+                          32px;line-height: 32px">
+                            &nbsp;
+</div>
+</div>
+<table class="contents" style="border-collapse: collapse;border-spacing:
+                        0;table-layout: fixed;width: 100%">
+<tbody>
+<tr>
+<td class="padded" style="padding: 0;vertical-align: top;padding-left:
+                              32px;padding-right:
+                              32px;word-break: break-word;word-wrap:
+                              break-word">
+                                <h1 style="Margin-top: 0;color:
+                                #565656;font-weight: 700;font-size:
+                                36px;Margin-bottom: 18px;font-family:
+                                sans-serif;line-height: 42px">
+                                  My best advice 
+</h1>
+                                <p style="Margin-top: 0;color:
+                                #565656;font-family: Georgia,serif;font-size:
+                                16px;line-height:
+                                25px;Margin-bottom: 25px">
+                                  I want to teach you <font color="#41637e"><u><a href="https://qn261.infusionsoft.com/app/linkClick/4372/802ab917f83d794b/835670/4f04801e25d3a012" class="">everything I know</a></u></font>. Seriously. 
+</p>
+                                <p style="Margin-top: 0;color:
+                                #565656;font-family: Georgia,serif;font-size:
+                                16px;line-height:
+                                25px;Margin-bottom: 25px">
+                                  I want you to be able to make training
+                                  decisions, write your own programs, and
+                                  analyze the research about what works
+                                  and what&#8217;s bullshit. 
+</p>
+                                <p style="Margin-top: 0;color:
+                                #565656;font-family: Georgia,serif;font-size:
+                                16px;line-height:
+                                25px;Margin-bottom: 25px">
+                                  That knowledge didn&#8217;t come overnight
+                                  for me, but I want to save you
+                                  the time,
+                                  money, and hassle of going it alone. 
+</p>
+                                <p style="Margin-top: 0;color:
+                                #565656;font-family: Georgia,serif;font-size:
+                                16px;line-height:
+                                25px;Margin-bottom: 25px">
+                                  That&#8217;s why I (along with my co-author
+Omar Isuf) wrote the <a href="https://qn261.infusionsoft.com/app/linkClick/4374/dc2bf7fe82bfd5e7/835670/4f04801e25d3a012" class=""><em>Art and Science of Lifting</em> ebook bundle</a>.
+                                  You
+                                  get two ebooks, with 200+ pages and 50+
+                                  infographics, written for someone
+                                  just like you. 
+</p>
+                                  <p style="Margin-top: 0;color:
+                                  #565656;font-family:
+                                  Georgia,serif;font-size: 16px;line-height:
+                                  25px;Margin-bottom: 25px">
+                                    <em>The Art of Lifting</em> is
+                                    foundational,
+                                    breaking things down by &#8220;Stuff That
+                                    Matters&#8221; and &#8220;Stuff That
+                                    Doesn&#8217;t Matter&#8221; - the factors
+                                    that are MOST important for progress,
+                                    and those that aren&#8217;t worth your
+                                    time. 
+</p>
+                                    <p style="Margin-top: 0;color:
+                                    #565656;font-family:
+                                    Georgia,serif;font-size: 16px;line-height:
+                                    25px;Margin-bottom: 25px">
+                                      <em>The Science of Lifting</em> dives
+                                      deeper, teaching you the methods
+                                      we use
+                                      to make coaching, nutrition, and
+                                      training decisions for us and our
+                                      clients.
+                                      This will take at least five years off
+                                      your learning curve, and teach you to
+                                      think about training like an expert. 
+</p>
+                                      <p style="Margin-top: 0;color:
+                                      #565656;font-family:
+                                      Georgia,serif;font-size:
+                                      16px;line-height:
+                                      25px;Margin-bottom: 25px">
+                                        <font color="#41637e"><u><a href="https://qn261.infusionsoft.com/app/linkClick/4376/6caeb7535b881b89/835670/4f04801e25d3a012" class="">It&#8217;s time for you to take control of your own
+                                          training. Let&#8217;s
+                                          go.</a></u></font> 
+</p>
+                                        <p style="Margin-top: 0;color:
+                                        #565656;font-family:
+                                        Georgia,serif;font-size:
+                                        16px;line-height:
+                                        25px;Margin-bottom: 25px">
+                                          Talk soon,
+</p>
+                                        <p style="Margin-top: 0;color:
+                                        #565656;font-family:
+                                        Georgia,serif;font-size:
+                                        16px;line-height:
+                                        25px;Margin-bottom: 25px">
+                                          <strong style="font-weight:
+                                          bold">Greg Nuckols</strong><br />
+                                          <em><a href="https://qn261.infusionsoft.com/app/linkClick/4378/b98aaf499124600e/835670/4f04801e25d3a012" class="">The
+                                            Art and Science of
+                                            Lifting</a></em> 
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="contents" style="border-collapse: collapse;border-spacing:
+                                            0;table-layout: fixed;width:
+                                            100%">
+<tbody>
+<tr>
+<td class="padded" style="padding: 0;vertical-align: top;padding-left:
+                                                  32px;padding-right:
+                                                  32px;word-break:
+                                                  break-word;word-wrap:
+                                                  break-word">
+                                                    <div class="btn" style="Margin-bottom:
+                                                    24px;padding:
+                                                    2px;text-align: left">
+                                                      <a style="border: 1px
+                                                      solid
+                                                      #ffffff;display:
+                                                      inline-block;font-size:
+                                                      13px;font-weight:
+                                                      bold;line-height:
+                                                      15px;outline-style:
+                                                      solid;outline-width:
+                                                      2px;padding: 10px
+                                                      30px;text-align:
+                                                      center;text-decoration:
+                                                      none
+                                                      !important;transition:
+                                                      all .2s;color: #fff
+                                                      !important;font-family:
+Georgia,serif;background-color: #41637e;outline-color:
+                                                      #41637e;text-shadow: 0
+                                                      1px 0 #3b5971" href="https://qn261.infusionsoft.com/app/linkClick/4380/c0ceeddf9a935ed9/835670/4f04801e25d3a012" class="">Click
+                                                        to learn more about
+                                                        Art and Science</a>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+                                                      <div class="column-bottom" style="font-size:
+                                                      8px;line-height: 8px">
+                                                        &nbsp;
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td><td class="border" style="padding: 0;vertical-align: top;font-size:
+                                                      1px;line-height:
+                                                      1px;background-color:
+                                                      #e9e9e9;width: 1px">
+                                                      &#8203;
+</td>
+</tr>
+</tbody>
+</table>
+<table class="border" style="border-collapse: collapse;border-spacing:
+                                                      0;font-size:
+                                                      1px;line-height:
+                                                      1px;background-color:
+                                                      #e9e9e9;Margin-left:
+                                                      auto;Margin-right:
+                                                      auto" width="602">
+<tbody>
+<tr>
+<td style="padding: 0;vertical-align: top">
+                                                              &#8203;
+</td>
+</tr>
+</tbody>
+</table>
+                                                        <div class="spacer" style="font-size:
+                                                        1px;line-height:
+                                                        32px;width: 100%">
+                                                          &nbsp;
+</div>
+<table class="footer centered" style="border-collapse: collapse;border-spacing:
+                                                        0;Margin-left:
+                                                        auto;Margin-right:
+                                                        auto;width: 602px">
+<tbody>
+<tr>
+<td class="border" style="padding: 0;vertical-align: top;font-size:
+                                                              1px;line-height:
+1px;background-color:
+                                                              #e9e9e9;width:
+                                                              1px">
+                                                                &nbsp;
+</td>
+</tr>
+<tr>
+<td style="padding: 0;vertical-align: top">
+<table style="border-collapse: collapse;border-spacing: 0">
+<tbody>
+<tr>
+<td class="address" style="padding: 0;vertical-align: top;width:
+250px;padding-top:
+32px;padding-bottom: 64px">
+<table class="contents" style="border-collapse: collapse;border-spacing:
+0;table-layout:
+fixed;width:
+                                                                        100%">
+<tbody>
+<tr>
+<td class="padded" style="padding: 0;vertical-align: top;padding-left:
+0;padding-right:
+10px;word-break:
+break-word;word-wrap:
+break-word;text-align:
+left;font-size:
+12px;line-height:
+20px;color:
+#999;font-family:
+Georgia,serif">
+<div>
+  Strengtheory P.O. Box 1504 Skyland, North Carolina 28776 United States
+  <br />
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td><td class="subscription" style="padding: 0;vertical-align: top;width:
+350px;padding-top:
+32px;padding-bottom:
+64px">
+<table class="contents" style="border-collapse: collapse;border-spacing:
+0;table-layout:
+fixed;width:
+100%">
+<tbody>
+<tr>
+<td class="padded" style="padding: 0;vertical-align: top;padding-left:
+      10px;padding-right:
+      0;word-break:
+      break-word;word-wrap:
+      break-word;font-size:
+      12px;line-height: 20px;color:
+      #999;font-family:
+      Georgia,serif;text-align:
+      right">
+        <span class="block" style=""><unsubscribe style="font-weight:bold;text-decoration:none;"><a href="https://qn261.infusionsoft.com/app/linkClick/4370/719eff96811ef4fd/835670/4f04801e25d3a012" class="">Unsubscribe</a></unsubscribe></span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<img height="1" width="1" style="display: block;" src="https://qn261.infusionsoft.com/app/emailOpened/835670/7274" />
+<br><br><div id="branding" style="text-align:right;display:block"><a href="https://crm.infusionsoft.com/go/infs/footer_qn261/html" target="_blank"><img border="0" src="https://infusionmedia.s3.amazonaws.com/app/template/delivered_white.png"></a></div></body>
+</html>
+------=_Part_64621_1550147358.1442145647866--
+
+----
+
+Return-Path: <bounce-md_30115094.563e878d.v1-56c169139ac247018a5507549cbe6abf@click.dripemail2.org>
+Delivered-To: hristo_b_kirov@abv.bg
+Received: from mail133-6.atl131.mandrillapp.com (mail133-6.atl131.mandrillapp.com [198.2.133.6])
+	by pmx.abv.bg (Postfix) with ESMTP id 5019F1A0045
+	for <hristo_b_kirov@abv.bg>; Sun,  8 Nov 2015 01:21:50 +0200 (EET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mandrill; d=dripemail2.org;
+ h=From:Sender:Subject:Reply-To:To:Message-Id:Date:MIME-Version:Content-Type; i=support@dripemail2.org;
+ bh=Twtu+4HgIv8AtJc/Bvc+6WqyLJo=;
+ b=WtrK5w3BbRLZAvLTEaxuFcuOC9fKjKTCY3QomR1fYcHefpu7tBU3mSQCMuty75F0tlz78NaiKupb
+   zC3p1RCsNw8M9mf2gQ83xWvHrjYtb3Z/h2Bmw+q8pEXODuGQObUczOnQYqiVTn+zj+ThfhI/TDZx
+   c1jiSmayhNi5RNe0Hmg=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mandrill; d=dripemail2.org;
+ b=ap6Ra1hlWccTghbD5RP3K5CY1+YrNJganDK2o+GAM83dUFVS9kAZFY7Rq5TI7Ya6PVS2JZ2uLroq
+   0dxemDSxZNcmvzQEewPsUN9b+wV8DqZUq89NzfT8Y5yP8M04vPYgyDIaige8lUaYzO2giuWLeWQG
+   tCaNER20pSie7FKXyLQ=;
+Received: from pmta02.mandrill.prod.atl01.rsglab.com (127.0.0.1) by mail133-6.atl131.mandrillapp.com id h7q3os1sar8f for <hristo_b_kirov@abv.bg>; Sat, 7 Nov 2015 23:21:49 +0000 (envelope-from <bounce-md_30115094.563e878d.v1-56c169139ac247018a5507549cbe6abf@click.dripemail2.org>)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mandrillapp.com; 
+ i=@mandrillapp.com; q=dns/txt; s=mandrill; t=1446938509; h=From : 
+ Sender : Subject : Reply-To : To : Message-Id : Date : MIME-Version : 
+ Content-Type : From : Subject : Date : X-Mandrill-User : 
+ List-Unsubscribe; bh=0Fa8P+MyCTq/tcMueK/0Qmx4zppac3FK5v8wyauaF8Q=; 
+ b=np/TTL0vLDGDJ0Pr6LXT9oIY0hH3tiz0WFH1xPruysgRlY0JlFMfZeha63YjmmZxFB/i3E
+ vzoF/fYTNNr8beVx3Zs17xcS7i1Ef9eibOAiTS63G6TteINPId4VkDQL//rrjYMHQZwgUEHR
+ fC8dD6sERTnD6gWW0Vldz+OtGz2w4=
+From: Greg Nuckols <support@strengtheory.com>
+Sender: Greg Nuckols <support@dripemail2.org>
+Subject: Did you see this?
+Received: from [54.152.66.89] by mandrillapp.com id 56c169139ac247018a5507549cbe6abf; Sat, 07 Nov 2015 23:21:49 +0000
+Reply-To: <reply-ru9j4c7m4shhmyjf7jwy@in.getdrip.com>
+To: <hristo_b_kirov@abv.bg>
+X-Report-Abuse: Please forward a copy of this message, including all headers, to abuse@mandrill.com
+X-Report-Abuse: You can also report abuse here: http://mandrillapp.com/contact/abuse?id=30115094.56c169139ac247018a5507549cbe6abf
+X-Mandrill-User: md_30115094
+Message-Id: <30115094.20151107232149.563e878db368d0.73102305@mail133-6.atl131.mandrillapp.com>
+Date: Sat, 07 Nov 2015 23:21:49 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="_av-GCxqbZBH5IuKWlzAqvDd5g"
+
+--_av-GCxqbZBH5IuKWlzAqvDd5g
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hi there Chris,
+
+A few days ago, I sent you my 28 training programs, and I wanted
+to check back in and see if you had a chance to decide which
+program (or group of programs) works best for you.
+
+More importantly, I wanted to make sure you saw this: The
+Training Toolkit. ( http://t.dripemail2.org/c/eyJhY2NvdW50X2lkIjoiMTU2Nzg0M=
+yIsImRlbGl2ZXJ5X2lkIjoiNzE5MjQ4MjkiLCJ1cmwiOiJodHRwOi8vd3d3LnN0cmVuZ3RoZW9y=
+eS5jb20vdHJhaW5pbmctdG9vbGtpdC8_dXRtX3NvdXJjZT1kaWQteW91LXNlZS10aGlzXHUwMDI=
+2dXRtX21lZGl1bT1lbWFpbFx1MDAyNnV0bV9jb250ZW50PXBpdGNoJTIwMVx1MDAyNnV0bV9jYW=
+1wYWlnbj10cmFpbmluZyUyMHRvb2xraXRcdTAwMjZfX3M9ejF6bThmbmZ6YnlvaW50aGFyaGkif=
+Q )
+
+If you're really serious about taking control of your training,
+this is the ideal first step.
+
+This bundle includes a customizable training program called
+Average to Savage (to help you get the hang of programming for
+yourself as you're learning). You'll also get a manual that'll
+help you identify and correct weaknesses, as well as two
+incredible spreadsheets designed to help you track every aspect
+of your diet and training.
+
+This is the bridge between your current position and the
+self-sufficiency you need in your training to reach your full
+potential.
+
+And get this: it's only $10. I wanted this to be affordable for
+everyone, so now there are no excuses to take the next step in
+your training and education.
+
+Here=E2=80=99s where you can get it. ---> The Training Toolkit ( http://t.d=
+ripemail2.org/c/eyJhY2NvdW50X2lkIjoiMTU2Nzg0MyIsImRlbGl2ZXJ5X2lkIjoiNzE5MjQ=
+4MjkiLCJ1cmwiOiJodHRwOi8vd3d3LnN0cmVuZ3RoZW9yeS5jb20vdHJhaW5pbmctdG9vbGtpdC=
+8_dXRtX3NvdXJjZT1kaWQteW91LXNlZS10aGlzXHUwMDI2dXRtX21lZGl1bT1lbWFpbFx1MDAyN=
+nV0bV9jb250ZW50PXBpdGNoJTIwMVx1MDAyNnV0bV9jYW1wYWlnbj10cmFpbmluZyUyMHRvb2xr=
+aXRcdTAwMjZfX3M9ejF6bThmbmZ6YnlvaW50aGFyaGkifQ )
+
+Talk soon,
+
+Greg Nuckols
+The Art and Science of Lifting ( http://t.dripemail2.org/c/eyJhY2NvdW50X2lk=
+IjoiMTU2Nzg0MyIsImRlbGl2ZXJ5X2lkIjoiNzE5MjQ4MjkiLCJ1cmwiOiJodHRwOi8vd3d3LnN=
+0cmVuZ3RoZW9yeS5jb20vYXJ0LWFuZC1zY2llbmNlLTI_dXRtX3NvdXJjZT1kaWQteW91LXNlZS=
+10aGlzXHUwMDI2dXRtX21lZGl1bT1lbWFpbFx1MDAyNnV0bV9jb250ZW50PXNpZ25hdHVyZVx1M=
+DAyNnV0bV9jYW1wYWlnbj1hcnQlMjBhbmQlMjBzY2llbmNlXHUwMDI2X19zPXoxem04Zm5memJ5=
+b2ludGhhcmhpIn0 )
+
+---------------------
+To make sure you keep getting these emails, please add
+support@strengtheory.com to your address book or whitelist us. Want out of
+the loop? <a href=3D"http://t.dripemail2.org/c/eyJhY2NvdW50X2lkIjoiMTU2Nzg0=
+MyIsImRlbGl2ZXJ5X2lkIjoiNzE5MjQ4MjkiLCJ1cmwiOiJodHRwczovL3d3dy5nZXRkcmlwLmN=
+vbS9zdWJzY3JpYmVycy96MXptOGZuZnpieW9pbnRoYXJoaS9zdWJzY3JpcHRpb25zP2Q9cnU5aj=
+RjN200c2hobXlqZjdqd3lcdTAwMjZleGNsdWRlX2NsaWNrPTFcdTAwMjZpbnRlbnQ9dW5zdWJzY=
+3JpYmVcdTAwMjZfX3M9ejF6bThmbmZ6YnlvaW50aGFyaGkifQ">Unsubscribe</a>.
+
+Our postal address: P.O. Box 1504, Skyland, NC 28776, United States
+
+--_av-GCxqbZBH5IuKWlzAqvDd5g
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.=
+0">
+</head>
+<body style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; =
+margin: 0; padding: 0; width: 100% !important">
+<style type=3D"text/css">
+body {
+width: 100% !important; -webkit-text-size-adjust: 100%; -ms-text-size-adjus=
+t: 100%; margin: 0; padding: 0;
+}
+.ExternalClass {
+width: 100%;
+}
+.ExternalClass {
+line-height: 100%;
+}
+#backgroundTable {
+margin: 0; padding: 0; width: 600px !important; line-height: 100% !importan=
+t;
+}
+img {
+outline: none; text-decoration: none; -ms-interpolation-mode: bicubic;
+}
+h1 a:active {
+color: red !important;
+}
+h2 a:active {
+color: red !important;
+}
+h3 a:active {
+color: red !important;
+}
+h4 a:active {
+color: red !important;
+}
+h5 a:active {
+color: red !important;
+}
+h6 a:active {
+color: red !important;
+}
+h1 a:visited {
+color: purple !important;
+}
+h2 a:visited {
+color: purple !important;
+}
+h3 a:visited {
+color: purple !important;
+}
+h4 a:visited {
+color: purple !important;
+}
+h5 a:visited {
+color: purple !important;
+}
+h6 a:visited {
+color: purple !important;
+}
+</style>
+<div id=3D"main-content" style=3D"color: #222222; font-family: 'Georgia', '=
+Times New Roman', serif; font-size: 16px; line-height: 1.4; padding: 25px; =
+width: 550px">Hi there=C2=A0<span style=3D"line-height: 1.2">Chris</span>,
+
+<p style=3D"margin: 1em 0">A few days ago, I sent you my 28 training progra=
+ms, and I wanted to check back in and see if you had a chance to decide whi=
+ch program (or group of programs) works best for you.</p>
+
+<p style=3D"margin: 1em 0">More importantly, I wanted to make sure you saw =
+this:=C2=A0<a href=3D"http://t.dripemail2.org/c/eyJhY2NvdW50X2lkIjoiMTU2Nzg=
+0MyIsImRlbGl2ZXJ5X2lkIjoiNzE5MjQ4MjkiLCJ1cmwiOiJodHRwOi8vd3d3LnN0cmVuZ3RoZW=
+9yeS5jb20vdHJhaW5pbmctdG9vbGtpdC8_dXRtX3NvdXJjZT1kaWQteW91LXNlZS10aGlzXHUwM=
+DI2dXRtX21lZGl1bT1lbWFpbFx1MDAyNnV0bV9jb250ZW50PXBpdGNoJTIwMVx1MDAyNnV0bV9j=
+YW1wYWlnbj10cmFpbmluZyUyMHRvb2xraXRcdTAwMjZfX3M9ejF6bThmbmZ6YnlvaW50aGFyaGk=
+ifQ" style=3D"color: blue">The Training Toolkit.</a></p>
+
+<p style=3D"margin: 1em 0">If you're really serious about taking control of=
+ your training, this is the ideal first step.</p>
+
+<p style=3D"margin: 1em 0">This bundle includes a customizable training pro=
+gram called Average to Savage (to help you get the hang of programming for =
+yourself as you're learning). You'll also get a manual that'll help you ide=
+ntify and correct weaknesses, as well as two incredible spreadsheets design=
+ed to help you track every aspect of your diet and training.</p>
+
+<p style=3D"margin: 1em 0"><strong style=3D"font-weight: bold">This is the =
+bridge between your current position and the self-sufficiency you need in y=
+our training to reach your full potential.</strong></p>
+
+<p style=3D"margin: 1em 0">And get this: it's only $10. I wanted this to be=
+ affordable for everyone, so now there are no excuses to take the next step=
+ in your training and education.</p>
+
+<p style=3D"margin: 1em 0">Here=E2=80=99s where you can get it. ---&gt;=C2=
+=A0<a href=3D"http://t.dripemail2.org/c/eyJhY2NvdW50X2lkIjoiMTU2Nzg0MyIsImR=
+lbGl2ZXJ5X2lkIjoiNzE5MjQ4MjkiLCJ1cmwiOiJodHRwOi8vd3d3LnN0cmVuZ3RoZW9yeS5jb2=
+0vdHJhaW5pbmctdG9vbGtpdC8_dXRtX3NvdXJjZT1kaWQteW91LXNlZS10aGlzXHUwMDI2dXRtX=
+21lZGl1bT1lbWFpbFx1MDAyNnV0bV9jb250ZW50PXBpdGNoJTIwMVx1MDAyNnV0bV9jYW1wYWln=
+bj10cmFpbmluZyUyMHRvb2xraXRcdTAwMjZfX3M9ejF6bThmbmZ6YnlvaW50aGFyaGkifQ" sty=
+le=3D"color: blue"><u>The Training Toolkit</u></a></p>
+
+<p style=3D"margin: 1em 0">Talk soon,</p>
+
+<p style=3D"margin: 1em 0"><strong style=3D"font-weight: bold">Greg Nuckols=
+</strong><br><span style=3D"font-style: italic"><a href=3D"http://t.dripema=
+il2.org/c/eyJhY2NvdW50X2lkIjoiMTU2Nzg0MyIsImRlbGl2ZXJ5X2lkIjoiNzE5MjQ4MjkiL=
+CJ1cmwiOiJodHRwOi8vd3d3LnN0cmVuZ3RoZW9yeS5jb20vYXJ0LWFuZC1zY2llbmNlLTI_dXRt=
+X3NvdXJjZT1kaWQteW91LXNlZS10aGlzXHUwMDI2dXRtX21lZGl1bT1lbWFpbFx1MDAyNnV0bV9=
+jb250ZW50PXNpZ25hdHVyZVx1MDAyNnV0bV9jYW1wYWlnbj1hcnQlMjBhbmQlMjBzY2llbmNlXH=
+UwMDI2X19zPXoxem04Zm5memJ5b2ludGhhcmhpIn0" style=3D"color: blue">The Art an=
+d Science of Lifting</a></span></p>
+</div>
+
+  
+    <div id=3D"footer" style=3D"border-top-color: #d0d0d0; border-top-style=
+: solid; border-top-width: 1px; color: #777; font-family: 'Helvetica', 'Ari=
+al', sans-serif; font-size: 13px; line-height: 1.4; padding: 25px; width: 5=
+50px">
+      To make sure you keep getting these emails, please add support@streng=
+theory.com to your address book or whitelist us. Want out of the loop? <a h=
+ref=3D"http://t.dripemail2.org/c/eyJhY2NvdW50X2lkIjoiMTU2Nzg0MyIsImRlbGl2ZX=
+J5X2lkIjoiNzE5MjQ4MjkiLCJ1cmwiOiJodHRwczovL3d3dy5nZXRkcmlwLmNvbS9zdWJzY3JpY=
+mVycy96MXptOGZuZnpieW9pbnRoYXJoaS9zdWJzY3JpcHRpb25zP2Q9cnU5ajRjN200c2hobXlq=
+Zjdqd3lcdTAwMjZleGNsdWRlX2NsaWNrPTFcdTAwMjZpbnRlbnQ9dW5zdWJzY3JpYmVcdTAwMjZ=
+fX3M9ejF6bThmbmZ6YnlvaW50aGFyaGkifQ" style=3D"color: blue">Unsubscribe</a>.=
+<br><br>
+Our postal address: P.O. Box 1504, Skyland, NC 28776, United States
+    </div>
+  
+<img src=3D"http://click.dripemail2.org/track/open.php?u=3D30115094&id=3D56=
+c169139ac247018a5507549cbe6abf" height=3D"1" width=3D"1"></body>
+</html>
+
+--_av-GCxqbZBH5IuKWlzAqvDd5g--
+
+----
+
+Return-Path: <mailer@infusionmail.com>
+Delivered-To: hristo_b_kirov@abv.bg
+Received: from mta-c-24-11.infusionmail.com (mta-c-24-11.infusionmail.com [208.76.24.11])
+	by pmx.abv.bg (Postfix) with ESMTP id 187F4100061
+	for <hristo_b_kirov@abv.bg>; Thu, 29 Oct 2015 17:55:49 +0200 (EET)
+Pool-Debug: qn261 basic
+Pool-Name: default_basic
+x-sieve: enabled
+Pool-Version: 2
+Received: from [10.0.2.60] ([10.0.2.60:60538] helo=phxcw9)
+	by phxme3 (envelope-from <mailer@infusionmail.com>)
+	(ecelerity 3.6.12.50134 r(Core:3.6.12.0)) with ESMTP
+	id 22/A3-49154-99022365; Thu, 29 Oct 2015 09:35:21 -0400
+Date: Thu, 29 Oct 2015 09:35:20 -0400 (EDT)
+From: Greg Nuckols <support@strengtheory.com>
+Sender: mailer@infusionmail.com
+To: hristo_b_kirov@abv.bg
+Message-ID: <1939551832.287931446125720730.JavaMail.tomcat@phxcw9>
+Subject: The Key for Progress:  Recognizing and Overcoming Laziness
+Errors-To: mailer@infusionmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_28785_2131371856.1446125720729"
+X-MailSentId: 191112
+X-campaignid: infusion_qn261191112
+X-BatchId: 13886
+X-InfApp: qn261
+X-InfContact: 106750
+X-InfSent: 1811640
+X-inf-package: basic
+X-inf-uflags: DO,WF
+X-inf-iflags: DO,WF
+List-Unsubscribe: <https://qn261.infusionsoft.com/app/optOut/noConfirm/1811640/4177f298d275bf44>
+
+------=_Part_28785_2131371856.1446125720729
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+Content-Disposition: inline
+
+This email was sent as HTML-only. To view it, please visit:
+https://qn261.infusionsoft.com/app/hostedEmail/1811640/4177f298d275bf44
+
+
+https://qn261.infusionsoft.com/app/optOut/8/dd2b6c7b213d79b1/1811640/4177f298d275bf44
+
+Strengtheory P.O. Box 1504 Skyland, North Carolina 28776 United States
+------=_Part_28785_2131371856.1446125720729
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+Content-Disposition: inline
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title></title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+.font-sans-serif {
+  font-family: sans-serif;
+}
+.font-avenir {
+  font-family: Avenir, sans-serif;
+}
+.mso .font-avenir {
+  font-family: sans-serif !important;
+}
+.font-lato {
+  font-family: Lato, Tahoma, sans-serif;
+}
+.mso .font-lato {
+  font-family: Tahoma, sans-serif !important;
+}
+.font-cabin {
+  font-family: Cabin, Avenir, sans-serif;
+}
+.mso .font-cabin {
+  font-family: sans-serif !important;
+}
+.font-open-Sans {
+  font-family: &quot;Open Sans", sans-serif;
+}
+.mso .font-open-Sans {
+  font-family: sans-serif !important;
+}
+.font-roboto {
+  font-family: Roboto, Tahoma, sans-serif;
+}
+.mso .font-roboto {
+  font-family: Tahoma, sans-serif !important;
+}
+.font-ubuntu {
+  font-family: Ubuntu, sans-serif;
+}
+.mso .font-ubuntu {
+  font-family: sans-serif !important;
+}
+.font-pt-sans {
+  font-family: &quot;PT Sans", "Trebuchet MS", sans-serif;
+}
+.mso .font-pt-sans {
+  font-family: &quot;Trebuchet MS", sans-serif !important;
+}
+.font-georgia {
+  font-family: Georgia, serif;
+}
+.font-merriweather {
+  font-family: Merriweather, Georgia, serif;
+}
+.mso .font-merriweather {
+  font-family: Georgia, serif !important;
+}
+.font-bitter {
+  font-family: Bitter, Georgia, serif;
+}
+.mso .font-bitter {
+  font-family: Georgia, serif !important;
+}
+.font-pt-serif {
+  font-family: &quot;PT Serif", Georgia, serif;
+}
+.mso .font-pt-serif {
+  font-family: Georgia, serif !important;
+}
+.font-pompiere {
+  font-family: Pompiere, "Trebuchet MS", sans-serif;
+}
+.mso .font-pompiere {
+  font-family: &quot;Trebuchet MS", sans-serif !important;
+}
+.font-roboto-slab {
+  font-family: &quot;Roboto Slab", Georgia, serif;
+}
+.mso .font-roboto-slab {
+  font-family: Georgia, serif !important;
+}
+@media only screen and (max-width: 620px) {
+  .wrapper .column .size-8 {
+    font-size: 8px !important;
+    line-height: 14px !important;
+  }
+  .wrapper .column .size-9 {
+    font-size: 9px !important;
+    line-height: 16px !important;
+  }
+  .wrapper .column .size-10 {
+    font-size: 10px !important;
+    line-height: 18px !important;
+  }
+  .wrapper .column .size-11 {
+    font-size: 11px !important;
+    line-height: 19px !important;
+  }
+  .wrapper .column .size-12 {
+    font-size: 12px !important;
+    line-height: 19px !important;
+  }
+  .wrapper .column .size-13 {
+    font-size: 13px !important;
+    line-height: 21px !important;
+  }
+  .wrapper .column .size-14 {
+    font-size: 14px !important;
+    line-height: 21px !important;
+  }
+  .wrapper .column .size-15 {
+    font-size: 15px !important;
+    line-height: 23px !important;
+  }
+  .wrapper .column .size-16 {
+    font-size: 16px !important;
+    line-height: 24px !important;
+  }
+  .wrapper .column .size-17 {
+    font-size: 17px !important;
+    line-height: 26px !important;
+  }
+  .wrapper .column .size-18 {
+    font-size: 17px !important;
+    line-height: 26px !important;
+  }
+  .wrapper .column .size-20 {
+    font-size: 17px !important;
+    line-height: 26px !important;
+  }
+  .wrapper .column .size-22 {
+    font-size: 18px !important;
+    line-height: 26px !important;
+  }
+  .wrapper .column .size-24 {
+    font-size: 20px !important;
+    line-height: 28px !important;
+  }
+  .wrapper .column .size-26 {
+    font-size: 22px !important;
+    line-height: 31px !important;
+  }
+  .wrapper .column .size-28 {
+    font-size: 24px !important;
+    line-height: 32px !important;
+  }
+  .wrapper .column .size-30 {
+    font-size: 26px !important;
+    line-height: 34px !important;
+  }
+  .wrapper .column .size-32 {
+    font-size: 28px !important;
+    line-height: 36px !important;
+  }
+  .wrapper .column .size-34 {
+    font-size: 30px !important;
+    line-height: 38px !important;
+  }
+  .wrapper .column .size-36 {
+    font-size: 30px !important;
+    line-height: 38px !important;
+  }
+  .wrapper .column .size-40 {
+    font-size: 32px !important;
+    line-height: 40px !important;
+  }
+  .wrapper .column .size-44 {
+    font-size: 34px !important;
+    line-height: 43px !important;
+  }
+  .wrapper .column .size-48 {
+    font-size: 36px !important;
+    line-height: 43px !important;
+  }
+  .wrapper .column .size-56 {
+    font-size: 40px !important;
+    line-height: 47px !important;
+  }
+  .wrapper .column .size-64 {
+    font-size: 44px !important;
+    line-height: 50px !important;
+  }
+}
+body {
+  margin: 0;
+  padding: 0;
+  min-width: 100%;
+}
+.mso body {
+  mso-line-height-rule: exactly;
+}
+.no-padding .wrapper .column .column-top,
+.no-padding .wrapper .column .column-bottom {
+  font-size: 0px;
+  line-height: 0px;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+td {
+  padding: 0;
+  vertical-align: top;
+}
+.spacer,
+.border {
+  font-size: 1px;
+  line-height: 1px;
+}
+.spacer {
+  width: 100%;
+}
+img {
+  border: 0;
+  -ms-interpolation-mode: bicubic;
+}
+.image {
+  font-size: 12px;
+  mso-line-height-rule: at-least;
+}
+.image img {
+  display: block;
+}
+.logo {
+  mso-line-height-rule: at-least;
+}
+.logo img {
+  display: block;
+}
+strong {
+  font-weight: bold;
+}
+h1,
+h2,
+h3,
+p,
+ol,
+ul,
+blockquote,
+.image {
+  font-style: normal;
+  font-weight: 400;
+}
+ol,
+ul,
+li {
+  padding-left: 0;
+}
+blockquote {
+  Margin-left: 0;
+  Margin-right: 0;
+  padding-right: 0;
+}
+.column-top,
+.column-bottom {
+  font-size: 32px;
+  line-height: 32px;
+  transition-timing-function: cubic-bezier(0, 0, 0.2, 1);
+  transition-duration: 150ms;
+  transition-property: all;
+}
+.half-padding .column .column-top,
+.half-padding .column .column-bottom {
+  font-size: 16px;
+  line-height: 16px;
+}
+.column {
+  text-align: left;
+}
+.contents {
+  table-layout: fixed;
+  width: 100%;
+}
+.padded {
+  padding-left: 32px;
+  padding-right: 32px;
+  word-break: break-word;
+  word-wrap: break-word;
+}
+.wrapper {
+  display: table;
+  table-layout: fixed;
+  width: 100%;
+  min-width: 620px;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+}
+.wrapper a {
+  transition: opacity 0.2s ease-in;
+}
+table.wrapper {
+  table-layout: fixed;
+}
+.one-col,
+.two-col,
+.three-col {
+  Margin-left: auto;
+  Margin-right: auto;
+  width: 600px;
+}
+.centered {
+  Margin-left: auto;
+  Margin-right: auto;
+}
+.btn a {
+  border-radius: 3px;
+  display: inline-block;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  padding: 13px 35px 12px 35px;
+  text-align: center;
+  text-decoration: none !important;
+}
+.btn a:hover {
+  opacity: 0.8;
+}
+.two-col .btn a {
+  font-size: 12px;
+  line-height: 22px;
+  padding: 10px 28px;
+}
+.three-col .btn a,
+.wrapper .narrower .btn a {
+  font-size: 11px;
+  line-height: 19px;
+  padding: 6px 18px 5px 18px;
+}
+@media only screen and (max-width: 620px) {
+  .btn a {
+    display: block !important;
+    font-size: 14px !important;
+    line-height: 24px !important;
+    padding: 13px 10px 12px 10px !important;
+  }
+}
+.two-col .column {
+  width: 300px;
+}
+.two-col .first .padded {
+  padding-left: 32px;
+  padding-right: 16px;
+}
+.two-col .second .padded {
+  padding-left: 16px;
+  padding-right: 32px;
+}
+.three-col .column {
+  width: 200px;
+}
+.three-col .first .padded {
+  padding-left: 32px;
+  padding-right: 8px;
+}
+.three-col .second .padded {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.three-col .third .padded {
+  padding-left: 8px;
+  padding-right: 32px;
+}
+.wider {
+  width: 400px;
+}
+.narrower {
+  width: 200px;
+}
+@media only screen and (min-width: 0) {
+  .wrapper {
+    text-rendering: optimizeLegibility;
+  }
+}
+@media only screen and (max-width: 620px) {
+  [class=wrapper] {
+    min-width: 320px !important;
+    width: 100% !important;
+  }
+  [class=wrapper] .one-col,
+  [class=wrapper] .two-col,
+  [class=wrapper] .three-col {
+    width: 320px !important;
+  }
+  [class=wrapper] .column,
+  [class=wrapper] .gutter {
+    display: block;
+    float: left;
+    width: 320px !important;
+  }
+  [class=wrapper] .padded {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
+  [class=wrapper] .block {
+    display: block !important;
+  }
+  [class=wrapper] .hide {
+    display: none !important;
+  }
+  [class=wrapper] .image img {
+    height: auto !important;
+    width: 100% !important;
+  }
+}
+.footer {
+  width: 100%;
+}
+.footer .inner {
+  padding: 58px 0 29px 0;
+  width: 600px;
+}
+.footer .left td,
+.footer .right td {
+  font-size: 12px;
+  line-height: 22px;
+}
+.footer .left td {
+  text-align: left;
+  width: 400px;
+}
+.footer .right td {
+  max-width: 200px;
+  mso-line-height-rule: at-least;
+}
+.footer .links {
+  line-height: 26px;
+  Margin-bottom: 26px;
+  mso-line-height-rule: at-least;
+}
+.footer .links a:hover {
+  opacity: 0.8;
+}
+.footer .links img {
+  vertical-align: middle;
+}
+.footer .address {
+  Margin-bottom: 18px;
+}
+.footer .campaign {
+  Margin-bottom: 18px;
+}
+.footer .campaign a {
+  font-weight: bold;
+  text-decoration: none;
+}
+.footer .sharing div {
+  Margin-bottom: 5px;
+}
+.wrapper .footer .fblike,
+.wrapper .footer .tweet,
+.wrapper .footer .linkedinshare,
+.wrapper .footer .forwardtoafriend {
+  background-repeat: no-repeat;
+  background-size: 200px 56px;
+  border-radius: 2px;
+  color: #ffffff;
+  display: block;
+  font-size: 11px;
+  font-weight: bold;
+  line-height: 11px;
+  padding: 8px 11px 7px 28px;
+  text-align: left;
+  text-decoration: none;
+}
+.wrapper .footer .fblike:hover,
+.wrapper .footer .tweet:hover,
+.wrapper .footer .linkedinshare:hover,
+.wrapper .footer .forwardtoafriend:hover {
+  color: #ffffff !important;
+  opacity: 0.8;
+}
+.footer .fblike {
+  background-image: url(https://i3.createsend1.com/static/eb/master/03-fresh/imgf/fblike.png);
+}
+.footer .tweet {
+  background-image: url(https://i4.createsend1.com/static/eb/master/03-fresh/imgf/tweet.png);
+}
+.footer .linkedinshare {
+  background-image: url(https://i5.createsend1.com/static/eb/master/03-fresh/imgf/lishare.png);
+}
+.footer .forwardtoafriend {
+  background-image: url(https://i6.createsend1.com/static/eb/master/03-fresh/imgf/forward.png);
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  .footer .fblike {
+    background-image: url(https://i7.createsend1.com/static/eb/master/03-fresh/imgf/fblike@2x.png) !important;
+  }
+  .footer .tweet {
+    background-image: url(https://i8.createsend1.com/static/eb/master/03-fresh/imgf/tweet@2x.png) !important;
+  }
+  .footer .linkedinshare {
+    background-image: url(https://i9.createsend1.com/static/eb/master/03-fresh/imgf/lishare@2x.png) !important;
+  }
+  .footer .forwardtoafriend {
+    background-image: url(https://i10.createsend1.com/static/eb/master/03-fresh/imgf/forward@2x.png) !important;
+  }
+}
+@media only screen and (max-width: 620px) {
+  .footer {
+    width: 320px !important;
+  }
+  .footer td {
+    display: none;
+  }
+  .footer .inner,
+  .footer .inner td {
+    display: block;
+    text-align: center !important;
+    max-width: 320px !important;
+    width: 320px !important;
+  }
+  .footer .sharing {
+    Margin-bottom: 40px;
+  }
+  .footer .sharing div {
+    display: inline-block;
+  }
+  .footer .fblike,
+  .footer .tweet,
+  .footer .linkedinshare,
+  .footer .forwardtoafriend {
+    display: inline-block !important;
+  }
+}
+.wrapper h1,
+.wrapper h2,
+.wrapper h3,
+.wrapper p,
+.wrapper ol,
+.wrapper ul,
+.wrapper li,
+.wrapper blockquote,
+.image,
+.btn,
+.divider {
+  Margin-bottom: 0;
+  Margin-top: 0;
+}
+.wrapper .column h1 + * {
+  Margin-top: 20px;
+}
+.wrapper .column h2 + * {
+  Margin-top: 16px;
+}
+.wrapper .column h3 + * {
+  Margin-top: 12px;
+}
+.wrapper .column p + *,
+.wrapper .column ol + *,
+.wrapper .column ul + *,
+.wrapper .column blockquote + *,
+.image + .contents td &gt; :first-child {
+  Margin-top: 24px;
+}
+.contents:nth-last-child(n+3) h1:last-child,
+.no-padding .contents:nth-last-child(n+2) h1:last-child {
+  Margin-bottom: 20px;
+}
+.contents:nth-last-child(n+3) h2:last-child,
+.no-padding .contents:nth-last-child(n+2) h2:last-child {
+  Margin-bottom: 16px;
+}
+.contents:nth-last-child(n+3) h3:last-child,
+.no-padding .contents:nth-last-child(n+2) h3:last-child {
+  Margin-bottom: 12px;
+}
+.contents:nth-last-child(n+3) p:last-child,
+.no-padding .contents:nth-last-child(n+2) p:last-child,
+.contents:nth-last-child(n+3) ol:last-child,
+.no-padding .contents:nth-last-child(n+2) ol:last-child,
+.contents:nth-last-child(n+3) ul:last-child,
+.no-padding .contents:nth-last-child(n+2) ul:last-child,
+.contents:nth-last-child(n+3) blockquote:last-child,
+.no-padding .contents:nth-last-child(n+2) blockquote:last-child,
+.contents:nth-last-child(n+3) .image,
+.no-padding .contents:nth-last-child(n+2) .image,
+.contents:nth-last-child(n+3) .divider,
+.no-padding .contents:nth-last-child(n+2) .divider,
+.contents:nth-last-child(n+3) .btn,
+.no-padding .contents:nth-last-child(n+2) .btn {
+  Margin-bottom: 24px;
+}
+.two-col .column p + *,
+.wider .column p + *,
+.two-col .column ol + *,
+.wider .column ol + *,
+.two-col .column ul + *,
+.wider .column ul + *,
+.two-col .column blockquote + *,
+.wider .column blockquote + *,
+.two-col .image + .contents td &gt; :first-child,
+.wider .image + .contents td &gt; :first-child {
+  Margin-top: 21px;
+}
+.two-col .contents:nth-last-child(n+3) p:last-child,
+.wider .contents:nth-last-child(n+3) p:last-child,
+.no-padding .two-col .contents:nth-last-child(n+2) p:last-child,
+.no-padding .wider .contents:nth-last-child(n+2) p:last-child,
+.two-col .contents:nth-last-child(n+3) ol:last-child,
+.wider .contents:nth-last-child(n+3) ol:last-child,
+.no-padding .two-col .contents:nth-last-child(n+2) ol:last-child,
+.no-padding .wider .contents:nth-last-child(n+2) ol:last-child,
+.two-col .contents:nth-last-child(n+3) ul:last-child,
+.wider .contents:nth-last-child(n+3) ul:last-child,
+.no-padding .two-col .contents:nth-last-child(n+2) ul:last-child,
+.no-padding .wider .contents:nth-last-child(n+2) ul:last-child,
+.two-col .contents:nth-last-child(n+3) blockquote:last-child,
+.wider .contents:nth-last-child(n+3) blockquote:last-child,
+.no-padding .two-col .contents:nth-last-child(n+2) blockquote:last-child,
+.no-padding .wider .contents:nth-last-child(n+2) blockquote:last-child,
+.two-col .contents:nth-last-child(n+3) .image,
+.wider .contents:nth-last-child(n+3) .image,
+.no-padding .two-col .contents:nth-last-child(n+2) .image,
+.no-padding .wider .contents:nth-last-child(n+2) .image,
+.two-col .contents:nth-last-child(n+3) .divider,
+.wider .contents:nth-last-child(n+3) .divider,
+.no-padding .two-col .contents:nth-last-child(n+2) .divider,
+.no-padding .wider .contents:nth-last-child(n+2) .divider,
+.two-col .contents:nth-last-child(n+3) .btn,
+.wider .contents:nth-last-child(n+3) .btn,
+.no-padding .two-col .contents:nth-last-child(n+2) .btn,
+.no-padding .wider .contents:nth-last-child(n+2) .btn {
+  Margin-bottom: 21px;
+}
+.three-col .column p + *,
+.narrower .column p + *,
+.three-col .column ol + *,
+.narrower .column ol + *,
+.three-col .column ul + *,
+.narrower .column ul + *,
+.three-col .column blockquote + *,
+.narrower .column blockquote + *,
+.three-col .image + .contents td &gt; :first-child,
+.narrower .image + .contents td &gt; :first-child {
+  Margin-top: 18px;
+}
+.three-col .contents:nth-last-child(n+3) p:last-child,
+.narrower .contents:nth-last-child(n+3) p:last-child,
+.no-padding .three-col .contents:nth-last-child(n+2) p:last-child,
+.no-padding .narrower .contents:nth-last-child(n+2) p:last-child,
+.three-col .contents:nth-last-child(n+3) ol:last-child,
+.narrower .contents:nth-last-child(n+3) ol:last-child,
+.no-padding .three-col .contents:nth-last-child(n+2) ol:last-child,
+.no-padding .narrower .contents:nth-last-child(n+2) ol:last-child,
+.three-col .contents:nth-last-child(n+3) ul:last-child,
+.narrower .contents:nth-last-child(n+3) ul:last-child,
+.no-padding .three-col .contents:nth-last-child(n+2) ul:last-child,
+.no-padding .narrower .contents:nth-last-child(n+2) ul:last-child,
+.three-col .contents:nth-last-child(n+3) blockquote:last-child,
+.narrower .contents:nth-last-child(n+3) blockquote:last-child,
+.no-padding .three-col .contents:nth-last-child(n+2) blockquote:last-child,
+.no-padding .narrower .contents:nth-last-child(n+2) blockquote:last-child,
+.three-col .contents:nth-last-child(n+3) .image,
+.narrower .contents:nth-last-child(n+3) .image,
+.no-padding .three-col .contents:nth-last-child(n+2) .image,
+.no-padding .narrower .contents:nth-last-child(n+2) .image,
+.three-col .contents:nth-last-child(n+3) .divider,
+.narrower .contents:nth-last-child(n+3) .divider,
+.no-padding .three-col .contents:nth-last-child(n+2) .divider,
+.no-padding .narrower .contents:nth-last-child(n+2) .divider,
+.three-col .contents:nth-last-child(n+3) .btn,
+.narrower .contents:nth-last-child(n+3) .btn,
+.no-padding .three-col .contents:nth-last-child(n+2) .btn,
+.no-padding .narrower .contents:nth-last-child(n+2) .btn {
+  Margin-bottom: 18px;
+}
+@media only screen and (max-width: 620px) {
+  .wrapper p + *,
+  .wrapper ol + *,
+  .wrapper ul + *,
+  .wrapper blockquote + *,
+  .image + .contents td &gt; :first-child {
+    Margin-top: 24px !important;
+  }
+  .contents:nth-last-child(n+3) p:last-child,
+  .no-padding .contents:nth-last-child(n+2) p:last-child,
+  .contents:nth-last-child(n+3) ol:last-child,
+  .no-padding .contents:nth-last-child(n+2) ol:last-child,
+  .contents:nth-last-child(n+3) ul:last-child,
+  .no-padding .contents:nth-last-child(n+2) ul:last-child,
+  .contents:nth-last-child(n+3) blockquote:last-child,
+  .no-padding .contents:nth-last-child(n+2) blockquote:last-child,
+  .contents:nth-last-child(n+3) .image:last-child,
+  .no-padding .contents:nth-last-child(n+2) .image:last-child,
+  .contents:nth-last-child(n+3) .divider:last-child,
+  .no-padding .contents:nth-last-child(n+2) .divider:last-child,
+  .contents:nth-last-child(n+3) .btn:last-child,
+  .no-padding .contents:nth-last-child(n+2) .btn:last-child {
+    Margin-bottom: 24px !important;
+  }
+}
+td.border {
+  width: 1px;
+}
+tr.border {
+  background-color: #e3e3e3;
+  height: 1px;
+}
+tr.border td {
+  line-height: 1px;
+}
+.sidebar {
+  width: 600px;
+}
+.first.wider .padded {
+  padding-left: 32px;
+  padding-right: 20px;
+}
+.second.wider .padded {
+  padding-left: 20px;
+  padding-right: 32px;
+}
+.first.narrower .padded {
+  padding-left: 32px;
+  padding-right: 8px;
+}
+.second.narrower .padded {
+  padding-left: 8px;
+  padding-right: 32px;
+}
+.wrapper h1 {
+  font-size: 40px;
+  line-height: 48px;
+}
+.wrapper h2 {
+  font-size: 24px;
+  line-height: 32px;
+}
+.wrapper h3 {
+  font-size: 18px;
+  line-height: 24px;
+}
+.wrapper h1 a,
+.wrapper h2 a,
+.wrapper h3 a {
+  text-decoration: none;
+}
+.wrapper a:hover {
+  text-decoration: none;
+}
+.wrapper p,
+.wrapper ol,
+.wrapper ul {
+  font-size: 15px;
+  line-height: 24px;
+}
+.wrapper ol,
+.wrapper ul {
+  Margin-left: 20px;
+}
+.wrapper li {
+  padding-left: 2px;
+}
+.wrapper blockquote {
+  Margin-left: 0;
+  padding-left: 18px;
+}
+.one-col,
+.two-col,
+.three-col,
+.sidebar {
+  background-color: #ffffff;
+  table-layout: fixed;
+}
+.wrapper .two-col blockquote,
+.wrapper .wider blockquote {
+  padding-left: 16px;
+}
+.wrapper .three-col ol,
+.wrapper .narrower ol,
+.wrapper .three-col ul,
+.wrapper .narrower ul {
+  Margin-left: 14px;
+}
+.wrapper .three-col li,
+.wrapper .narrower li {
+  padding-left: 1px;
+}
+.wrapper .three-col blockquote,
+.wrapper .narrower blockquote {
+  padding-left: 12px;
+}
+.wrapper h2 {
+  font-weight: 700;
+}
+.wrapper blockquote {
+  font-style: italic;
+}
+.preheader a,
+.header a {
+  text-decoration: none;
+}
+.header {
+  Margin-left: auto;
+  Margin-right: auto;
+  width: 600px;
+}
+.preheader td {
+  padding-bottom: 24px;
+  padding-top: 24px;
+}
+.logo {
+  width: 280px;
+}
+.logo div {
+  font-weight: 700;
+}
+.logo div.logo-center {
+  text-align: center;
+}
+.logo div.logo-center img {
+  Margin-left: auto;
+  Margin-right: auto;
+}
+.preheader td {
+  text-align: right;
+  width: 280px;
+}
+.preheader td {
+  letter-spacing: 0.01em;
+  line-height: 17px;
+  font-weight: 400;
+}
+.preheader a {
+  letter-spacing: 0.03em;
+  font-weight: 700;
+}
+.preheader td {
+  font-size: 11px;
+}
+@media only screen and (max-width: 620px) {
+  [class=wrapper] .header,
+  [class=wrapper] .preheader td,
+  [class=wrapper] .logo,
+  [class=wrapper] .sidebar {
+    width: 320px !important;
+  }
+  [class=wrapper] .header .logo {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+  }
+  [class=wrapper] .header .logo img {
+    max-width: 280px !important;
+    height: auto !important;
+  }
+  [class=wrapper] .header .preheader td {
+    padding-top: 3px !important;
+    padding-bottom: 22px !important;
+  }
+  [class=wrapper] .header .title {
+    display: none !important;
+  }
+  [class=wrapper] .header .webversion {
+    text-align: center !important;
+  }
+  [class=wrapper] h1 {
+    font-size: 40px !important;
+    line-height: 48px !important;
+  }
+  [class=wrapper] h2 {
+    font-size: 24px !important;
+    line-height: 32px !important;
+  }
+  [class=wrapper] h3 {
+    font-size: 18px !important;
+    line-height: 24px !important;
+  }
+  [class=wrapper] .column p,
+  [class=wrapper] .column ol,
+  [class=wrapper] .column ul {
+    font-size: 15px !important;
+    line-height: 24px !important;
+  }
+  [class=wrapper] ol,
+  [class=wrapper] ul {
+    Margin-left: 20px !important;
+  }
+  [class=wrapper] li {
+    padding-left: 2px !important;
+  }
+  [class=wrapper] blockquote {
+    border-left-width: 4px !important;
+    padding-left: 18px !important;
+  }
+  [class=wrapper] table.border {
+    width: 320px !important;
+  }
+  [class=wrapper] .second .column-top,
+  [class=wrapper] .third .column-top {
+    display: none;
+  }
+}
+@media only screen and (max-width: 320px) {
+  td.border {
+    display: none;
+  }
+}
+</style><style type="text/css">
+.wrapper h1{}.wrapper h1{font-family:Avenir,sans-serif}.mso .wrapper h1{font-family:sans-serif !important}.wrapper h2{}.wrapper h2{font-family:Avenir,sans-serif}.mso .wrapper h2{font-family:sans-serif !important}.wrapper h3{}.wrapper h3{font-family:Avenir,sans-serif}.mso .wrapper h3{font-family:sans-serif !important}.wrapper p,.wrapper ol,.wrapper ul,.wrapper .image{}.wrapper p,.wrapper ol,.wrapper ul,.wrapper .image{font-family:sans-serif}.wrapper .btn a{}.wrapper .btn a{font-family:sans-serif}.logo div{}.logo div{font-family:Avenir,sans-serif}.mso .logo div{font-family:sans-serif !important}.title,.webversion,.fblike,.tweet,.linkedinshare,.forwardtoafriend,.link,.address,.permission,.campaign{}.title,.webversion,.fblike,.tweet,.linkedinshare,.forwardtoafriend,.link,.address,.permission,.campaign{font-family:Avenir,sans-serif}.mso .title,.mso .webversion,.mso .fblike,.mso .tweet,.mso 
+.linkedinshare,.mso .forwardtoafriend,.mso .link,.mso .address,.mso .permission,.mso .campaign{font-family:sans-serif !important}body,.wrapper,.emb-editor-canvas{background-color:#f2f2f2}.border{background-color:#dadada}.wrapper h1{color:#3b3e42}.wrapper h2{color:#3b3e42}.wrapper h3{color:#3b3e42}.wrapper p,.wrapper ol,.wrapper ul{color:#60666d}.wrapper .image{color:#60666d}.wrapper a{color:#00afd1}.wrapper a:hover{color:#00849e !important}.wrapper blockquote{border-left:4px solid #f2f2f2}.wrapper .three-col blockquote,.wrapper .narrower blockquote{border-left:2px solid #f2f2f2}.wrapper .btn a{background-color:#00afd1;color:#fff}.wrapper .btn a:hover{color:#fff !important}.logo div{color:#555}.logo div a{color:#555}.logo div a:hover{color:#555 !important}.title,.webversion,.footer .inner td{color:#b9b9b9}.wrapper .title a,.wrapper .webversion a,.wrapper .footer a{color:#b9b9b9}.wrapper 
+.title a:hover,.wrapper .webversion a:hover,.wrapper .footer a:hover{color:#939393 !important}.wrapper .footer .fblike,.wrapper .footer .tweet,.wrapper .footer .linkedinshare,.wrapper .footer .forwardtoafriend{background-color:#797979}
+</style>
+<meta name="robots" content="noindex,nofollow" />
+<meta property="og:title" content="My First Campaign" />
+</head><body style="margin: 0;padding: 0;min-width: 100%;background-color: #f2f2f2;">
+    <center class="wrapper" style="display: table;table-layout: fixed;width: 100%;min-width: 620px;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;background-color: #f2f2f2;">
+<table class="header centered" style="border-collapse: collapse;border-spacing: 0;Margin-left: auto;Margin-right: auto;width: 600px;">
+<tbody>
+<tr>
+<td style="padding: 0;vertical-align: top;">
+<table class="preheader" style="border-collapse: collapse;border-spacing: 0;" align="right">
+<tbody>
+<tr>
+<td class="emb-logo-padding-box" style="padding: 0;vertical-align: top;padding-bottom: 24px;padding-top: 24px;text-align: right;width: 280px;letter-spacing: 0.01em;line-height: 17px;font-weight: 400;font-size: 11px;">
+<div class="spacer" style="font-size: 1px;line-height: 2px;width: 100%;">
+&nbsp;
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse;border-spacing: 0;" align="left">
+<tbody>
+<tr>
+<td class="logo emb-logo-padding-box" style="padding: 0;vertical-align: top;mso-line-height-rule: at-least;width: 280px;padding-top: 24px;padding-bottom: 24px;">
+<div class="logo-left" style="font-weight: 700;font-family: Avenir,sans-serif;color: #555;font-size: 0px !important;line-height: 0 !important;" align="left" id="emb-email-header">
+<a style="text-decoration: none;transition: opacity 0.2s ease-in;color: #555;" href="https://qn261.infusionsoft.com/app/linkClick/7604/1f5ae7021fac77c7/1811640/4177f298d275bf44" class=""><img style="border: 0;-ms-interpolation-mode: bicubic;display: block;max-width: 300px;" src="http://i.imgur.com/LMryI4J.png" alt="" width="200" height="43" /></a>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="border" style="border-collapse: collapse;border-spacing: 0;font-size: 1px;line-height: 1px;background-color: #dadada;Margin-left: auto;Margin-right: auto;" width="602">
+<tbody>
+<tr>
+<td style="padding: 0;vertical-align: top;">
+&#8203;
+</td>
+</tr>
+</tbody>
+</table>
+<table class="centered" style="border-collapse: collapse;border-spacing: 0;Margin-left: auto;Margin-right: auto;">
+<tbody>
+<tr>
+<td class="border" style="padding: 0;vertical-align: top;font-size: 1px;line-height: 1px;background-color: #dadada;width: 1px;">
+&#8203;
+</td><td style="padding: 0;vertical-align: top;">
+<table class="one-col" style="border-collapse: collapse;border-spacing: 0;Margin-left: auto;Margin-right: auto;width: 600px;background-color: #ffffff;table-layout: fixed;" emb-background-style="emb-background-style">
+<tbody>
+<tr>
+<td class="column" style="padding: 0;vertical-align: top;text-align: left;">
+            <div class="image" style="font-size: 12px;mso-line-height-rule: at-least;font-style: normal;font-weight: 400;Margin-bottom: 0;Margin-top: 0;font-family: sans-serif;color: #60666d;" align="center">
+              <img class="gnd-corner-image gnd-corner-image-center gnd-corner-image-top" style="border: 0;-ms-interpolation-mode: bicubic;display: block;max-width: 900px;" src="http://i.imgur.com/GTgxkAZ.jpg" alt="" width="600" height="337" />
+</div>
+<table class="contents" style="border-collapse: collapse;border-spacing: 0;table-layout: fixed;width: 100%;">
+<tbody>
+<tr>
+<td class="padded" style="padding: 0;vertical-align: top;padding-left: 32px;padding-right: 32px;word-break: break-word;word-wrap: break-word;">
+<p class="font-georgia size-16" style="font-style: normal;font-weight: 400;font-family: georgia,serif;Margin-bottom: 0;Margin-top: 24px;font-size: 16px;line-height: 24px;color: #60666d;">
+Hi Chris,
+</p>
+<p class="font-georgia size-16" style="font-style: normal;font-weight: 400;font-family: georgia,serif;Margin-bottom: 0;Margin-top: 24px;font-size: 16px;line-height: 24px;color: #60666d;">
+<span style="">The (arguably) most important training variable is also the hardest to quantify: &nbsp;effort.</span>
+</p>
+<p class="font-georgia size-16" style="font-style: normal;font-weight: 400;font-family: georgia,serif;Margin-bottom: 0;Margin-top: 24px;font-size: 16px;line-height: 24px;color: #60666d;">
+<span style="">It's easy to record what exercises you did, how many sets and reps you did, and, with a tiny bit of basic multiplication, your training volume.&nbsp; Most people have a pretty solid grasp of those 
+concepts.</span>
+</p>
+<p class="font-georgia size-16" style="font-style: normal;font-weight: 400;font-family: georgia,serif;Margin-bottom: 0;Margin-top: 24px;font-size: 16px;line-height: 24px;color: #60666d;">
+<span style="">However, none of those things are overly important if you're not putting enough effort into your training.</span>
+</p>
+<p class="font-georgia size-16" style="font-style: normal;font-weight: 400;font-family: georgia,serif;Margin-bottom: 0;Margin-top: 24px;font-size: 16px;line-height: 24px;color: #60666d;">
+<span style="">However, we have a problem: &nbsp;Most of us are lazy.&nbsp; Really, really lazy.&nbsp; Lazier than we realize.</span>
+</p>
+<p class="font-georgia size-16" style="font-style: normal;font-weight: 400;font-family: georgia,serif;Margin-bottom: 0;Margin-top: 24px;font-size: 16px;line-height: 24px;color: #60666d;">
+<span style="">Research actually shows that we 
+<em>over-report</em>&nbsp;our physical activity more than we <em>under-report</em>&nbsp;our calorie intake, and that most of us think we're exerting ourselves more than we really are.</span>
+</p>
+<p class="font-georgia size-16" style="font-style: normal;font-weight: 400;font-family: georgia,serif;Margin-bottom: 24px;Margin-top: 24px;font-size: 16px;line-height: 24px;color: #60666d;">
+<span style="">This article unpacks how lazy we are, how much our laziness impacts our progress (slowing down our rate of progress by about 1/3 is a conservative estimate, based on the research), and strategies you can use to naturally help you put more effort into your training, going beyond the obvious but thoroughly unhelpful advice of, "just try harder!&quot;</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="contents" style="border-collapse: collapse;border-spacing: 0;table-layout: fixed;width: 100%;">
+<tbody>
+<tr>
+<td class="padded" style="padding: 0;vertical-align: top;padding-left: 32px;padding-right: 32px;word-break: break-word;word-wrap: break-word;">
+<div style="height:20px">
+&nbsp;
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="contents" style="border-collapse: collapse;border-spacing: 0;table-layout: fixed;width: 100%;">
+<tbody>
+<tr>
+<td class="padded" style="padding: 0;vertical-align: top;padding-left: 32px;padding-right: 32px;word-break: break-word;word-wrap: break-word;">
+            <div class="btn" style="Margin-bottom: 24px;Margin-top: 0;text-align: center;">
+              <a style="border-radius: 3px;display: inline-block;font-size: 14px;font-weight: 700;line-height: 24px;padding: 13px 35px 12px 35px;text-align: center;text-decoration: none !important;transition: opacity 0.2s ease-in;color: #fff;font-family: sans-serif;background-color: #3786c5;" href="https://qn261.infusionsoft.com/app/linkClick/7606/a28a40ee9f1544ae/1811640/4177f298d275bf44" class="">Read the article</a>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="contents" style="border-collapse: collapse;border-spacing: 0;table-layout: fixed;width: 100%;">
+<tbody>
+<tr>
+<td class="padded" style="padding: 0;vertical-align: top;padding-left: 32px;padding-right: 32px;word-break: break-word;word-wrap: break-word;">
+<div style="height:5px">
+&nbsp;
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="contents" style="border-collapse: collapse;border-spacing: 0;table-layout: fixed;width: 100%;">
+<tbody>
+<tr>
+<td class="padded" style="padding: 0;vertical-align: top;padding-left: 32px;padding-right: 32px;word-break: break-word;word-wrap: break-word;">
+<div style="height:20px">
+&nbsp;
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="contents" style="border-collapse: collapse;border-spacing: 0;table-layout: fixed;width: 100%;">
+<tbody>
+<tr>
+<td class="padded" style="padding: 0;vertical-align: top;padding-left: 32px;padding-right: 32px;word-break: break-word;word-wrap: break-word;">
+<p class="font-georgia size-16" style="font-style: normal;font-weight: 400;font-family: georgia,serif;Margin-bottom: 0;Margin-top: 0;font-size: 16px;line-height: 24px;color: #60666d;">
+Talk soon,
+</p>
+<p class="font-georgia size-16" style="font-style: normal;font-weight: 400;font-family: georgia,serif;Margin-bottom: 24px;Margin-top: 24px;font-size: 16px;line-height: 24px;color: #60666d;">
+<strong style="font-weight: bold;">Greg Nuckols</strong><br />
+<a style="transition: opacity 0.2s ease-in;color: #00afd1;" href="https://qn261.infusionsoft.com/app/linkClick/7608/3caced795729ee5c/1811640/4177f298d275bf44" class=""><span style="color:#3786c5"><em>The Art and Science of Lifting</em></span></a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="contents" style="border-collapse: collapse;border-spacing: 0;table-layout: fixed;width: 100%;">
+<tbody>
+<tr>
+<td class="padded" style="padding: 0;vertical-align: top;padding-left: 32px;padding-right: 32px;word-break: break-word;word-wrap: break-word;">
+<div style="height:5px">
+&nbsp;
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="column-bottom" style="font-size: 32px;line-height: 32px;transition-timing-function: cubic-bezier(0, 0, 0.2, 1);transition-duration: 150ms;transition-property: all;">
+&nbsp;
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td><td class="border" style="padding: 0;vertical-align: top;font-size: 1px;line-height: 1px;background-color: #dadada;width: 1px;">
+&#8203;
+</td>
+</tr>
+</tbody>
+</table>
+<table class="border" style="border-collapse: collapse;border-spacing: 0;font-size: 1px;line-height: 1px;background-color: #dadada;Margin-left: auto;Margin-right: auto;" width="602">
+<tbody>
+<tr class="border" style="font-size: 1px;line-height: 1px;background-color: #e3e3e3;height: 1px;">
+<td class="border" style="padding: 0;vertical-align: top;font-size: 1px;line-height: 1px;background-color: #dadada;width: 1px;">
+&#8203;
+</td><td style="padding: 0;vertical-align: top;line-height: 1px;">
+&#8203;
+</td><td class="border" style="padding: 0;vertical-align: top;font-size: 1px;line-height: 1px;background-color: #dadada;width: 1px;">
+&#8203;
+</td>
+</tr>
+</tbody>
+</table>
+<table class="centered" style="border-collapse: collapse;border-spacing: 0;Margin-left: auto;Margin-right: auto;">
+<tbody>
+<tr>
+<td class="border" style="padding: 0;vertical-align: top;font-size: 1px;line-height: 1px;background-color: #dadada;width: 1px;">
+&#8203;
+</td><td style="padding: 0;vertical-align: top;">
+<table class="two-col" style="border-collapse: collapse;border-spacing: 0;Margin-left: auto;Margin-right: auto;width: 600px;background-color: #ffffff;table-layout: fixed;" emb-background-style="emb-background-style">
+<tbody>
+<tr>
+<td class="column first" style="padding: 0;vertical-align: top;text-align: left;width: 300px;">
+<div>
+<div class="column-top" style="font-size: 32px;line-height: 32px;transition-timing-function: cubic-bezier(0, 0, 0.2, 1);transition-duration: 150ms;transition-property: all;">
+&nbsp;
+</div>
+</div>
+<table class="contents" style="border-collapse: collapse;border-spacing: 0;table-layout: fixed;width: 100%;">
+<tbody>
+<tr>
+<td class="padded" style="padding: 0;vertical-align: top;padding-left: 32px;padding-right: 16px;word-break: break-word;word-wrap: break-word;">
+<h2 style="font-style: normal;font-weight: 700;Margin-bottom: 0;Margin-top: 0;font-size: 24px;line-height: 32px;font-family: Avenir,sans-serif;color: #3b3e42;">
+The Training Toolkit
+</h2>
+<p style="font-style: normal;font-weight: 400;Margin-bottom: 21px;Margin-top: 16px;font-size: 15px;line-height: 24px;font-family: sans-serif;color: #60666d;">
+4 tools to help you dial in the details of your training. You get: The No Weak Links manual, Average to Savage program, Self-Correcting Macro Plan spreadsheet, and Training Tracker spreadsheet.&nbsp;
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="contents" style="border-collapse: collapse;border-spacing: 0;table-layout: fixed;width: 100%;">
+<tbody>
+<tr>
+<td class="padded" style="padding: 0;vertical-align: top;padding-left: 32px;padding-right: 16px;word-break: break-word;word-wrap: break-word;">
+            <div class="btn" style="Margin-bottom: 0;Margin-top: 0;text-align: left;">
+              <a style="border-radius: 3px;display: inline-block;font-size: 12px;font-weight: 700;line-height: 22px;padding: 10px 28px;text-align: center;text-decoration: none !important;transition: opacity 0.2s ease-in;color: #fff;font-family: sans-serif;background-color: #3786c5;" href="https://qn261.infusionsoft.com/app/linkClick/7610/ac10046ab4400597/1811640/4177f298d275bf44" class="">Download the Toolkit</a>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="column-bottom" style="font-size: 32px;line-height: 32px;transition-timing-function: cubic-bezier(0, 0, 0.2, 1);transition-duration: 150ms;transition-property: all;">
+&nbsp;
+</div>
+</td><td class="column second" style="padding: 0;vertical-align: top;text-align: left;width: 300px;">
+<div>
+<div class="column-top" style="font-size: 32px;line-height: 32px;transition-timing-function: cubic-bezier(0, 0, 0.2, 1);transition-duration: 150ms;transition-property: all;">
+&nbsp;
+</div>
+</div>
+<table class="contents" style="border-collapse: collapse;border-spacing: 0;table-layout: fixed;width: 100%;">
+<tbody>
+<tr>
+<td class="padded" style="padding: 0;vertical-align: top;padding-left: 16px;padding-right: 32px;word-break: break-word;word-wrap: break-word;">
+            <div class="image" style="font-size: 12px;mso-line-height-rule: at-least;font-style: normal;font-weight: 400;Margin-bottom: 0;Margin-top: 0;font-family: sans-serif;color: #60666d;" align="center">
+              <img style="border: 0;-ms-interpolation-mode: bicubic;display: block;max-width: 480px;" src="http://i.imgur.com/Z7OZ6nR.png" alt="" width="252" height="252" />
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="column-bottom" style="font-size: 32px;line-height: 32px;transition-timing-function: cubic-bezier(0, 0, 0.2, 1);transition-duration: 150ms;transition-property: all;">
+&nbsp;
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td><td class="border" style="padding: 0;vertical-align: top;font-size: 1px;line-height: 1px;background-color: #dadada;width: 1px;">
+&#8203;
+</td>
+</tr>
+</tbody>
+</table>
+<table class="border" style="border-collapse: collapse;border-spacing: 0;font-size: 1px;line-height: 1px;background-color: #dadada;Margin-left: auto;Margin-right: auto;" width="602">
+<tbody>
+<tr class="border" style="font-size: 1px;line-height: 1px;background-color: #e3e3e3;height: 1px;">
+<td class="border" style="padding: 0;vertical-align: top;font-size: 1px;line-height: 1px;background-color: #dadada;width: 1px;">
+&#8203;
+</td><td style="padding: 0;vertical-align: top;line-height: 1px;">
+&#8203;
+</td><td class="border" style="padding: 0;vertical-align: top;font-size: 1px;line-height: 1px;background-color: #dadada;width: 1px;">
+&#8203;
+</td>
+</tr>
+</tbody>
+</table>
+<table class="centered" style="border-collapse: collapse;border-spacing: 0;Margin-left: auto;Margin-right: auto;">
+<tbody>
+<tr>
+<td class="border" style="padding: 0;vertical-align: top;font-size: 1px;line-height: 1px;background-color: #dadada;width: 1px;">
+&#8203;
+</td><td style="padding: 0;vertical-align: top;">
+<table class="two-col" style="border-collapse: collapse;border-spacing: 0;Margin-left: auto;Margin-right: auto;width: 600px;background-color: #ffffff;table-layout: fixed;" emb-background-style="emb-background-style">
+<tbody>
+<tr>
+<td class="column first" style="padding: 0;vertical-align: top;text-align: left;width: 300px;">
+<div>
+<div class="column-top" style="font-size: 32px;line-height: 32px;transition-timing-function: cubic-bezier(0, 0, 0.2, 1);transition-duration: 150ms;transition-property: all;">
+&nbsp;
+</div>
+</div>
+<table class="contents" style="border-collapse: collapse;border-spacing: 0;table-layout: fixed;width: 100%;">
+<tbody>
+<tr>
+<td class="padded" style="padding: 0;vertical-align: top;padding-left: 32px;padding-right: 16px;word-break: break-word;word-wrap: break-word;">
+<h2 style="font-style: normal;font-weight: 700;Margin-bottom: 0;Margin-top: 0;font-size: 24px;line-height: 32px;font-family: Avenir,sans-serif;color: #3b3e42;">
+The Art and Science of Lifting
+</h2>
+<p style="font-style: normal;font-weight: 400;Margin-bottom: 21px;Margin-top: 16px;font-size: 15px;line-height: 24px;font-family: sans-serif;color: #60666d;">
+Learn to write your own programs and manage your training like an expert.&nbsp;
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="contents" style="border-collapse: collapse;border-spacing: 0;table-layout: fixed;width: 100%;">
+<tbody>
+<tr>
+<td class="padded" style="padding: 0;vertical-align: top;padding-left: 32px;padding-right: 16px;word-break: break-word;word-wrap: break-word;">
+            <div class="btn" style="Margin-bottom: 0;Margin-top: 0;text-align: left;">
+              <a style="border-radius: 3px;display: inline-block;font-size: 12px;font-weight: 700;line-height: 22px;padding: 10px 28px;text-align: center;text-decoration: none !important;transition: opacity 0.2s ease-in;color: #fff;font-family: sans-serif;background-color: #3786c5;" href="https://qn261.infusionsoft.com/app/linkClick/7612/712457c1c0db7f54/1811640/4177f298d275bf44" class="">Download the ebooks</a>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="column-bottom" style="font-size: 32px;line-height: 32px;transition-timing-function: cubic-bezier(0, 0, 0.2, 1);transition-duration: 150ms;transition-property: all;">
+&nbsp;
+</div>
+</td><td class="column second" style="padding: 0;vertical-align: top;text-align: left;width: 300px;">
+<div>
+<div class="column-top" style="font-size: 32px;line-height: 32px;transition-timing-function: cubic-bezier(0, 0, 0.2, 1);transition-duration: 150ms;transition-property: all;">
+&nbsp;
+</div>
+</div>
+<table class="contents" style="border-collapse: collapse;border-spacing: 0;table-layout: fixed;width: 100%;">
+<tbody>
+<tr>
+<td class="padded" style="padding: 0;vertical-align: top;padding-left: 16px;padding-right: 32px;word-break: break-word;word-wrap: break-word;">
+<div style="height:20px">
+&nbsp;
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+            <div class="image" style="font-size: 12px;mso-line-height-rule: at-least;font-style: normal;font-weight: 400;Margin-bottom: 0;Margin-top: 0;font-family: sans-serif;color: #60666d;" align="center">
+              <img class="gnd-corner-image gnd-corner-image-center gnd-corner-image-bottom" style="border: 0;-ms-interpolation-mode: bicubic;display: block;max-width: 414px;" src="http://i.imgur.com/z7XC5ag.png" alt="" width="300" height="223" />
+</div>
+<div class="column-bottom" style="font-size: 32px;line-height: 32px;transition-timing-function: cubic-bezier(0, 0, 0.2, 1);transition-duration: 150ms;transition-property: all;">
+&nbsp;
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td><td class="border" style="padding: 0;vertical-align: top;font-size: 1px;line-height: 1px;background-color: #dadada;width: 1px;">
+&#8203;
+</td>
+</tr>
+</tbody>
+</table>
+<table class="border" style="border-collapse: collapse;border-spacing: 0;font-size: 1px;line-height: 1px;background-color: #dadada;Margin-left: auto;Margin-right: auto;" width="602">
+<tbody>
+<tr>
+<td style="padding: 0;vertical-align: top;">
+&nbsp;
+</td>
+</tr>
+</tbody>
+</table>
+<table class="footer centered" style="border-collapse: collapse;border-spacing: 0;Margin-left: auto;Margin-right: auto;width: 100%;">
+<tbody>
+<tr>
+<td style="padding: 0;vertical-align: top;">
+&nbsp;
+</td><td class="inner" style="padding: 58px 0 29px 0;vertical-align: top;width: 600px;">
+<table class="right" style="border-collapse: collapse;border-spacing: 0;" align="right">
+<tbody>
+<tr>
+<td style="padding: 0;vertical-align: top;color: #b9b9b9;font-size: 12px;line-height: 22px;max-width: 200px;mso-line-height-rule: at-least;">
+                  <div class="sharing">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="left" style="border-collapse: collapse;border-spacing: 0;" align="left">
+<tbody>
+<tr>
+<td style="padding: 0;vertical-align: top;color: #b9b9b9;font-size: 12px;line-height: 22px;text-align: left;width: 400px;">
+                  <div class="address" style="font-family: Avenir,sans-serif;Margin-bottom: 18px;">
+</div>
+                  <div class="permission" style="font-family: Avenir,sans-serif;">
+</div>
+                  <div class="campaign" style="font-family: Avenir,sans-serif;Margin-bottom: 18px;">
+                    <span class="block" style=""><unsubscribe style="font-weight:bold;text-decoration:none;"><a href="https://qn261.infusionsoft.com/app/linkClick/546/8231c296aed810d1/1811640/4177f298d275bf44" class="">Unsubscribe</a></unsubscribe></span><br />
+                  Strengtheory P.O. Box 1504 Skyland, North Carolina 28776 United States<br />
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td><td style="padding: 0;vertical-align: top;">
+&nbsp;
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<img height="1" width="1" style="display: block;" src="https://qn261.infusionsoft.com/app/emailOpened/1811640/13886" />
+</body>
+</html>
+------=_Part_28785_2131371856.1446125720729--
+
+----
+
+Return-Path: <bounces+2693180-9b1c-hristo_b_kirov=abv.bg@m.dripemail2.com>
+Delivered-To: hristo_b_kirov@abv.bg
+Received: from o1678979x110.outbound-mail.sendgrid.net (o1678979x110.outbound-mail.sendgrid.net [167.89.79.110])
+	by pmx.abv.bg (Postfix) with ESMTPS id A1EAF280045
+	for <hristo_b_kirov@abv.bg>; Wed, 20 Apr 2016 21:34:37 +0300 (EEST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=dripemail2.com; 
+	h=content-type:from:mime-version:reply-to:subject:to; s=s1; 
+	bh=pYIu5u+Gh05pHHkh8z9ZC5DSXoM=; b=ZpabmyaoCRK5mni7vG1HQIxee2xhC
+	IhuySi0NfjNjvulWKi2WfukVD3ap4+nAgGUm8jJXKIohgHnozOFe8Re+ZIXkb2BN
+	zx5jLz8CzYMq7tjZtGbBWOFVk6v/n+cl6HHPWI/X6jTmjBqpCjOddoEcyUSPCUx3
+	cL23TGya34aBqk=
+Received: by filter0485p1mdw1.sendgrid.net with SMTP id filter0485p1mdw1.4817.5717CBB91A
+        2016-04-20 18:34:33.058321259 +0000 UTC
+Received: from MjY5MzE4MA (ec2-52-91-56-161.compute-1.amazonaws.com [52.91.56.161])
+	by ismtpd0006p1iad1.sendgrid.net (SG) with HTTP id L6MHz5FcQPatW6ADt-QDOA
+	for <hristo_b_kirov@abv.bg>; Wed, 20 Apr 2016 18:34:33.063 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=6de336e7476b91be7252cab6a9ad3761677149b1569599882cbb5a03652a
+Date: Wed, 20 Apr 2016 18:34:33 +0000
+From: "Greg Nuckols" <support@strengtheory.com>
+Mime-Version: 1.0
+Reply-To: reply-iuqtzqp7cxjqpvubqqzj@in2.getdrip.com
+Subject: =?UTF-8?Q?The_science_of_sore_=E2=80=93_DOMS_explained?=
+To: hristo_b_kirov@abv.bg
+Message-ID: <L6MHz5FcQPatW6ADt-QDOA@ismtpd0006p1iad1.sendgrid.net>
+X-SG-EID: /ki/UKEvX938BsZTQkxKop3t2U7oIxt5/vnoldMdcob+DpLbClhnRA5kI/VwbLvnHt6vfaTKQNGBtf
+ hVigCd2Vo52s39DVO/Sn3DLjCr55ZQ6S8zwbo82AJ6sPxgC49QP3Py9bTSiv3tXdt8pTJE3KbVT2Cj
+ cEutvxM7WpM8RaJk0N4urHpsxV5KKscNSNNsah3pLVF23qBW5q2AijcxwGh3By4DWKN0ySx1QrECey
+ g=
+X-SG-ID: 6l1ICXxVk1U2NQBE+KPgx66LYxXxghbvezlrgpCusWAEq72vtaSwoaX9pTLKQC+ZfjEbGVznBFTUE7
+ i7NCXUeg==
+
+--6de336e7476b91be7252cab6a9ad3761677149b1569599882cbb5a03652a
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+As I write this, my back is in agony.
+
+Luckily, for the first time in a while, it's the good kind of
+agony. I've been working around some back issues for a while
+now, and last night was the first time in several months I've
+been able to deadlift at 100% effort pain-free. Instead of
+hobbling around like a crotchety old man because my SI joint is
+yapping at me, I'm hobbling around like a crotchety old man
+because of some pretty intense delayed onset muscle soreness
+(DOMS), head to toe.
+
+So what causes muscle soreness in the first place? Does soreness
+necessarily equate to muscle growth? And what steps can you take
+to reduce DOMS from training?
+
+This week's guest article from our Brandon Roberts (who's
+finishing up his PhD in muscle biology) addresses all of these
+questions. If you've ever been curious about DOMS, or if you're
+looking for strategies to alleviate soreness, check out The
+Science of Sore =E2=80=93 DOMS Explained ( http://t.dripemail2.com/c/eyJhY2=
+NvdW50X2lkIjoiMTU2Nzg0MyIsImRlbGl2ZXJ5X2lkIjoiMTQxMTk2MzExIiwidXJsIjoiaHR0c=
+DovL3N0cmVuZ3RoZW9yeS5jb20vZG9tcy8_X19zPXoxem04Zm5memJ5b2ludGhhcmhpIn0 ) on=
+ Strengtheory.
+
+Hope you enjoy!
+
+Greg
+
+____________________________________________
+
+Share article on Facebook ( http://t.dripemail2.com/c/eyJhY2NvdW50X2lkIjoiM=
+TU2Nzg0MyIsImRlbGl2ZXJ5X2lkIjoiMTQxMTk2MzExIiwidXJsIjoiaHR0cHM6Ly93d3cuZmFj=
+ZWJvb2suY29tL3NoYXJlci9zaGFyZXIucGhwP3U9aHR0cDovL3N0cmVuZ3RoZW9yeS5jb20vZG9=
+tcy9cdTAwMjZfX3M9ejF6bThmbmZ6YnlvaW50aGFyaGkifQ ) | Share article on Twitte=
+r ( http://t.dripemail2.com/c/eyJhY2NvdW50X2lkIjoiMTU2Nzg0MyIsImRlbGl2ZXJ5X=
+2lkIjoiMTQxMTk2MzExIiwidXJsIjoiaHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ_=
+dGV4dD1DaGVjayUyMG91dCUyMHRoaXMlMjBhcnRpY2xlJTIwXHUwMDI2dXJsPWh0dHA6Ly9zdHJ=
+lbmd0aGVvcnkuY29tL2RvbXMvXHUwMDI2dmlhPVN0cmVuZ3RocnlcdTAwMjZfX3M9ejF6bThmbm=
+Z6YnlvaW50aGFyaGkifQ )
+
+---------------------
+To make sure you keep getting these emails, please add
+support@strengtheory.com to your address book or whitelist us. Want out of
+the loop? <a href=3D"http://t.dripemail2.com/c/eyJhY2NvdW50X2lkIjoiMTU2Nzg0=
+MyIsImRlbGl2ZXJ5X2lkIjoiMTQxMTk2MzExIiwidXJsIjoiaHR0cHM6Ly93d3cuZ2V0ZHJpcC5=
+jb20vc3Vic2NyaWJlcnMvejF6bThmbmZ6YnlvaW50aGFyaGkvdW5zdWJzY3JpYmU_YnJvYWRjYX=
+N0PTc3NDQ5MDc2XHUwMDI2ZD1pdXF0enFwN2N4anFwdnVicXF6alx1MDAyNmV4Y2x1ZGVfY2xpY=
+2s9MVx1MDAyNl9fcz16MXptOGZuZnpieW9pbnRoYXJoaSJ9">Unsubscribe</a>.
+
+Our postal address: P.O. Box 1504, Skyland, NC 28776, United States
+
+
+--6de336e7476b91be7252cab6a9ad3761677149b1569599882cbb5a03652a
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.=
+0">
+</head>
+<body style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; =
+margin: 0; padding: 0; width: 100% !important">
+<style type=3D"text/css">
+body {
+width: 100% !important; -webkit-text-size-adjust: 100%; -ms-text-size-adjus=
+t: 100%; margin: 0; padding: 0;
+}
+.ExternalClass {
+width: 100%;
+}
+.ExternalClass {
+line-height: 100%;
+}
+#backgroundTable {
+margin: 0; padding: 0; width: 600px !important; line-height: 100% !importan=
+t;
+}
+img {
+outline: none; text-decoration: none; -ms-interpolation-mode: bicubic;
+}
+h1 a:active {
+color: red !important;
+}
+h2 a:active {
+color: red !important;
+}
+h3 a:active {
+color: red !important;
+}
+h4 a:active {
+color: red !important;
+}
+h5 a:active {
+color: red !important;
+}
+h6 a:active {
+color: red !important;
+}
+h1 a:visited {
+color: purple !important;
+}
+h2 a:visited {
+color: purple !important;
+}
+h3 a:visited {
+color: purple !important;
+}
+h4 a:visited {
+color: purple !important;
+}
+h5 a:visited {
+color: purple !important;
+}
+h6 a:visited {
+color: purple !important;
+}
+</style>
+<div id=3D"main-content" style=3D"color: #222222; font-family: 'Georgia', '=
+Times New Roman', serif; font-size: 16px; line-height: 1.4; padding: 25px; =
+width: 550px">As I write this, my back is in agony.=C2=A0<br><br>
+Luckily, for the first time in a while, it's the good kind of agony.=C2=A0 =
+I've been working around some back issues for a while now, and last night w=
+as the first time in several months I've been able to deadlift at 100% effo=
+rt pain-free.=C2=A0 Instead of hobbling around like a crotchety old man bec=
+ause my SI joint is yapping at me, I'm hobbling around like a crotchety old=
+ man because of some pretty intense delayed onset muscle soreness (DOMS), h=
+ead to toe.<br><br>
+So what causes muscle soreness in the first place?=C2=A0 Does soreness nece=
+ssarily equate to muscle growth?=C2=A0 And what steps can you take to reduc=
+e DOMS from training?<br><br>
+This week's guest article from our Brandon Roberts (who's finishing up his =
+PhD in muscle biology) addresses all of these questions.=C2=A0 If you've ev=
+er been curious about DOMS, or if you're looking for strategies to alleviat=
+e soreness, check out=C2=A0<a href=3D"http://t.dripemail2.com/c/eyJhY2NvdW5=
+0X2lkIjoiMTU2Nzg0MyIsImRlbGl2ZXJ5X2lkIjoiMTQxMTk2MzExIiwidXJsIjoiaHR0cDovL3=
+N0cmVuZ3RoZW9yeS5jb20vZG9tcy8_X19zPXoxem04Zm5memJ5b2ludGhhcmhpIn0" target=
+=3D"_blank" style=3D"color: blue">The Science of Sore =E2=80=93 DOMS Explai=
+ned</a>=C2=A0on Strengtheory.<br><br>
+Hope you enjoy!<br><br>
+Greg<br><br>
+____________________________________________<br>
+=C2=A0
+<p style=3D"margin: 1em 0"><a href=3D"http://t.dripemail2.com/c/eyJhY2NvdW5=
+0X2lkIjoiMTU2Nzg0MyIsImRlbGl2ZXJ5X2lkIjoiMTQxMTk2MzExIiwidXJsIjoiaHR0cHM6Ly=
+93d3cuZmFjZWJvb2suY29tL3NoYXJlci9zaGFyZXIucGhwP3U9aHR0cDovL3N0cmVuZ3RoZW9ye=
+S5jb20vZG9tcy9cdTAwMjZfX3M9ejF6bThmbmZ6YnlvaW50aGFyaGkifQ" style=3D"color: =
+blue">Share article on Facebook</a> | <a href=3D"http://t.dripemail2.com/c/=
+eyJhY2NvdW50X2lkIjoiMTU2Nzg0MyIsImRlbGl2ZXJ5X2lkIjoiMTQxMTk2MzExIiwidXJsIjo=
+iaHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ_dGV4dD1DaGVjayUyMG91dCUyMHRoaX=
+MlMjBhcnRpY2xlJTIwXHUwMDI2dXJsPWh0dHA6Ly9zdHJlbmd0aGVvcnkuY29tL2RvbXMvXHUwM=
+DI2dmlhPVN0cmVuZ3RocnlcdTAwMjZfX3M9ejF6bThmbmZ6YnlvaW50aGFyaGkifQ" style=3D=
+"color: blue">Share article on Twitter</a>=C2=A0</p>
+</div>
+
+=20=20
+    <div id=3D"footer" style=3D"border-top-color: #d0d0d0; border-top-style=
+: solid; border-top-width: 1px; color: #777; font-family: 'Helvetica', 'Ari=
+al', sans-serif; font-size: 13px; line-height: 1.4; padding: 25px; width: 5=
+50px">
+      To make sure you keep getting these emails, please add support@streng=
+theory.com to your address book or whitelist us. Want out of the loop? <a h=
+ref=3D"http://t.dripemail2.com/c/eyJhY2NvdW50X2lkIjoiMTU2Nzg0MyIsImRlbGl2ZX=
+J5X2lkIjoiMTQxMTk2MzExIiwidXJsIjoiaHR0cHM6Ly93d3cuZ2V0ZHJpcC5jb20vc3Vic2Nya=
+WJlcnMvejF6bThmbmZ6YnlvaW50aGFyaGkvdW5zdWJzY3JpYmU_YnJvYWRjYXN0PTc3NDQ5MDc2=
+XHUwMDI2ZD1pdXF0enFwN2N4anFwdnVicXF6alx1MDAyNmV4Y2x1ZGVfY2xpY2s9MVx1MDAyNl9=
+fcz16MXptOGZuZnpieW9pbnRoYXJoaSJ9" style=3D"color: blue">Unsubscribe</a>.<b=
+r><br>
+Our postal address: P.O. Box 1504, Skyland, NC 28776, United States
+    </div>
+=20=20
+
+<img src=3D"http://o.dripemail2.com/wf/open?upn=3DuzVME1Tu7XtkNRRBqQ9KnTLAB=
+NtweorZ-2FqaVy-2BwOodHQXO1UBhMFe5psUJFcXEN4RiBncfAdpakyq4ud5uHGkeRqXM1HHM-2=
+Fsj8zUfSAMkr07xK53D507aws1pKCTBdd7jTTBOdXWWlPVTizX7RBTUJ8XZZn7VftwOoqQwfWFl=
+OiktlzwpcF-2BP8Iz6EedhC1YHmMjyTVcGToBdQBXL4Bbi0Ux6RqewdkYBbVxog0rjRNQHTFhvF=
+OfZBVs1oNd9aHgMJzGydJXLttFlcZaceB-2FtBvrkVZCylUjI-2FqnRv9GwKo-3D" alt=3D"" =
+width=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !important;width:=
+1px !important;border-width:0 !important;margin-top:0 !important;margin-bot=
+tom:0 !important;margin-right:0 !important;margin-left:0 !important;padding=
+-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;pa=
+dding-left:0 !important;"/>
+</body>
+</html>
+
+
+--6de336e7476b91be7252cab6a9ad3761677149b1569599882cbb5a03652a--
+
+----
+
+Return-Path: <bounce-md_30115094.56c5ed21.v1-7820049e3a55486983a1e50effff6a8c@click.dripemail2.com>
+Delivered-To: hristo_b_kirov@abv.bg
+Received: from mail136-23.atl41.mandrillapp.com (mail136-23.atl41.mandrillapp.com [198.2.136.23])
+	by pmx.abv.bg (Postfix) with ESMTPS id 2DE51C04A0
+	for <hristo_b_kirov@abv.bg>; Thu, 18 Feb 2016 18:11:15 +0200 (EET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mandrill; d=dripemail2.com;
+ h=From:Sender:Subject:Reply-To:To:Message-Id:Date:MIME-Version:Content-Type; i=support@dripemail2.com;
+ bh=qpHiEcyu2/V+mwC4unO7iuZPAY8=;
+ b=f5OqRkd/jKXNED8GN//ePrO0E3mAUn2nHz7l44//RbfLoZlkVFF8BV18MLO2zXh98bFcveAXcPsb
+   VstG/vsEl1ah0MlgTd+p9u2qqBdRPJwDLhcTjoqaAotB+ARZBQxa0a2VBHD5Pv8caAnTx2JT0Jze
+   PUiuIxH/COindV5x1Es=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mandrill; d=dripemail2.com;
+ b=NUb7qwUeRud21xuCe3o64j6eB2sI7uuaCrpGnRlMAdejnEgMuzXBdh/+Q6t9Njf0SpIhwiGE8cBR
+   Y4ti7nVelUrytwSAnmNr0xSYyMSW9YNkD9NZaXhns5Jm0LL0djCEeXLNOlwfNOaZDTckOA6s2Utw
+   2YmiRGRbTXZ7szyqYLo=;
+Received: from pmta04.mandrill.prod.atl01.rsglab.com (127.0.0.1) by mail136-23.atl41.mandrillapp.com id honmi61sb1kv for <hristo_b_kirov@abv.bg>; Thu, 18 Feb 2016 16:11:13 +0000 (envelope-from <bounce-md_30115094.56c5ed21.v1-7820049e3a55486983a1e50effff6a8c@click.dripemail2.com>)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mandrillapp.com; 
+ i=@mandrillapp.com; q=dns/txt; s=mandrill; t=1455811873; h=From : 
+ Sender : Subject : Reply-To : To : Message-Id : Date : MIME-Version : 
+ Content-Type : From : Subject : Date : X-Mandrill-User : 
+ List-Unsubscribe; bh=E+j+jQi0g9tu/e9h765KJBTuxZUA/LTGnZ6sMWOlg3Q=; 
+ b=CHdW5ntoRFibHBGimLwBEnjPL0zj2dHSD3blad5I1Xxfd/6FpKMgUw3TlQ2pWvyhKBRjuF
+ 7ML1AT8/FMpeP4JhgAJNiXBRmmeXHyG5Uewh3bBTOgb0KzXbIL3ZBRwB8yu99VSRl1lmBRsX
+ D8XjR2ksGBLlbT9xbpOm/gqu5NOu4=
+From: Greg Nuckols <support@strengtheory.com>
+Sender: Greg Nuckols <support@dripemail2.com>
+Subject: NEW article on Strengtheory: What Does EMG Amplitude Tell Us About Muscle Hypertrophy?
+Received: from [54.172.75.16] by mandrillapp.com id 7820049e3a55486983a1e50effff6a8c; Thu, 18 Feb 2016 16:11:13 +0000
+Reply-To: <reply-2idkqjs9ojqgh8yw9aew@in.getdrip.com>
+To: <hristo_b_kirov@abv.bg>
+X-Report-Abuse: Please forward a copy of this message, including all headers, to abuse@mandrill.com
+X-Report-Abuse: You can also report abuse here: http://mandrillapp.com/contact/abuse?id=30115094.7820049e3a55486983a1e50effff6a8c
+X-Mandrill-User: md_30115094
+Message-Id: <30115094.20160218161113.56c5ed21a16a86.90377671@mail136-23.atl41.mandrillapp.com>
+Date: Thu, 18 Feb 2016 16:11:13 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="_av-OSSWYAv_RBybKaBDSIbERQ"
+
+--_av-OSSWYAv_RBybKaBDSIbERQ
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+*********************************************************
+What Does EMG Amplitude Tell Us About Muscle Hypertrophy?
+*********************************************************
+
+By Dan Ogborn | Read on Strengtheory.com ( http://t.dripemail2.com/c/eyJhY2=
+NvdW50X2lkIjoiMTU2Nzg0MyIsImRlbGl2ZXJ5X2lkIjoiMTA5OTU5MjU1IiwidXJsIjoiaHR0c=
+DovL3d3dy5zdHJlbmd0aGVvcnkuY29tL2VtZy1hbXBsaXR1ZGUtdGVsbC11cy1tdXNjbGUtaHlw=
+ZXJ0cm9waHkvP19fcz16MXptOGZuZnpieW9pbnRoYXJoaSJ9 )
+
+What Does EMG Amplitude Tell Us About Muscle Hypertrophy?
+
+Photo credit to Adam Palmer of 9 for 9 Media ( http://t.dripemail2.com/c/ey=
+JhY2NvdW50X2lkIjoiMTU2Nzg0MyIsImRlbGl2ZXJ5X2lkIjoiMTA5OTU5MjU1IiwidXJsIjoia=
+HR0cDovLzlmb3I5bWVkaWEuY29tP19fcz16MXptOGZuZnpieW9pbnRoYXJoaSJ9 )
+
+Over the past few years, the data indicating that low intensity
+training, when taken to the point of concentric failure, produces
+comparable hypertrophy to high load training has literally piled
+up. There=E2=80=99s a growing collection of studies in both trained and
+untrained individuals, considering whole muscle growth and that
+of specific fiber types, all of which demonstrate the comparable
+effectiveness of various training intensities to promote muscle
+growth (1-6).
+
+Despite the growing collection of studies on our outcome of
+interest (hypertrophy), there=E2=80=99s still resistance to the idea that
+low intensity training (i.e. 30%-1RM) can be as effective as high
+intensity training for muscle mass (>65%-1RM). While there are
+studies that do not support our new-found understanding (7,8),
+much of the resistance stems from the idea that light weights do
+not recruit as much muscle as is required to move heavy ones (9).
+
+If the idea that a muscle fiber must be recruited in order to
+adapt to training is true, then any stimulus that fails to
+stimulate a good proportion of the motor unit pool within a
+muscle would likely produce less growth than one that does. Score
+one for heavy weights, right?
+
+Not so fast.
+
+A brief overview of surface electromyography (EMG)
+--------------------------------------------------
+
+The intent of this article is not to give an in-depth description
+of the methodology and technical aspects of the use of EMG in
+experimental research. For those looking for more detail, I=E2=80=99d
+recommend reviewing Chris Beardsley=E2=80=99s EMG entry ( http://t.dripemai=
+l2.com/c/eyJhY2NvdW50X2lkIjoiMTU2Nzg0MyIsImRlbGl2ZXJ5X2lkIjoiMTA5OTU5MjU1Ii=
+widXJsIjoiaHR0cDovL3d3dy5zdHJlbmd0aGFuZGNvbmRpdGlvbmluZ3Jlc2VhcmNoLmNvbS9ia=
+W9tZWNoYW5pY3MvZWxlY3Ryb215b2dyYXBoeS1lbWcvP19fcz16MXptOGZuZnpieW9pbnRoYXJo=
+aSJ9 ) in his encyclopedia of Strength and Conditioning Research.
+
+At the simplest level, electromyography involves the recording of
+electrical activity within the muscle (10). With sport and
+exercise science, this technique is often used to determine
+whether muscles contribute, or are active, during a given
+movement/exercise, how active a muscle is relative to the
+activity during a maximum contraction, and the relationship of
+the activity between muscles during human movement (10).
+
+In response to stimulation by an innervating alpha motor-neuron,
+depolarization along the muscle fiber membrane ultimately
+simulates muscle contraction. Surface EMG electrodes, when
+applied to the skin above the muscle, are able to detect
+alterations in electrical potential, and are indicative of the
+electrical activity within the muscle (11). The =E2=80=9Cactivity=E2=80=9D =
+in
+these electrodes is limited only to a certain number of fibers
+adjacent to the electrode, termed the receptive field, yet is
+often thought to accurately represent the collective activity
+within the entire muscle.
+
+There are two recent studies that have misapplied EMG to imply
+that heavier training to failure recruits more motor units than
+lighter training to failure, but first, let=E2=80=99s look at a simple
+analogy to understand what using surface EMG amplitude actually
+tells you in the context of estimating motor unit recruitment.
+
+Imagine you are outside a party listening to everyone talking
+through a door. I don=E2=80=99t tell you how many people are in the room,
+but I have them all yell as loud as they can at the same time,
+the equivalent of the maximum voluntary contraction in an EMG
+experiment.
+
+After giving you an idea of the maximum volume, I have you listen
+at the door to a given number of people talking, but again I
+don=E2=80=99t tell you how many. Could you tell me how loud it
+was relative to the maximum conversation volume? It=E2=80=99s possible.
+You may not be able to tell me that 50/100 people were talking,
+but it=E2=80=99s possible you could tell that it was 50% of the volume of
+the maximum condition.
+
+Now I have you listen for an extended period of time as some
+people talk, others start and stop, and new people chime in.
+Could you tell me how many people talked relative to the maximum?
+It=E2=80=99s possible that you could again tell me what the peak volume
+was relative to our initial maximum.
+
+What if I brought you into the room and asked you if you could
+tell me exactly who talked out of everyone at the party? Or if
+you could tell me how many of them had talked at some point in
+the conversation? You probably couldn=E2=80=99t do that.
+
+This is the equivalent to EMG amplitude for assessing motor unit
+recruitment. You can describe the EMG amplitude during a task
+relative to the maximum, as is commonly done and with more
+precision than our party analogy. While there are more
+complicated methods to determine with greater specificity motor
+unit contributions during tasks, ultimately, surface EMG
+amplitude cannot tell us which motor units were used, or how many
+were used at some point during the measurement (the equivalent of
+identifying who was talking at the party).
+
+Comparing EMG amplitude during low- and high-intensity training
+---------------------------------------------------------------
+
+Two recent studies have used EMG amplitude to make conclusions
+regarding the effectiveness of low intensity strength training.
+In the first, Looney et al (9) had 10 resistance-trained men
+perform Smith machine squats to parallel depth while measuring
+surface EMG of the vastus lateralis and medialis muscles and
+participant ratings of perceived exertion (RPE). Participants
+completed two experimental protocols, one involving two sets of
+submaximal repetitions at 50 and 70%-1RM followed by a dropset to
+fatigue (90%, 70%, 50%-1RM), and the other involving two
+submaximal sets at 50 and 70%-1RM and one to failure at 50%-1RM.
+
+In general, submaximal sets had lower EMG amplitudes than maximal
+sets at an equivalent intensity in both muscles. For training
+intensity, EMG amplitude was greater at higher training
+intensities in both the VL and the VM. RPE was comparable across
+training intensities when taken to failure and was only lower
+when training short of failure at 50%-1RM or following the
+50%-1RM dropset.
+
+These results lead Looney et al (9) to conclude:
+
+The results of this investigation indicate that using higher
+external resistance is a more effective means of maximizing
+muscle activation than increasing the number of repetitions
+performed. Accordingly, previous recommendations for the use of
+heavier loads during resistance training programs emphasizing
+strength and hypertrophy are further supported.=E2=80=9D (emphasis mine)
+
+In the second study, Jenkins et al (12) had 18 participants
+complete two training conditions in which they completed three
+sets of leg extension to failure with either 80 or 30% of their
+one-repetition maximum (1RM). Surface EMG was collected through
+the trials, and ultrasound was used to detect changes in muscle
+swelling (cross sectional area, echo intensity) after each
+loading condition.
+
+Not surprisingly, volume and work as well as time under tension
+were greater when training at 30%-1RM than 80%-1RM. EMG amplitude
+was consistent across the three sets at 80%-1RM. At 30%-1RM, EMG
+amplitude increased over the course of the three sets, but was
+still lower than the sets at 80%-1RM. Muscle cross-sectional area
+increased to a greater extent when training at 30%-1RM, with no
+difference detected in echo intensity, which is often used as a
+marker of exercise-induced swelling (edema).
+
+Jenkins et al (12) are much more conservative in their message,
+choosing to acknowledge the existing literature showing
+comparable growth between the conditions. As they also measured
+other variables with a differential response between conditions,
+the authors suggest that low- and high-intensity training may
+arrive at comparable growth, but in response to differing
+cellular stimuli, stating:
+
+Our results demonstrated that muscle activation was 38=E2=80=9362 % lower
+for the superficial quadriceps femoris muscles during resistance
+exercise at 30% than at 80% 1RM, despite fatigue- induced
+increases in EMG AMP (amplitude) at both 80 and 30% 1RM. However,
+the cumulative volume and muscle activation, time under load, and
+increases in mCSA from pre- to post- exercise (i.e., muscle
+swelling) were greater, while the decreases in EMG MPF were more
+pronounced for 30% 1RM. These fundamental differences in fatigue
+manifestations may help explain the unexpected chronic
+adaptations in hypertrophy vs. strength observed in previous
+studies.=E2=80=9D
+
+The difference in wording between the two groups is important:
+The first suggests that heavier is better (9), whereas the latter
+(12) attempts to integrate their results with the fact that the
+present literature does not support a differential hypertrophic
+response between low- and high-intensity training (1).
+Differences in EMG may exist, but it=E2=80=99s possible that other
+mechanisms contribute to the hypertrophic =E2=80=9Cpotential=E2=80=9D of
+low-intensity training.
+
+Putting these results in context =E2=80=93 or why we shouldn=E2=80=99t jump=
+ to
+any conclusions
+-----------------------------------------------------------------
+
+I was contacted a few months back to assist Andrew Vigotsky ( http://t.drip=
+email2.com/c/eyJhY2NvdW50X2lkIjoiMTU2Nzg0MyIsImRlbGl2ZXJ5X2lkIjoiMTA5OTU5Mj=
+U1IiwidXJsIjoiaHR0cHM6Ly90d2l0dGVyLmNvbS9hdmlnb3Rza3k_X19zPXoxem04Zm5memJ5b=
+2ludGhhcmhpIn0 ) =E2=80=93 an active, upcoming researcher
+in the health and fitness industry =E2=80=93 to address both of these
+studies in a letter to the editor. This is an important part of
+the scientific process, where researchers are allowed to
+criticize (constructively) each other=E2=80=99s work in the hopes of
+fostering a greater understanding of the issue. Unfortunately,
+these letters are often published months after the original study
+and rarely receive the attention they deserve. For those
+interested, the letters to Looney et al (9) can be found here ( http://t.dr=
+ipemail2.com/c/eyJhY2NvdW50X2lkIjoiMTU2Nzg0MyIsImRlbGl2ZXJ5X2lkIjoiMTA5OTU5=
+MjU1IiwidXJsIjoiaHR0cDovL2pvdXJuYWxzLmx3dy5jb20vbnNjYS1qc2NyL0NpdGF0aW9uL3B=
+1Ymxpc2hhaGVhZC9HcmVhdGVyX2VsZWN0cm9teW9ncmFwaGljX3Jlc3BvbnNlc19kb19ub3RfaW=
+1wbHkuOTY2NTUuYXNweD9fX3M9ejF6bThmbmZ6YnlvaW50aGFyaGkifQ ) (13), and Jenkin=
+s et al (12) here ( http://t.dripemail2.com/c/eyJhY2NvdW50X2lkIjoiMTU2Nzg0M=
+yIsImRlbGl2ZXJ5X2lkIjoiMTA5OTU5MjU1IiwidXJsIjoiaHR0cDovL2xpbmsuc3ByaW5nZXIu=
+Y29tL2FydGljbGUvMTAuMTAwNy9zMDA0MjEtMDE1LTMzMTQtNj9fX3M9ejF6bThmbmZ6YnlvaW5=
+0aGFyaGkifQ )
+(14). Andrew has also written more on this on Bret Contreras=E2=80=99s
+site here ( http://t.dripemail2.com/c/eyJhY2NvdW50X2lkIjoiMTU2Nzg0MyIsImRlb=
+Gl2ZXJ5X2lkIjoiMTA5OTU5MjU1IiwidXJsIjoiaHR0cHM6Ly9icmV0Y29udHJlcmFzLmNvbS9j=
+YW4tbW90b3ItdW5pdC1yZWNydWl0bWVudC1iZS1pbmZlcnJlZC1mcm9tLWVtZy1hbXBsaXR1ZGU=
+vP19fcz16MXptOGZuZnpieW9pbnRoYXJoaSJ9 ).
+
+We had some concerns with how these studies are used to support
+the argument that high loads are required to maximize muscular
+hypertrophy, or that high loads are inherently more effective at
+promoting hypertrophy than lower loads. These concerns can be
+broken down into the following questions:
+
+Is surface EMG amplitude an appropriate measure of motor unit
+recruitment?
+
+The normalization and interpretation of EMG signals is a
+complicated area, and one that even researchers get wrong (15).
+These issues lead Carlo De Luca (16), a prominent researcher in
+the field of neuromuscular physiology, to state:
+
+To its detriment, electromyography is too easy to use and
+consequently too easy to abuse.=E2=80=9D
+
+The surface EMG signal is inclusive of multiple components which
+limit our ability to determine what happens at the motor unit
+level. The EMG signal is representative of both neural and
+peripheral (muscular) components, all of which may be subject to
+change during dynamic, fatiguing contractions (17) like those
+used by both Jenkins et al (12) and Looney et al (9). As
+discussed by Vigtosky et al (13,14), changes in the
+characteristics of intracellular action potentials within muscle
+during fatiguing actions may alter surface EMG signals (17),
+independent of any changes in motor unit recruitment.
+
+There are more rigorous EMG methodologies that tell us more about
+motor unit recruitment, yet these methods are rarely used in
+exercise physiology. Suffice it to say, that=E2=80=99s why most
+researchers play it safe, and use the general term =E2=80=9Cactivation=E2=
+=80=9D
+as opposed to recruitment. Yet the connotation is that greater
+=E2=80=9Cactivation=E2=80=9D implies greater recruitment, and to some, a gr=
+eater
+hypertrophic stimulus.
+
+Should EMG amplitude be equivalent with fatigue between high and
+low-load training?
+
+The relationship of motor unit recruitment to fatigue is complex,
+and our understanding in this area is constantly evolving. The
+comparable hypertrophy between low and high-intensity training is
+thought to be a consequence of motor-unit cycling (18,19). Motor
+units have different recruitment thresholds that decrease under
+fatiguing conditions. While it is likely that high-intensity
+training requires greater simultaneous activation of motor units
+due to the higher force requirements, low-intensity training may
+recruit just as many motor units, just at different times. During
+a fatiguing contraction, some motor units will remain active,
+others will stop working, and new ones will start. With the
+prolonged time-under-tension of low-load training, it=E2=80=99s possible
+that motor unit cycling allows a comparable population of motor
+units to be recruited during the task, just with fewer being
+recruited at the same time.
+
+In the high-intensity condition, motor unit recruitment is likely
+higher initially to meet the increased force demands of the task
+relative to low intensity, otherwise you=E2=80=99d fail to lift the
+weight. It is entirely plausible that a greater number of motor
+units are recruited at a single point in time, which produce at
+least a sufficient amount of force to complete the task. This
+greater simultaneous recruitment could explain the elevated
+initial EMG amplitude as compared with a lower force task
+observed by both Jenkins et al and Looney et al (9,12), which
+would need less simultaneously active units given the lower force
+requirements at any point in time.
+
+So if high-intensity loads required greater simultaneous
+recruitment, and low-intensity loads rely on an asynchronous
+recruitment strategy, it could be plausible that there would be
+at least some level of difference in EMG amplitude between the
+two conditions, which would decrease with increasing fatigue.
+Despite these differences, it=E2=80=99s possible that the exact same
+number of motor units were recruited between the high and
+low-load conditions; it=E2=80=99s just that the high-load
+condition recruited more of them at the same time.
+
+Should data from an acute experimental design be given greater
+weight than measurements of the direct outcome of interest
+(muscle growth) in longer-term training studies?
+
+This is perhaps the most important argument, as it is a common
+problem in the health and fitness world. We often use proxies of
+our actual primary outcomes to determine the effectiveness of a
+given training program, and in doing so, end up ignoring data
+from well-designed studies. If we have data from multiple
+training studies, directly measuring any form of muscle growth
+(CSA, thickness) or even just lean-body mass, this should be
+given greater weighting in our decisions than acutely measured
+secondary variables.
+
+Attempting to use any other measure to predict muscle growth
+requires a substantial burden of evidence to establish its
+predictive value. I=E2=80=99m not saying we should ignore acute protein
+synthesis, EMG, or signaling protein data, but if it doesn=E2=80=99t
+reconcile with data on our primary, relevant outcome measures
+(hypertrophy), the decision you make should be an easy one.
+
+In this case, we have two studies demonstrating a difference in
+EMG amplitude (9,12), that some have used to suggest that motor
+unit recruitment is greater with high-intensity training, and
+therefore a superior hypertrophic stimulus to low intensity
+training. Yet when the training studies have been performed, and
+muscle growth directly measured, we know this isn=E2=80=99t the case
+(1-6).
+
+Conclusion
+----------
+
+If you find yourself questioning the hypertrophic effectiveness
+of low-intensity training, I=E2=80=99d suggest you=E2=80=99re asking the wr=
+ong
+question. Rather, we should be questioning what acute studies
+assessing surface EMG amplitude are actually telling us about the
+hypertrophic adaptations to training. I=E2=80=99m not questioning the
+differences between the two conditions observed by both Jenkins
+et al (12) and Looney et al (9), but given the data demonstrating
+comparable whole muscle and fiber-type specific growth, I=E2=80=99d
+suggest it isn=E2=80=99t telling us much, at least as far as muscle
+growth is concerned.
+
+Recap
+-----
+
+* Surface EMG amplitude is often used as a measure of motor unit
+recruitment, but it cannot provide any specifics regarding the
+recruitment of specific populations of motor units. This doesn=E2=80=99t
+mean we shouldn=E2=80=99t use EMG, but should be aware of its limitations
+when interpreting it.
+
+* Two recent studies (9,12) have demonstrated reduced EMG
+amplitude with low- as compared to high-intensity training, and
+this is often used to suggest low-intensity training would result
+in less muscle growth than high-intensity training.
+
+* Despite acute differences in EMG amplitude, numerous studies
+have demonstrated comparable muscle growth between high and
+low-intensity training, in trained and untrained individuals,
+considering both whole muscle and fiber-type specific growth.
+Data on our primary outcome trumps indirect physiological
+arguments every day of the week.
+
+* There is no evidence that the simultaneous activation of a
+large number of motor units is superior for hypertrophy as
+compared to a more time-intensive, gradual recruitment strategy.
+When designing a hypertrophy training program there is no need to
+pick specific program parameter combinations (intensity, tempo,
+etc=E2=80=A6) outside of exercise selection to maximize surface EMG
+amplitude.
+
+References are available at the end of the article on
+the Strengtheory post ( http://t.dripemail2.com/c/eyJhY2NvdW50X2lkIjoiMTU2N=
+zg0MyIsImRlbGl2ZXJ5X2lkIjoiMTA5OTU5MjU1IiwidXJsIjoiaHR0cDovL3d3dy5zdHJlbmd0=
+aGVvcnkuY29tL2VtZy1hbXBsaXR1ZGUtdGVsbC11cy1tdXNjbGUtaHlwZXJ0cm9waHkvP19fcz1=
+6MXptOGZuZnpieW9pbnRoYXJoaSJ9 ).
+-----------------------------------------------------------------
+
+Share on Facebook ( http://t.dripemail2.com/c/eyJhY2NvdW50X2lkIjoiMTU2Nzg0M=
+yIsImRlbGl2ZXJ5X2lkIjoiMTA5OTU5MjU1IiwidXJsIjoiaHR0cHM6Ly93d3cuZmFjZWJvb2su=
+Y29tL3NoYXJlci9zaGFyZXIucGhwP3U9aHR0cDovL3d3dy5zdHJlbmd0aGVvcnkuY29tL2VtZy1=
+hbXBsaXR1ZGUtdGVsbC11cy1tdXNjbGUtaHlwZXJ0cm9waHkvXHUwMDI2X19zPXoxem04Zm5mem=
+J5b2ludGhhcmhpIn0 ) | Share on Twitter ( http://t.dripemail2.com/c/eyJhY2Nv=
+dW50X2lkIjoiMTU2Nzg0MyIsImRlbGl2ZXJ5X2lkIjoiMTA5OTU5MjU1IiwidXJsIjoiaHR0cHM=
+6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ_dGV4dD1DaGVjayUyMG91dCUyMHRoaXMlMjBhcn=
+RpY2xlJTIwXHUwMDI2dXJsPWh0dHA6Ly93d3cuc3RyZW5ndGhlb3J5LmNvbS9lbWctYW1wbGl0d=
+WRlLXRlbGwtdXMtbXVzY2xlLWh5cGVydHJvcGh5L1x1MDAyNnZpYT1TdHJlbmd0aHJ5XHUwMDI2=
+X19zPXoxem04Zm5memJ5b2ludGhhcmhpIn0 )
+
+---------------------
+To make sure you keep getting these emails, please add
+support@strengtheory.com to your address book or whitelist us. Want out of
+the loop? <a href=3D"http://t.dripemail2.com/c/eyJhY2NvdW50X2lkIjoiMTU2Nzg0=
+MyIsImRlbGl2ZXJ5X2lkIjoiMTA5OTU5MjU1IiwidXJsIjoiaHR0cHM6Ly93d3cuZ2V0ZHJpcC5=
+jb20vc3Vic2NyaWJlcnMvejF6bThmbmZ6YnlvaW50aGFyaGkvdW5zdWJzY3JpYmU_YnJvYWRjYX=
+N0PTU1MzUwMTZcdTAwMjZkPTJpZGtxanM5b2pxZ2g4eXc5YWV3XHUwMDI2ZXhjbHVkZV9jbGlja=
+z0xXHUwMDI2X19zPXoxem04Zm5memJ5b2ludGhhcmhpIn0">Unsubscribe</a>.
+
+Our postal address: P.O. Box 1504, Skyland, NC 28776, United States
+
+--_av-OSSWYAv_RBybKaBDSIbERQ
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.=
+0">
+</head>
+<body style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; =
+margin: 0; padding: 0; width: 100% !important">
+<style type=3D"text/css">
+body {
+width: 100% !important; -webkit-text-size-adjust: 100%; -ms-text-size-adjus=
+t: 100%; margin: 0; padding: 0;
+}
+.ExternalClass {
+width: 100%;
+}
+.ExternalClass {
+line-height: 100%;
+}
+#backgroundTable {
+margin: 0; padding: 0; width: 600px !important; line-height: 100% !importan=
+t;
+}
+img {
+outline: none; text-decoration: none; -ms-interpolation-mode: bicubic;
+}
+h1 a:active {
+color: red !important;
+}
+h2 a:active {
+color: red !important;
+}
+h3 a:active {
+color: red !important;
+}
+h4 a:active {
+color: red !important;
+}
+h5 a:active {
+color: red !important;
+}
+h6 a:active {
+color: red !important;
+}
+h1 a:visited {
+color: purple !important;
+}
+h2 a:visited {
+color: purple !important;
+}
+h3 a:visited {
+color: purple !important;
+}
+h4 a:visited {
+color: purple !important;
+}
+h5 a:visited {
+color: purple !important;
+}
+h6 a:visited {
+color: purple !important;
+}
+</style>
+<div id=3D"main-content" style=3D"color: #222222; font-family: 'Georgia', '=
+Times New Roman', serif; font-size: 16px; line-height: 1.4; padding: 25px; =
+width: 550px">
+<h1 style=3D"color: black !important; font-size: 20px; font-weight: bold; m=
+argin: 0 0 20px; padding: 0">What Does EMG Amplitude Tell Us About Muscle H=
+ypertrophy?</h1>
+<span style=3D"font-style: italic">By Dan Ogborn | Read on <a href=3D"http:=
+//t.dripemail2.com/c/eyJhY2NvdW50X2lkIjoiMTU2Nzg0MyIsImRlbGl2ZXJ5X2lkIjoiMT=
+A5OTU5MjU1IiwidXJsIjoiaHR0cDovL3d3dy5zdHJlbmd0aGVvcnkuY29tL2VtZy1hbXBsaXR1Z=
+GUtdGVsbC11cy1tdXNjbGUtaHlwZXJ0cm9waHkvP19fcz16MXptOGZuZnpieW9pbnRoYXJoaSJ9=
+" style=3D"color: blue">Strengtheory.com</a></span><br><br><img alt=3D"What=
+ Does EMG Amplitude Tell Us About Muscle Hypertrophy?" class=3D"wp-image-40=
+896 size-full" sizes=3D"(max-width: 1500px) 100vw, 1500px" src=3D"http://ww=
+w.strengtheory.com/wp-content/uploads/2016/02/DSC02580.jpg" srcset=3D"http:=
+//www.strengtheory.com/wp-content/uploads/2016/02/DSC02580-300x203.jpg 300w=
+, http://www.strengtheory.com/wp-content/uploads/2016/02/DSC02580-768x521.j=
+pg 768w, http://www.strengtheory.com/wp-content/uploads/2016/02/DSC02580-10=
+24x694.jpg 1024w, http://www.strengtheory.com/wp-content/uploads/2016/02/DS=
+C02580.jpg 1500w" style=3D"-ms-interpolation-mode: bicubic; height: 373px; =
+outline: none; text-decoration: none; width: 550px"><br>
+Photo credit to Adam Palmer of <a href=3D"http://t.dripemail2.com/c/eyJhY2N=
+vdW50X2lkIjoiMTU2Nzg0MyIsImRlbGl2ZXJ5X2lkIjoiMTA5OTU5MjU1IiwidXJsIjoiaHR0cD=
+ovLzlmb3I5bWVkaWEuY29tP19fcz16MXptOGZuZnpieW9pbnRoYXJoaSJ9" style=3D"color:=
+ blue">9 for 9 Media</a>
+
+<p style=3D"margin: 1em 0"><span style=3D"font-weight: 400"><span class=3D"=
+wpsdc-drop-cap">O</span>ver the past few years, the data indicating that lo=
+w intensity training, when taken to the point of concentric failure, produc=
+es comparable hypertrophy to high load training has literally piled up. The=
+re=E2=80=99s a growing collection of studies in both trained and untrained =
+individuals, considering whole muscle growth and that of specific fiber typ=
+es, all of which demonstrate the comparable effectiveness of various traini=
+ng intensities to promote muscle growth (1-6).</span></p>
+
+<p style=3D"margin: 1em 0"><span style=3D"font-weight: 400">Despite the gro=
+wing collection of studies on our outcome of interest (hypertrophy), there=
+=E2=80=99s still resistance to the idea that low intensity training (i.e. 3=
+0%-1RM) can be as effective as high intensity training for muscle mass (&gt=
+;65%-1RM). While there are studies that do not support our new-found unders=
+tanding (7,8), much of the resistance stems from the idea that light weight=
+s do not recruit as much muscle as is required to move heavy ones (9). </sp=
+an></p>
+
+<p style=3D"margin: 1em 0"><span style=3D"font-weight: 400">If the idea tha=
+t a muscle fiber must be recruited in order to adapt to training is true, t=
+hen any stimulus that fails to stimulate a good proportion of the motor uni=
+t pool within a muscle would likely produce less growth than one that does.=
+ Score one for heavy weights, right?</span></p>
+
+<p style=3D"margin: 1em 0"><span style=3D"font-weight: 400">Not so fast.</s=
+pan></p>
+
+<h3 style=3D"color: black !important; font-size: 14px; font-weight: bold; m=
+argin: 0 0 16px; padding: 0"><strong style=3D"font-weight: bold">A brief ov=
+erview of surface electromyography (EMG)</strong></h3>
+
+<p style=3D"margin: 1em 0"><span style=3D"font-weight: 400">The intent of t=
+his article is not to give an in-depth description of the methodology and t=
+echnical aspects of the use of EMG in experimental research. For those look=
+ing for more detail, I=E2=80=99d recommend reviewing Chris Beardsley=E2=80=
+=99s <a href=3D"http://t.dripemail2.com/c/eyJhY2NvdW50X2lkIjoiMTU2Nzg0MyIsI=
+mRlbGl2ZXJ5X2lkIjoiMTA5OTU5MjU1IiwidXJsIjoiaHR0cDovL3d3dy5zdHJlbmd0aGFuZGNv=
+bmRpdGlvbmluZ3Jlc2VhcmNoLmNvbS9iaW9tZWNoYW5pY3MvZWxlY3Ryb215b2dyYXBoeS1lbWc=
+vP19fcz16MXptOGZuZnpieW9pbnRoYXJoaSJ9" style=3D"color: blue">EMG entry</a> =
+in his encyclopedia of Strength and Conditioning Research. </span></p>
+
+<p style=3D"margin: 1em 0"><span style=3D"font-weight: 400">At the simplest=
+ level, electromyography involves the recording of electrical activity with=
+in the muscle </span><span style=3D"font-weight: 400">(10)</span><span styl=
+e=3D"font-weight: 400">. With sport and exercise science, this technique is=
+ often used to determine whether muscles contribute, or are active, during =
+a given movement/exercise, how active a muscle is relative to the activity =
+during a maximum contraction, and the relationship of the activity between =
+muscles during human movement </span><span style=3D"font-weight: 400">(10)<=
+/span><span style=3D"font-weight: 400">. </span></p>
+
+<p style=3D"margin: 1em 0"><span style=3D"font-weight: 400">In response to =
+stimulation by an innervating alpha motor-neuron, depolarization along the =
+muscle fiber membrane ultimately simulates muscle contraction. Surface EMG =
+electrodes, when applied to the skin above the muscle, are able to detect a=
+lterations in electrical potential, and are indicative of the electrical ac=
+tivity within the muscle </span><span style=3D"font-weight: 400">(11)</span=
+><span style=3D"font-weight: 400">. The =E2=80=9Cactivity=E2=80=9D in these=
+ electrodes is=C2=A0limited only to a certain number of fibers adjacent to =
+the electrode, termed the receptive field, yet is often thought to accurate=
+ly represent the collective activity within the entire muscle. </span></p>
+
+<p style=3D"margin: 1em 0"><span style=3D"font-weight: 400">There are two r=
+ecent studies that have misapplied EMG to imply that heavier training to fa=
+ilure recruits more motor units than lighter training to failure, but first=
+, let=E2=80=99s look at a simple analogy to understand what using surface E=
+MG amplitude actually tells you in the=C2=A0context of estimating motor uni=
+t recruitment. </span></p>
+
+<p style=3D"margin: 1em 0"><span style=3D"font-weight: 400">Imagine you are=
+ outside a party listening to everyone talking through a door. I don=E2=80=
+=99t tell you how many people are in the room, but I have them all yell as =
+loud as they can at the same time, the equivalent of the maximum voluntary =
+contraction in an EMG experiment. </span></p>
+
+<p style=3D"margin: 1em 0"><span style=3D"font-weight: 400">After giving yo=
+u an idea of the maximum volume, I have you listen at the door to a given n=
+umber of people talking, but again I don=E2=80=99t tell you how many. Could=
+ you tell me how loud it was=C2=A0relative to the maximum conversation volu=
+me? It=E2=80=99s possible. You may not be able to tell me that 50/100 peopl=
+e were talking, but it=E2=80=99s possible you could tell that it was 50% of=
+ the volume of the maximum condition.</span></p>
+
+<p style=3D"margin: 1em 0"><span style=3D"font-weight: 400">Now I have you =
+listen for an extended period of time as some people talk, others start and=
+ stop, and new people chime in. Could you tell me how many people talked re=
+lative to the maximum? It=E2=80=99s possible that you could again tell me w=
+hat the peak volume was relative to our initial maximum. </span></p>
+
+<p style=3D"margin: 1em 0"><span style=3D"font-weight: 400">What if I broug=
+ht you into the room and asked you if you could tell me exactly </span><str=
+ong style=3D"font-weight: bold">who</strong><span style=3D"font-weight: 400=
+"> talked out of everyone at the party? =C2=A0Or if you could tell me how m=
+any of them had talked at some point in the conversation? You probably coul=
+dn=E2=80=99t do that.</span></p>
+
+<p style=3D"margin: 1em 0"><span style=3D"font-weight: 400">This is the equ=
+ivalent to EMG amplitude for assessing motor unit recruitment. You can desc=
+ribe the EMG amplitude during a task relative to the maximum, as is commonl=
+y done and with more precision than our party analogy. While there are more=
+ complicated methods to determine with greater specificity motor unit contr=
+ibutions during tasks, ultimately, surface EMG amplitude cannot tell us </s=
+pan><strong style=3D"font-weight: bold">which</strong><span style=3D"font-w=
+eight: 400"> motor units were used, or how many were used at some point dur=
+ing the measurement=C2=A0(the equivalent of identifying who was talking at =
+the party).</span></p>
+
+<h3 style=3D"color: black !important; font-size: 14px; font-weight: bold; m=
+argin: 0 0 16px; padding: 0"><strong style=3D"font-weight: bold">Comparing =
+EMG amplitude during low- and high-intensity training</strong></h3>
+
+<p style=3D"margin: 1em 0"><span style=3D"font-weight: 400">Two recent stud=
+ies have used EMG amplitude to make conclusions regarding the effectiveness=
+ of low intensity strength training. In the first, Looney et al (9) had 10 =
+resistance-trained men perform Smith machine squats to parallel depth while=
+ measuring surface EMG of the vastus lateralis and medialis muscles and par=
+ticipant ratings of perceived exertion (RPE). Participants completed two ex=
+perimental protocols, one involving two sets of submaximal repetitions at 5=
+0 and 70%-1RM followed by a dropset to fatigue (90%, 70%, 50%-1RM), and the=
+ other involving two submaximal sets at 50 and 70%-1RM and one to failure a=
+t 50%-1RM.</span></p>
+
+<p style=3D"margin: 1em 0"><span style=3D"font-weight: 400">In=C2=A0general=
+, submaximal sets had lower EMG amplitudes than maximal sets at an equivale=
+nt intensity in both muscles. For training intensity, EMG amplitude was gre=
+ater at higher training intensities in both the VL and the VM. RPE was comp=
+arable across training intensities when taken to failure and was only lower=
+ when training short of failure at 50%-1RM or following the 50%-1RM dropset=
+.</span></p>
+
+<p style=3D"margin: 1em 0"><span style=3D"font-weight: 400">These results l=
+ead Looney et al (9) to conclude:</span></p>
+
+<blockquote>
+<p style=3D"margin: 1em 0"><span style=3D"font-style: italic"><span style=
+=3D"font-weight: 400">The results of this investigation indicate that using=
+ higher external resistance is a more effective means of maximizing muscle =
+activation than increasing the number of repetitions performed. </span></sp=
+an><strong style=3D"font-weight: bold"><span style=3D"font-style: italic">A=
+ccordingly, previous recommendations for the use of heavier loads during re=
+sistance training programs emphasizing strength and hypertrophy are further=
+ supported.=E2=80=9D </span></strong><span style=3D"font-weight: 400">(emph=
+asis mine)</span></p>
+</blockquote>
+
+<p style=3D"margin: 1em 0"><span style=3D"font-weight: 400">In the second s=
+tudy, Jenkins et al (12) had 18 participants complete two training conditio=
+ns in which=C2=A0they completed three sets of leg extension to failure with=
+ either 80 or 30% of their one-repetition maximum (1RM). Surface EMG was co=
+llected through the trials, and ultrasound was used to detect changes in mu=
+scle swelling (cross sectional area, echo intensity) after each loading con=
+dition.</span></p>
+
+<p style=3D"margin: 1em 0"><span style=3D"font-weight: 400">Not surprisingl=
+y, volume and work=C2=A0as well as=C2=A0time under tension were greater whe=
+n training at 30%-1RM than 80%-1RM. EMG amplitude was consistent across the=
+ three sets at 80%-1RM. At 30%-1RM, EMG amplitude increased over the course=
+ of the three sets, but was still lower than the sets at 80%-1RM. Muscle cr=
+oss-sectional area increased to a greater extent when training at 30%-1RM, =
+with no difference detected in echo intensity, which is often used as a mar=
+ker of exercise-induced swelling (edema).</span></p>
+
+<p style=3D"margin: 1em 0"><span style=3D"font-weight: 400">Jenkins et al (=
+12) are much more conservative in their message, choosing to acknowledge th=
+e existing literature showing comparable growth between the conditions. As =
+they also measured other variables with a differential response between con=
+ditions, the authors suggest that low- and high-intensity training may arri=
+ve at comparable growth, but in response to differing cellular stimuli, sta=
+ting:</span></p>
+
+<blockquote>
+<p style=3D"margin: 1em 0"><span style=3D"font-style: italic"><span style=
+=3D"font-weight: 400">Our results demonstrated that muscle activation was 3=
+8=E2=80=9362 % lower for the superficial quadriceps femoris muscles during =
+resistance exercise at 30% than at 80% 1RM, despite fatigue- induced increa=
+ses in EMG AMP </span></span><span style=3D"font-weight: 400">(amplitude)</=
+span><span style=3D"font-style: italic"><span style=3D"font-weight: 400"> a=
+t both 80 and 30% 1RM. However, the cumulative volume and muscle activation=
+, time under load, and increases in mCSA from pre- to post- exercise (i.e.,=
+ muscle swelling) were greater, while the decreases in EMG MPF were more pr=
+onounced for 30% 1RM. These fundamental differences in fatigue manifestatio=
+ns may help explain the unexpected chronic adaptations in hypertrophy vs. s=
+trength observed in previous studies.=E2=80=9D </span></span></p>
+</blockquote>
+
+<p style=3D"margin: 1em 0"><span style=3D"font-weight: 400">The difference =
+in wording between the two groups is important: The first suggests that hea=
+vier is better (9), whereas the latter (12) attempts to integrate their res=
+ults with the fact that the present literature does not support a different=
+ial hypertrophic response between low- and high-intensity training (1). Dif=
+ferences in EMG may exist, but it=E2=80=99s possible that other mechanisms =
+contribute to the hypertrophic =E2=80=9Cpotential=E2=80=9D of low-intensity=
+ training.</span></p>
+
+<h3 style=3D"color: black !important; font-size: 14px; font-weight: bold; m=
+argin: 0 0 16px; padding: 0"><strong style=3D"font-weight: bold">Putting th=
+ese results in context =E2=80=93 or why we shouldn=E2=80=99t jump to any co=
+nclusions</strong></h3>
+
+<p style=3D"margin: 1em 0"><span style=3D"font-weight: 400">I was contacted=
+ a few months back to assist <a href=3D"http://t.dripemail2.com/c/eyJhY2Nvd=
+W50X2lkIjoiMTU2Nzg0MyIsImRlbGl2ZXJ5X2lkIjoiMTA5OTU5MjU1IiwidXJsIjoiaHR0cHM6=
+Ly90d2l0dGVyLmNvbS9hdmlnb3Rza3k_X19zPXoxem04Zm5memJ5b2ludGhhcmhpIn0" style=
+=3D"color: blue">Andrew Vigotsky</a> =E2=80=93 an active, upcoming research=
+er in the health and fitness industry =E2=80=93 to address both of these st=
+udies in a letter to the editor. This is an important part of the scientifi=
+c process, where researchers are allowed to criticize (constructively) each=
+ other=E2=80=99s work in the hopes of fostering a greater understanding of =
+the issue. Unfortunately, these letters are often published months after th=
+e original study and rarely receive the attention they deserve. For those i=
+nterested, the letters to Looney et al (9) can be found <u style=3D"text-de=
+coration: underline"><a href=3D"http://t.dripemail2.com/c/eyJhY2NvdW50X2lkI=
+joiMTU2Nzg0MyIsImRlbGl2ZXJ5X2lkIjoiMTA5OTU5MjU1IiwidXJsIjoiaHR0cDovL2pvdXJu=
+YWxzLmx3dy5jb20vbnNjYS1qc2NyL0NpdGF0aW9uL3B1Ymxpc2hhaGVhZC9HcmVhdGVyX2VsZWN=
+0cm9teW9ncmFwaGljX3Jlc3BvbnNlc19kb19ub3RfaW1wbHkuOTY2NTUuYXNweD9fX3M9ejF6bT=
+hmbmZ6YnlvaW50aGFyaGkifQ" target=3D"_blank" style=3D"color: blue">here</a><=
+/u> (13), and Jenkins et al (12) <u style=3D"text-decoration: underline"><a=
+ href=3D"http://t.dripemail2.com/c/eyJhY2NvdW50X2lkIjoiMTU2Nzg0MyIsImRlbGl2=
+ZXJ5X2lkIjoiMTA5OTU5MjU1IiwidXJsIjoiaHR0cDovL2xpbmsuc3ByaW5nZXIuY29tL2FydGl=
+jbGUvMTAuMTAwNy9zMDA0MjEtMDE1LTMzMTQtNj9fX3M9ejF6bThmbmZ6YnlvaW50aGFyaGkifQ=
+" target=3D"_blank" style=3D"color: blue">here</a></u> (14). Andrew has als=
+o written more on this on <a href=3D"http://t.dripemail2.com/c/eyJhY2NvdW50=
+X2lkIjoiMTU2Nzg0MyIsImRlbGl2ZXJ5X2lkIjoiMTA5OTU5MjU1IiwidXJsIjoiaHR0cHM6Ly9=
+icmV0Y29udHJlcmFzLmNvbS9jYW4tbW90b3ItdW5pdC1yZWNydWl0bWVudC1iZS1pbmZlcnJlZC=
+1mcm9tLWVtZy1hbXBsaXR1ZGUvP19fcz16MXptOGZuZnpieW9pbnRoYXJoaSJ9" style=3D"co=
+lor: blue">Bret Contreras=E2=80=99s site here</a>.</span></p>
+
+<p style=3D"margin: 1em 0"><span style=3D"font-weight: 400">We had=C2=A0som=
+e concerns with how these studies are used to support the argument that hig=
+h loads are required to maximize muscular hypertrophy, or that high loads a=
+re inherently=C2=A0more effective at promoting hypertrophy than lower loads=
+. These concerns can be broken down into the following questions:</span></p=
+>
+
+<p style=3D"margin: 1em 0"><strong style=3D"font-weight: bold"><span style=
+=3D"font-style: italic"><strong style=3D"font-weight: bold"><span style=3D"=
+font-style: italic">Is surface EMG amplitude an appropriate measure of moto=
+r unit recruitment?</span></strong></span></strong></p>
+
+<p style=3D"margin: 1em 0">The normalization and interpretation of EMG sign=
+als is a complicated area, and one that even researchers get wrong (15). Th=
+ese issues lead Carlo De Luca (16), a prominent researcher in the field of =
+neuromuscular physiology, to state:</p>
+
+<blockquote>
+<p style=3D"margin: 1em 0"><span style=3D"font-style: italic"><span style=
+=3D"font-weight: 400">To its detriment, electromyography is too easy to use=
+ and consequently too easy to abuse.=E2=80=9D</span></span></p>
+</blockquote>
+
+<p style=3D"margin: 1em 0"><span style=3D"font-weight: 400">The surface EMG=
+ signal is inclusive of multiple components which limit our ability to dete=
+rmine what happens at the motor unit level. The EMG signal is representativ=
+e of both neural and peripheral (muscular) components, all of which may be =
+subject to change during dynamic, fatiguing contractions (17) like those us=
+ed by both Jenkins et al (12) and Looney et al (9). As discussed by Vigtosk=
+y et al (13,14), changes in the characteristics of intracellular action pot=
+entials within muscle during fatiguing actions may alter surface EMG signal=
+s (17), independent of any changes in motor unit recruitment.</span></p>
+
+<p style=3D"margin: 1em 0"><span style=3D"font-weight: 400">There are more =
+rigorous EMG methodologies that tell us more about motor unit recruitment, =
+yet these methods are rarely used in exercise physiology. Suffice it to say=
+, that=E2=80=99s why most researchers play it safe, and use the general ter=
+m =E2=80=9Cactivation=E2=80=9D as opposed to recruitment. Yet the connotati=
+on is that greater =E2=80=9Cactivation=E2=80=9D implies greater recruitment=
+, and to some, a greater hypertrophic stimulus.</span></p>
+
+<p style=3D"margin: 1em 0"><strong style=3D"font-weight: bold"><span style=
+=3D"font-style: italic"><strong style=3D"font-weight: bold"><span style=3D"=
+font-style: italic">Should EMG amplitude be equivalent with fatigue between=
+ high and low-load training?</span></strong></span></strong></p>
+
+<p style=3D"margin: 1em 0"><span style=3D"font-weight: 400">The relationshi=
+p of motor unit recruitment to fatigue is complex, and our understanding in=
+ this area is constantly evolving. The comparable hypertrophy between low a=
+nd high-intensity training is thought to be a consequence of motor-unit cyc=
+ling (18,19). Motor units have different recruitment thresholds that decrea=
+se under fatiguing conditions. While it is likely that high-intensity train=
+ing requires greater </span><strong style=3D"font-weight: bold">simultaneou=
+s</strong><span style=3D"font-weight: 400"> activation of motor units due t=
+o the higher force requirements, low-intensity training may recruit just as=
+ many motor units, just at different times. During a fatiguing contraction,=
+ some motor units will remain active, others will stop working, and new one=
+s will start. With the prolonged time-under-tension of low-load training, i=
+t=E2=80=99s possible that motor unit cycling allows a comparable population=
+ of motor units to be recruited during the task, just with fewer being recr=
+uited at the=C2=A0same time.</span></p>
+
+<p style=3D"margin: 1em 0"><span style=3D"font-weight: 400">In the high-int=
+ensity condition, motor unit recruitment is likely higher initially to meet=
+ the increased force demands of the task relative to low intensity, otherwi=
+se you=E2=80=99d fail to lift the weight. It is entirely plausible that a g=
+reater number of motor units are recruited at a single point in time, which=
+ produce at least a sufficient amount of force to complete the task. This g=
+reater simultaneous recruitment could explain the elevated initial EMG ampl=
+itude as compared with a lower force task observed by both Jenkins et al an=
+d Looney et al (9,12), which would need less simultaneously active units gi=
+ven the lower force requirements at any point in time.</span></p>
+
+<p style=3D"margin: 1em 0"><span style=3D"font-weight: 400">So if high-inte=
+nsity loads required greater simultaneous recruitment, and low-intensity lo=
+ads rely on an asynchronous recruitment strategy, it could be plausible tha=
+t there would be at least some level of difference in EMG amplitude between=
+ the two conditions, which would decrease with increasing fatigue. Despite =
+these differences, it=E2=80=99s possible that the exact same number of moto=
+r units were recruited between the high and low-load conditions; it=E2=80=
+=99s just that the high-load condition=C2=A0recruited=C2=A0more of them at =
+the same time.</span></p>
+
+<p style=3D"margin: 1em 0"><strong style=3D"font-weight: bold"><span style=
+=3D"font-style: italic"><strong style=3D"font-weight: bold"><span style=3D"=
+font-style: italic">Should data from an acute experimental design be given =
+greater weight than measurements of the direct outcome of interest (muscle =
+growth) in longer-term training studies?</span></strong></span></strong></p=
+>
+
+<p style=3D"margin: 1em 0"><span style=3D"font-weight: 400">This is perhaps=
+ the most important argument, as it is a common problem in the health and f=
+itness world. We often use proxies of our actual primary outcomes to determ=
+ine the effectiveness of a given training program, and in doing so, end up =
+ignoring data from well-designed studies. If we have data from multiple tra=
+ining studies, directly measuring any form of muscle growth (CSA, thickness=
+) or even just lean-body mass, this should be given greater weighting in ou=
+r decisions than acutely measured secondary variables. </span></p>
+
+<p style=3D"margin: 1em 0"><span style=3D"font-weight: 400">Attempting to u=
+se any other measure to predict muscle growth requires a substantial burden=
+ of evidence to establish its predictive value. I=E2=80=99m not saying we s=
+hould ignore acute protein synthesis, EMG, or signaling protein data, but i=
+f it doesn=E2=80=99t reconcile with data on our primary, relevant outcome m=
+easures (hypertrophy), the decision you make should be an easy one.</span><=
+/p>
+
+<p style=3D"margin: 1em 0"><span style=3D"font-weight: 400">In this case, w=
+e have two studies demonstrating a difference in EMG amplitude (9,12), that=
+ some have used to suggest that motor unit recruitment is greater with high=
+-intensity training, and therefore a superior hypertrophic stimulus to low =
+intensity training. Yet when the training studies have been performed, and =
+muscle growth directly measured, we know this isn=E2=80=99t the case (1-6).=
+ </span></p>
+
+<h3 style=3D"color: black !important; font-size: 14px; font-weight: bold; m=
+argin: 0 0 16px; padding: 0"><strong style=3D"font-weight: bold">Conclusion=
+</strong></h3>
+
+<p style=3D"margin: 1em 0"><span style=3D"font-weight: 400">If you find you=
+rself questioning the hypertrophic effectiveness of low-intensity training,=
+ I=E2=80=99d suggest you=E2=80=99re asking the wrong question. Rather, we s=
+hould be questioning what acute studies assessing surface EMG amplitude are=
+ actually telling us about the hypertrophic adaptations to training. I=E2=
+=80=99m not questioning the differences between the two conditions observed=
+ by both Jenkins et al (12) and Looney et al (9), but given the data demons=
+trating comparable whole muscle and fiber-type specific growth, I=E2=80=99d=
+ suggest it isn=E2=80=99t telling us much, at least as far as muscle growth=
+ is concerned.</span></p>
+
+<h3 style=3D"color: black !important; font-size: 14px; font-weight: bold; m=
+argin: 0 0 16px; padding: 0"><strong style=3D"font-weight: bold">Recap</str=
+ong></h3>
+
+<ul>
+<li><strong style=3D"font-weight: bold"><span style=3D"font-weight: 400">Su=
+rface EMG amplitude is often used as a measure of motor unit recruitment, b=
+ut it cannot provide any specifics regarding the recruitment of specific po=
+pulations of motor units. This doesn=E2=80=99t mean we shouldn=E2=80=99t us=
+e EMG, but should be aware of its limitations when interpreting it.</span><=
+/strong></li>
+</ul>
+<ul>
+<li><span style=3D"font-weight: 400">Two recent studies (9,12) have demonst=
+rated reduced EMG amplitude with low- as compared to high-intensity trainin=
+g, and this is often used to suggest low-intensity training would result in=
+ less muscle growth than high-intensity training.</span></li>
+</ul>
+<ul>
+<li><span style=3D"font-weight: 400">Despite acute differences in EMG ampli=
+tude, numerous studies have demonstrated comparable muscle growth between h=
+igh and low-intensity training, in trained and untrained individuals, consi=
+dering both whole muscle and fiber-type specific growth. Data on our primar=
+y outcome trumps indirect physiological arguments every day of the week.</s=
+pan></li>
+</ul>
+<ul>
+<li style=3D"font-weight: 400">
+<span style=3D"font-weight: 400">There is no evidence that the simultaneous=
+ activation of a large number of motor units is superior for hypertrophy as=
+ compared to a more time-intensive, gradual recruitment strategy. </span><s=
+pan style=3D"font-weight: 400">When designing a hypertrophy training progra=
+m there is no need to pick specific program parameter combinations (intensi=
+ty, tempo, etc=E2=80=A6) outside of exercise selection to maximize surface =
+EMG amplitude.</span>
+</li>
+</ul>
+<h3 style=3D"color: black !important; font-size: 14px; font-weight: bold; m=
+argin: 0 0 16px; padding: 0"><span style=3D"font-style: italic">References =
+are available at the end of the article on the=C2=A0<a href=3D"http://t.dri=
+pemail2.com/c/eyJhY2NvdW50X2lkIjoiMTU2Nzg0MyIsImRlbGl2ZXJ5X2lkIjoiMTA5OTU5M=
+jU1IiwidXJsIjoiaHR0cDovL3d3dy5zdHJlbmd0aGVvcnkuY29tL2VtZy1hbXBsaXR1ZGUtdGVs=
+bC11cy1tdXNjbGUtaHlwZXJ0cm9waHkvP19fcz16MXptOGZuZnpieW9pbnRoYXJoaSJ9" style=
+=3D"color: blue !important">Strengtheory post</a>.</span></h3>
+<br><a href=3D"http://t.dripemail2.com/c/eyJhY2NvdW50X2lkIjoiMTU2Nzg0MyIsIm=
+RlbGl2ZXJ5X2lkIjoiMTA5OTU5MjU1IiwidXJsIjoiaHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL=
+3NoYXJlci9zaGFyZXIucGhwP3U9aHR0cDovL3d3dy5zdHJlbmd0aGVvcnkuY29tL2VtZy1hbXBs=
+aXR1ZGUtdGVsbC11cy1tdXNjbGUtaHlwZXJ0cm9waHkvXHUwMDI2X19zPXoxem04Zm5memJ5b2l=
+udGhhcmhpIn0" style=3D"color: blue">Share on Facebook</a> | <a href=3D"http=
+://t.dripemail2.com/c/eyJhY2NvdW50X2lkIjoiMTU2Nzg0MyIsImRlbGl2ZXJ5X2lkIjoiM=
+TA5OTU5MjU1IiwidXJsIjoiaHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ_dGV4dD1D=
+aGVjayUyMG91dCUyMHRoaXMlMjBhcnRpY2xlJTIwXHUwMDI2dXJsPWh0dHA6Ly93d3cuc3RyZW5=
+ndGhlb3J5LmNvbS9lbWctYW1wbGl0dWRlLXRlbGwtdXMtbXVzY2xlLWh5cGVydHJvcGh5L1x1MD=
+AyNnZpYT1TdHJlbmd0aHJ5XHUwMDI2X19zPXoxem04Zm5memJ5b2ludGhhcmhpIn0" style=3D=
+"color: blue">Share on Twitter</a>=C2=A0</div>
+
+  
+    <div id=3D"footer" style=3D"border-top-color: #d0d0d0; border-top-style=
+: solid; border-top-width: 1px; color: #777; font-family: 'Helvetica', 'Ari=
+al', sans-serif; font-size: 13px; line-height: 1.4; padding: 25px; width: 5=
+50px">
+      To make sure you keep getting these emails, please add support@streng=
+theory.com to your address book or whitelist us. Want out of the loop? <a h=
+ref=3D"http://t.dripemail2.com/c/eyJhY2NvdW50X2lkIjoiMTU2Nzg0MyIsImRlbGl2ZX=
+J5X2lkIjoiMTA5OTU5MjU1IiwidXJsIjoiaHR0cHM6Ly93d3cuZ2V0ZHJpcC5jb20vc3Vic2Nya=
+WJlcnMvejF6bThmbmZ6YnlvaW50aGFyaGkvdW5zdWJzY3JpYmU_YnJvYWRjYXN0PTU1MzUwMTZc=
+dTAwMjZkPTJpZGtxanM5b2pxZ2g4eXc5YWV3XHUwMDI2ZXhjbHVkZV9jbGljaz0xXHUwMDI2X19=
+zPXoxem04Zm5memJ5b2ludGhhcmhpIn0" style=3D"color: blue">Unsubscribe</a>.<br=
+><br>
+Our postal address: P.O. Box 1504, Skyland, NC 28776, United States
+    </div>
+  
+<img src=3D"http://click.dripemail2.com/track/open.php?u=3D30115094&id=3D78=
+20049e3a55486983a1e50effff6a8c" height=3D"1" width=3D"1"></body>
+</html>
+
+--_av-OSSWYAv_RBybKaBDSIbERQ--
+
+----
+
+Return-Path: <bounce-md_30115094.56589863.v1-0ffb98eb5cc4478aa08ba5058a1afa24@click.dripemail2.org>
+Delivered-To: hristo_b_kirov@abv.bg
+Received: from mail180-6.suw31.mandrillapp.com (mail180-6.suw31.mandrillapp.com [198.2.180.6])
+	by pmx.abv.bg (Postfix) with ESMTP id 7F3F41200A3
+	for <hristo_b_kirov@abv.bg>; Fri, 27 Nov 2015 19:52:36 +0200 (EET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mandrill; d=dripemail2.org;
+ h=From:Sender:Subject:Reply-To:To:Message-Id:Date:MIME-Version:Content-Type; i=support@dripemail2.org;
+ bh=mBRLQeQViw0ijwg0PgGHZVlstoo=;
+ b=bv1BNYbVVp6xBPm7KVRWUPtmJs/hvUJgczIqv8YonjnwS8+gZJV6746FLrDHG2IWf7ck8YX1kAQX
+   xz82ZEfiuVS0wn9GL1+sfhQrmnwVBgZN1nZzekyo/sSMIQ3F09wg0BIPLcBtVtYQgA97yUq7iLXv
+   MTuwANebx/BcaZDfpQA=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mandrill; d=dripemail2.org;
+ b=goHVTQEmXw/4ok84UcdxSLRl9VGCqLKi4bnAGzlIUX9Hbd1goyK5C+GG6FG87kDNbLdBe9o0MaUv
+   ko2vBdDQtXv8YqPwycoCu9hTnlUuvrvoTsIFuZy/KANTbIPzvWKnIuo+O5XVb0zLm1BptHrCnMF3
+   02oxlk8nh1NVmHoa2ss=;
+Received: from pmta03.mandrill.prod.suw01.rsglab.com (127.0.0.1) by mail180-6.suw31.mandrillapp.com id hb2c6822sc0a for <hristo_b_kirov@abv.bg>; Fri, 27 Nov 2015 17:52:36 +0000 (envelope-from <bounce-md_30115094.56589863.v1-0ffb98eb5cc4478aa08ba5058a1afa24@click.dripemail2.org>)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mandrillapp.com; 
+ i=@mandrillapp.com; q=dns/txt; s=mandrill; t=1448646755; h=From : 
+ Sender : Subject : Reply-To : To : Message-Id : Date : MIME-Version : 
+ Content-Type : From : Subject : Date : X-Mandrill-User : 
+ List-Unsubscribe; bh=W7vQ9hQtMZ0hKT+2uAcpx1u3eeX0DNuKRUjnZS38S98=; 
+ b=cBun6W3s+vmGlkRmVGXKEVSWtTiz0VcW4FdOvo5u2UhQ9VlJs0grYXTixjqBsNfp0TGzK/
+ IuvCqUruIoMa/VNv8aP9G1D6WHyXPeaIcYl4fR/KnEz5S6t+C6ujfqN0IfsHGdqO73Ujlke1
+ Y/cStkFnRiAo35kw+TjFHEg/caSLc=
+From: Greg and Omar <support@strengtheory.com>
+Sender: Greg and Omar <support@dripemail2.org>
+Subject: HUGE 'Art and Science' Flash Sale
+Received: from [54.152.66.89] by mandrillapp.com id 0ffb98eb5cc4478aa08ba5058a1afa24; Fri, 27 Nov 2015 17:52:35 +0000
+Reply-To: <reply-tzswmcdbjwtqwjpa7kj6@in.getdrip.com>
+To: <hristo_b_kirov@abv.bg>
+X-Report-Abuse: Please forward a copy of this message, including all headers, to abuse@mandrill.com
+X-Report-Abuse: You can also report abuse here: http://mandrillapp.com/contact/abuse?id=30115094.0ffb98eb5cc4478aa08ba5058a1afa24
+X-Mandrill-User: md_30115094
+Message-Id: <30115094.20151127175235.56589863ce3fd1.90985170@mail180-6.suw31.mandrillapp.com>
+Date: Fri, 27 Nov 2015 17:52:35 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="_av-Mqzz3FeYFGVoM83BU--wwg"
+
+--_av-Mqzz3FeYFGVoM83BU--wwg
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hi there Chris,
+
+I=E2=80=99ll keep this simple: I'm offering my best-selling ebook bundle,
+The Art and Science of Lifting, for only $29 today ( http://t.dripemail2.or=
+g/c/eyJhY2NvdW50X2lkIjoiMTU2Nzg0MyIsImRlbGl2ZXJ5X2lkIjoiNzg1MjYzNjIiLCJ1cmw=
+iOiJodHRwOi8vd3d3LnN0cmVuZ3RoZW9yeS5jb20vYXJ0LWFuZC1zY2llbmNlLz91dG1fc291cm=
+NlPWVtYWlsJTIwMVx1MDAyNnV0bV9tZWRpdW09ZW1haWxcdTAwMjZ1dG1fY2FtcGFpZ249YXJ0J=
+TIwYW5kJTIwc2NpZW5jZSUyMHNhbGVcdTAwMjZfX3M9ejF6bThmbmZ6YnlvaW50aGFyaGkifQ )=
+.
+
+Normally, this two-book bundle sells for $47, so that's a 40%
+discount.
+
+These ebooks aim to teach you everything I know. You=E2=80=99ll learn to
+program for yourself and make training decisions like an
+expert.
+
+If you=E2=80=99re done with the frustration of cookie-cutter programs,
+these books are written just for you, and today is the absolute
+best day of the year to get them.
+
+You=E2=80=99re not going to see this price again for a long, long time
+(maybe never).
+
+Click here to buy The Art and Science of Lifting for only $29.
+( http://t.dripemail2.org/c/eyJhY2NvdW50X2lkIjoiMTU2Nzg0MyIsImRlbGl2ZXJ5X2l=
+kIjoiNzg1MjYzNjIiLCJ1cmwiOiJodHRwOi8vd3d3LnN0cmVuZ3RoZW9yeS5jb20vYXJ0LWFuZC=
+1zY2llbmNlLz91dG1fbWVkaXVtPWVtYWlsXHUwMDI2dXRtX2NhbXBhaWduPWFydCUyMGFuZCUyM=
+HNjaWVuY2UlMjBzYWxlXHUwMDI2dXRtX3NvdXJjZT1lbWFpbCUyMDFcdTAwMjZfX3M9ejF6bThm=
+bmZ6YnlvaW50aGFyaGkifQ )
+
+You'll be glad you did.
+
+Thanks,
+
+Greg and Omar
+
+p.s. Still not sure? I=E2=80=99ve got a 100% money-back guarantee. If you
+don=E2=80=99t love the books, I=E2=80=99ll give you your money back =E2=80=
+=93 no
+questions asked.
+
+p.p.s Last thing: I=E2=80=99m currently working on a huge overhaul of
+these books, adding enough information to make them about twice
+as long. Buy these first editions now, and you=E2=80=99ll get the new
+updated books completely FREE ( http://t.dripemail2.org/c/eyJhY2NvdW50X2lkI=
+joiMTU2Nzg0MyIsImRlbGl2ZXJ5X2lkIjoiNzg1MjYzNjIiLCJ1cmwiOiJodHRwOi8vd3d3LnN0=
+cmVuZ3RoZW9yeS5jb20vYXJ0LWFuZC1zY2llbmNlLz91dG1fc291cmNlPWVtYWlsJTIwMVx1MDA=
+yNnV0bV9tZWRpdW09ZW1haWxcdTAwMjZ1dG1fY2FtcGFpZ249YXJ0JTIwYW5kJTIwc2NpZW5jZS=
+UyMHNhbGVcdTAwMjZfX3M9ejF6bThmbmZ6YnlvaW50aGFyaGkifQ ) when they=E2=80=99re=
+ released.
+
+---------------------
+To make sure you keep getting these emails, please add
+support@strengtheory.com to your address book or whitelist us. Want out of
+the loop? <a href=3D"http://t.dripemail2.org/c/eyJhY2NvdW50X2lkIjoiMTU2Nzg0=
+MyIsImRlbGl2ZXJ5X2lkIjoiNzg1MjYzNjIiLCJ1cmwiOiJodHRwczovL3d3dy5nZXRkcmlwLmN=
+vbS9zdWJzY3JpYmVycy96MXptOGZuZnpieW9pbnRoYXJoaS91bnN1YnNjcmliZT9icm9hZGNhc3=
+Q9NzE1MTkzMVx1MDAyNmQ9dHpzd21jZGJqd3Rxd2pwYTdrajZcdTAwMjZleGNsdWRlX2NsaWNrP=
+TFcdTAwMjZfX3M9ejF6bThmbmZ6YnlvaW50aGFyaGkifQ">Unsubscribe</a>.
+
+Our postal address: P.O. Box 1504, Skyland, NC 28776, United States
+
+--_av-Mqzz3FeYFGVoM83BU--wwg
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.=
+0">
+</head>
+<body style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; =
+margin: 0; padding: 0; width: 100% !important">
+<style type=3D"text/css">
+body {
+width: 100% !important; -webkit-text-size-adjust: 100%; -ms-text-size-adjus=
+t: 100%; margin: 0; padding: 0;
+}
+.ExternalClass {
+width: 100%;
+}
+.ExternalClass {
+line-height: 100%;
+}
+#backgroundTable {
+margin: 0; padding: 0; width: 600px !important; line-height: 100% !importan=
+t;
+}
+img {
+outline: none; text-decoration: none; -ms-interpolation-mode: bicubic;
+}
+h1 a:active {
+color: red !important;
+}
+h2 a:active {
+color: red !important;
+}
+h3 a:active {
+color: red !important;
+}
+h4 a:active {
+color: red !important;
+}
+h5 a:active {
+color: red !important;
+}
+h6 a:active {
+color: red !important;
+}
+h1 a:visited {
+color: purple !important;
+}
+h2 a:visited {
+color: purple !important;
+}
+h3 a:visited {
+color: purple !important;
+}
+h4 a:visited {
+color: purple !important;
+}
+h5 a:visited {
+color: purple !important;
+}
+h6 a:visited {
+color: purple !important;
+}
+</style>
+<div id=3D"main-content" style=3D"color: #222222; font-family: 'Georgia', '=
+Times New Roman', serif; font-size: 16px; line-height: 1.4; padding: 25px; =
+width: 550px">
+<p style=3D"margin: 1em 0">Hi there Chris,=C2=A0=C2=A0<br><br>
+I=E2=80=99ll keep this simple: I'm offering my best-selling ebook bundle, <=
+a href=3D"http://t.dripemail2.org/c/eyJhY2NvdW50X2lkIjoiMTU2Nzg0MyIsImRlbGl=
+2ZXJ5X2lkIjoiNzg1MjYzNjIiLCJ1cmwiOiJodHRwOi8vd3d3LnN0cmVuZ3RoZW9yeS5jb20vYX=
+J0LWFuZC1zY2llbmNlLz91dG1fc291cmNlPWVtYWlsJTIwMVx1MDAyNnV0bV9tZWRpdW09ZW1ha=
+WxcdTAwMjZ1dG1fY2FtcGFpZ249YXJ0JTIwYW5kJTIwc2NpZW5jZSUyMHNhbGVcdTAwMjZfX3M9=
+ejF6bThmbmZ6YnlvaW50aGFyaGkifQ" style=3D"color: blue"><span style=3D"font-s=
+tyle: italic">The Art and Science of Lifting,</span> for only $29 today</a>=
+.<br><br>
+Normally, this two-book bundle sells for $47, so that's a 40% discount.=C2=
+=A0=C2=A0=C2=A0</p>
+
+<p style=3D"margin: 1em 0">These ebooks aim to teach you everything I know.=
+ You=E2=80=99ll learn to program for yourself and make training decisions l=
+ike an expert.=C2=A0=C2=A0</p>
+
+<p style=3D"margin: 1em 0">If you=E2=80=99re done with the frustration of c=
+ookie-cutter programs, these books are written just for you, and today is t=
+he absolute best day of the year to get them.=C2=A0</p>
+
+<p style=3D"margin: 1em 0">You=E2=80=99re not going to see this price again=
+ for a long, long time (maybe never).=C2=A0=C2=A0</p>
+
+<p style=3D"margin: 1em 0"><a href=3D"http://t.dripemail2.org/c/eyJhY2NvdW5=
+0X2lkIjoiMTU2Nzg0MyIsImRlbGl2ZXJ5X2lkIjoiNzg1MjYzNjIiLCJ1cmwiOiJodHRwOi8vd3=
+d3LnN0cmVuZ3RoZW9yeS5jb20vYXJ0LWFuZC1zY2llbmNlLz91dG1fbWVkaXVtPWVtYWlsXHUwM=
+DI2dXRtX2NhbXBhaWduPWFydCUyMGFuZCUyMHNjaWVuY2UlMjBzYWxlXHUwMDI2dXRtX3NvdXJj=
+ZT1lbWFpbCUyMDFcdTAwMjZfX3M9ejF6bThmbmZ6YnlvaW50aGFyaGkifQ" style=3D"color:=
+ blue">Click here to buy The Art and Science of Lifting for only $29.=C2=A0=
+=C2=A0</a><br><br>
+You'll be glad you did.=C2=A0<br>
+=C2=A0</p>
+
+<p style=3D"margin: 1em 0">Thanks,=C2=A0<br>
+Greg and Omar<br>
+=C2=A0</p>
+
+<p style=3D"margin: 1em 0">p.s. Still not sure? I=E2=80=99ve got a 100% mon=
+ey-back guarantee. If you don=E2=80=99t love the books, I=E2=80=99ll give y=
+ou your money back =E2=80=93 no questions asked.=C2=A0=C2=A0</p>
+
+<p style=3D"margin: 1em 0">p.p.s Last thing: I=E2=80=99m currently working =
+on a huge overhaul of these books, adding enough information to make them a=
+bout twice as long. <a href=3D"http://t.dripemail2.org/c/eyJhY2NvdW50X2lkIj=
+oiMTU2Nzg0MyIsImRlbGl2ZXJ5X2lkIjoiNzg1MjYzNjIiLCJ1cmwiOiJodHRwOi8vd3d3LnN0c=
+mVuZ3RoZW9yeS5jb20vYXJ0LWFuZC1zY2llbmNlLz91dG1fc291cmNlPWVtYWlsJTIwMVx1MDAy=
+NnV0bV9tZWRpdW09ZW1haWxcdTAwMjZ1dG1fY2FtcGFpZ249YXJ0JTIwYW5kJTIwc2NpZW5jZSU=
+yMHNhbGVcdTAwMjZfX3M9ejF6bThmbmZ6YnlvaW50aGFyaGkifQ" style=3D"color: blue">=
+Buy these first editions now, and you=E2=80=99ll get the new updated books =
+completely FREE</a> when they=E2=80=99re released. =C2=A0</p>
+</div>
+
+  
+    <div id=3D"footer" style=3D"border-top-color: #d0d0d0; border-top-style=
+: solid; border-top-width: 1px; color: #777; font-family: 'Helvetica', 'Ari=
+al', sans-serif; font-size: 13px; line-height: 1.4; padding: 25px; width: 5=
+50px">
+      To make sure you keep getting these emails, please add support@streng=
+theory.com to your address book or whitelist us. Want out of the loop? <a h=
+ref=3D"http://t.dripemail2.org/c/eyJhY2NvdW50X2lkIjoiMTU2Nzg0MyIsImRlbGl2ZX=
+J5X2lkIjoiNzg1MjYzNjIiLCJ1cmwiOiJodHRwczovL3d3dy5nZXRkcmlwLmNvbS9zdWJzY3JpY=
+mVycy96MXptOGZuZnpieW9pbnRoYXJoaS91bnN1YnNjcmliZT9icm9hZGNhc3Q9NzE1MTkzMVx1=
+MDAyNmQ9dHpzd21jZGJqd3Rxd2pwYTdrajZcdTAwMjZleGNsdWRlX2NsaWNrPTFcdTAwMjZfX3M=
+9ejF6bThmbmZ6YnlvaW50aGFyaGkifQ" style=3D"color: blue">Unsubscribe</a>.<br>=
+<br>
+Our postal address: P.O. Box 1504, Skyland, NC 28776, United States
+    </div>
+  
+<img src=3D"http://click.dripemail2.org/track/open.php?u=3D30115094&id=3D0f=
+fb98eb5cc4478aa08ba5058a1afa24" height=3D"1" width=3D"1"></body>
+</html>
+
+--_av-Mqzz3FeYFGVoM83BU--wwg--
+
+----

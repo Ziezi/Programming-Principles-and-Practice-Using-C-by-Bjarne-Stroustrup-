@@ -1,0 +1,23 @@
+Of the language designers mentioned in the chapter 
+who has a Ph.D. (in what field), who has not?
+
+1. Charles Babbage					no
+2. John Backus						no
+3. Ole-Johan Dahl			yes				Informatika
+4. Edsgar Dijkstra		    yes				Mathematics Prof
+5. Anders Hejlsberg					no
+6. Grace Hopper				yes				Mathematics
+7. Jean Ichbiah				yes				?
+8. Brian Kernighan			yes				Electrical Engieering
+9. John McCarthy			yes				Mathematics
+10.Doug Mclroy				yes				Applied Mathematics
+11.Peter Naur				yes				Astronomy
+12.Kristen Nygaard			yes				Mathematics?
+13.Dennis Ritchie			yes				Programming
+15.Alex Stepanov			yes?			?
+16.Bjarne Stroustrup		yes				Computer Science
+17.Ken Thompson						no
+18.David Wheeler			yes				First Computer Science Prof
+19.Niklaus Wirth			yes				Electrical Engineering 
+
+Total:						14		4

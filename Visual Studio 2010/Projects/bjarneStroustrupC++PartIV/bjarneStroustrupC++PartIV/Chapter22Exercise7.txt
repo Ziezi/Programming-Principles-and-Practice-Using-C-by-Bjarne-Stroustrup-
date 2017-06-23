@@ -1,0 +1,136 @@
+List of Five Important Modern Languages
+
+/* ----------------------------------------------------------------------------------------------------- */
+
+I. PHP
+1. History and creators
+	PHP: Hypertext Preprocessor, was originally created by Rasmus Lerdord in 1994
+	using mainly C (some C++) with not real intention for it to be a programming 
+	language. A developer team began to form and the language grew organically.
+	Zeev Suraski and Andi Gutmans rewrote the parser in 1997 and formed the base
+	for PHP 3. The official launch came in June 1998. On May 2000, PHP 4, was 
+	released by the Zend Engine 1.0. On July 2005, PHP 5 was released
+	It evolved without a written formal specification of standard until 2014,
+	where PHP 7 by Dmitry Stogov, Xinchen Hui and Nikita Popov showed almost
+	100% increase in performance.
+
+2. Purpose and advantages
+	Imperative, functional, object-oriented, procedural, reflective language designed 
+	primarily for Web Development but also used as general purpose programming language.
+	It can be embedded in HTML / HTML 5 code or in combination with Web Template Systems,
+	Web Content Management Systems and Web Frameworks; as well as standalone graphical apps.
+	PHP is free software released under the PHP License.
+
+3. Specificities  
+	PHP has received criticism due to lacking native Unicode support at the core
+	language level, instead only supporting byte strings.
+	The PHP interpreter only executes PHP code within its delimiters: <?php ... ?>
+
+/* ----------------------------------------------------------------------------------------------------- */
+
+II. JavaScript
+1. History and creators
+	Mocha, or LiveScript arose to cover the need for more dynamic language in the early staged of the 
+	Web browser development and more specifically under an initiative of the founder of Netscape 
+	Communications, Marc Andreessen who recruited Brendan Eich, who wrote a prototype within 10 days
+	in May 1995. It first shipped in betta release on Netscape Navigator 2.0 in Sep 1995. Later that 
+	year Nertscape released and implementation of the language for server-side scripting, since 2000s,
+	additional such Javascrit implementations have been released (Node.js, 2009).
+
+2. Purpose and advantages
+	Multi-paradigm: scripting, object-oriented (prototype-based), imperative, functional, event-driven language
+	alongside HTML and CSS, Javascript is one of the three code technologies of the World Wide Web content prodution.
+	Also used in environments that are not Web-based, such as PDF documents, site-specific browsers, and desktop widgets
+	Programmers also use JavaScript in video-game development, in crafting desktop and mobile applications,
+	and in server-side network programming with run-time environments such as Node.js.
+
+3. Specificities  
+	It does not include any I/O, such as networking, storage, or graphics facilities, 
+	relying for these upon the host environment in which it is embedded.
+	Was influenced by programming languages such as Self and Scheme.
+
+/* ----------------------------------------------------------------------------------------------------- */
+
+III. Python
+1. History and creators
+	Python was conceived as a hobby programming project for the week around Christmas, as a successor to the ABC language,
+	in 1980, by Guido Van Rosum at CWI in the Netherlands. The name was inspired by the "Monty Python's Flying Circus".
+	Its implementation began in December 1989.
+	Python 2.0 was released on Oct 2000 and had many new features including garbage collector and Unicode support.
+	Python 3.0 was relased on Dec 2008 with major backwards incompatibility with previous versions 2.6.x and 2.7.x.
+	The End Of Life (EOL) for Python 2.7 was initially set at 2015, then postponed to 2020 so that the large body of
+	existing code to be forwarded to Python 3.
+ 
+2. Purpose and advantages
+	Multi-paradigm: object-oriented, imperative, functional, procedural, reflective. An interpreted language that emphasizes
+	code readability (via white space and indentations) and a syntax that allows more short and concise code than C++ or Java.
+	Python features a dynamic type system and automatic memory management.It has a large and comprehensive standard library.
+	An important feature of Python is dynamic name resolution (late binding), which binds method and variable names during
+	program execution.
+	
+
+3. Specificities  
+	The design of Python offers some support for functional programming in the Lisp tradition.
+	A common neologism in the Python community is pythonic, which can have a wide range of meanings related to program style.
+	To say that code is pythonic is to say that it uses Python idioms well, that it is natural or shows fluency in the language,
+	that it conforms with Python's minimalist philosophy and emphasis on readability. 
+
+/* ----------------------------------------------------------------------------------------------------- */
+
+IV. SQL
+1. History and creators
+	SeQueL (structured English query language) was initially developed at IBM by Donald D. Chamberlin and Raymond F. Boyce
+	in the early 1970s to manipulate and retrieve data stored in IBM's original quasi-relational database management system.
+	In the late 1970s, Relational Software, Inc. (now Oracle Corporation) saw the potential of selling it to the U.S. Navy,
+	Central Intelligence Agency, and other U.S. government agencies. In June 1979, Relational Software, Inc. introduced the
+	first commercially available implementation of SQL, Oracle V2 (Version2) for VAX computers.
+	After testing SQL at customer test sites to determine the usefulness and practicality of the system, IBM began developing
+	commercial products based on their System R prototype including System/38, SQL/DS, and DB2, which were commercially available 
+	in 1979, 1981, and 1983, respectively. SQL became a standard of the American National Standards Institute (ANSI) in 1986, 
+	and of the International Organization for Standardization (ISO) in 1987.
+
+2. Purpose and advantages
+	Structured Query Language is a domain specific language used in programming and designed for managing data held in a 
+	relational database management system (RDBMS), or for stream processing in a relational data stream management system (RDSMS).
+	The scope of SQL includes data insert, query, update and delete, schema creation and modification, and data access control.
+
+3. Specificities  
+	SQL was one of the first commercial languages for Edgar F. Codd's relational model, as described in his influential 1970 paper,
+	"A Relational Model of Data for Large Shared Data Banks.". Despite not entirely adhering to the relational model as described by Codd,
+	it became the most widely used database language.
+
+/* ----------------------------------------------------------------------------------------------------- */
+
+V. Java
+1. History and creators
+	James Gosling, Mike Sheridan, and Patrick Naughton initiated the Java language project in June 1991.
+	Java was originally designed for interactive television, but it was too advanced for the digital 
+	cable television industry at the time. The language was initially called Oak after an oak tree 
+	that stood outside Gosling's office. Later the project went by the name Green and was finally renamed Java, from Java coffee.
+	Sun Microsystems released the first public implementation as Java 1.0 in 1995. 
+	Fairly secure and featuring configurable security, it allowed network- and file-access restrictions.
+	Major web browsers soon incorporated the ability to run Java applets within web pages, 
+	and Java quickly became popular, while mostly outside of browsers, that wasn't the original plan.
+	n 1997, Sun Microsystems approached the ISO/IEC JTC 1 standards body and later the Ecma International to formalize Java,
+	but it soon withdrew from the process. Java remains a de facto standard, controlled through the Java Community Process.
+	On November 13, 2006, Sun released much of its Java virtual machine (JVM) as free and open-source software, (FOSS), 
+	under the terms of the GNU General Public License (GPL).
+	Java software runs on everything from laptops to data centers, game consoles to scientific supercomputers.
+
+2. Purpose and advantages
+	Multi-paradigm: Object-oriented (class-based), structured, imperative, generic, reflective, concurrent and specifically 
+	designed to have as few implementation dependencies as possible. It is intended to let application developers "write once,
+	run anywhere" (WORA), meaning that compiled Java code can run on all platforms that support Java without the need for recompilation.
+	As of 2016, Java is one of the most popular programming languages in use particularly for client-server web applications, 
+	with a reported 9 million developers.
+
+3. Specificities
+	Java applications are typically compiled to bytecode that can run on any Java virtual machine (JVM) regardless of computer architecture.
+	The language derives much of its syntax from C and C++, but it has fewer low-level facilities than either of them.
+	Just-in-time (JIT) compilers that compile bytecodes to machine code during runtime were introduced from an early stage.
+	Java itself is platform-independent, and is adapted to the particular platform it is to run on by a Java virtual machine for it,
+	which translates the Java bytecode into the platform's machine language.
+	Java uses an automatic garbage collector to manage memory in the object lifecycle.
+
+
+/* ----------------------------------------------------------------------------------------------------- */

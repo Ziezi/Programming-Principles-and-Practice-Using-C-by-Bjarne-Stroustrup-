@@ -1,0 +1,40 @@
+Of the language designers mentioned in the chapter
+who has received a Turing Award? What is that?
+
+Turing Award: The ACM A.M. Turing Award is an annual prize given by the Association for Computing Machinery (ACM)
+		      to "an individual selected for contributions of a technical nature made to the computing community".
+			  The highest distinction in computer science
+
+1. Charles Babbage		-	 
+2. John Backus			For profound, influential, and lasting contributions to the design of practical high-level programming systems,
+					    notably through his work on FORTRAN, and for seminal publication of formal procedures for the specification
+						of programming languages.				 
+3. Ole-Johan Dahl		For ideas fundamental to the emergence of object-oriented programming, through their design of the
+					    programming languages Simula I and Simula 67.	 
+4. Edsgar Dijkstra		was a principal contributor in the late 1950s to the development of the ALGOL, a high level programming
+					    language which has become a model of clarity and mathematical rigor. 
+						He is one of the principal proponents of the science and art of programming languages in general,
+						and has greatly contributed to our understanding of their structure, representation, and implementation.
+						His fifteen years of publications extend from theoretical articles on graph theory to basic manuals,
+						expository texts, and philosophical contemplations in the field of programming languages.  
+5. Anders Hejlsberg		- 
+6. Grace Hopper			- 
+7. Jean Ichbiah			-	 
+8. Brian Kernighan		-
+9. John McCarthy		-	 
+10.Doug Mclroy			-			 
+11.Peter Naur			For fundamental contributions to programming language design and the definition of ALGOL 60,
+				        to compiler design, and to the art and practice of computer programming.	 
+12.Kristen Nygaard		For ideas fundamental to the emergence of object-oriented programming, through their design of the
+					    programming languages Simula I and Simula 67.			 
+13.Dennis Ritchie		For their development of generic operating systems theory and specifically for the 
+						implementation of the UNIX operating system. 
+15.Alex Stepanov			 
+16.Bjarne Stroustrup		 
+17.Ken Thompson			For their development of generic operating systems theory and specifically for the
+						implementation of the UNIX operating system.				 
+18.David Wheeler		 
+19.Niklaus Wirth		For developing a sequence of innovative computer languages, EULER, ALGOL-W, MODULA and Pascal.
+			 
+
+Total:					 12 awards

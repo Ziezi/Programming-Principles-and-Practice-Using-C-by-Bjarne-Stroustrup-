@@ -1,0 +1,44 @@
+Date format by country
+From Wikipedia, the free encyclopedia
+For date formats in non-Gregorian calendars, see Calendar#Calendars in use. For Date and time format, see Date and time representation by country.
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (February 2017) (Learn how and when to remove this template message)
+The legal and cultural expectations for date formats varies among populations. This page gives an overview of the Gregorian calendar date formats in general use[clarification needed] by country.
+
+Contents  [hide] 
+1	Legends
+2	Listing
+3	See also
+4	References
+5	External links
+Legends[edit source]
+All examples use example date 1996-04-22 / 22 April 1996 / April 22, 1996 – except where a single-digit day is illustrated.
+Basic components of a calendar date for the most common calendar systems:
+
+Y – year
+M – month
+D – day
+Order of the basic components:
+
+B – big-endian (year, month, day), e.g. 1996-04-22
+L – little-endian (day, month, year), e.g. 22.04.96 or 22/04/96 or 22 April 1996
+M – middle-endian (month, day, year), e.g. 04/22/96 or April 22, 1996
+Specific formats for the basic components:
+
+yy – two-digit year, e.g. 96
+yyyy – four-digit year, e.g. 1996
+m – one-digit month for months below 10, e.g. 4
+mm – two-digit month, e.g. 04
+mmm – three-letter abbreviation for month, e.g. Apr
+mmmm – month spelled out in full, e.g. April
+d – one-digit day for days below 10, e.g. 2
+dd – two-digit day, e.g. 02
+Separators of the components:
+
+"/" – slash
+"." – dots or full stops
+"-" – hyphens or dashes
+" " – spaces
+22/22/2222
+12/March/2000
+Aprill/12/1999

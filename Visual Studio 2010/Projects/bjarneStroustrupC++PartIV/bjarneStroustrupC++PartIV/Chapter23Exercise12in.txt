@@ -1,0 +1,18 @@
+first 12-12-2000
+12/12/2000 second
+third12.12.2000
+12\12\2000fourth
+fifth 12 12 2000 fifth
+
+sixth12-December-2000 sixth
+seventh12/December/2000seventh
+e i g h t 12.December.2000e i g h t 
+12\December\2000
+s 12 December 2000
+
+aa December-12-2000
+aa December/12/2000 bb
+aa December.12.2000
+aa December\12\2000
+aa December 12 2000
+sadfdsfdfgfd

@@ -1,0 +1,5 @@
+1. Define programming.
+
+Programming is the art of communicating
+with a machine via predefined formulation,
+called a programming language.  

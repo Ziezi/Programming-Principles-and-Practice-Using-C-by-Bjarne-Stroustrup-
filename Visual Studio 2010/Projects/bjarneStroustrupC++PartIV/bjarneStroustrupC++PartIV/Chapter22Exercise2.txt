@@ -1,0 +1,7 @@
+2. Define programming language.
+
+A communication media
+between a man and a machine,
+with the aim of expressing
+algorithms and create programs
+that control machine behaviour.
