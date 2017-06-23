@@ -1,0 +1,21 @@
+{ 1.0 Chris {} 0 }
+{ 1.1 Chris { Chris } 1 }
+{ 1.2 Chris { Julia } 0 }
+{ 1.3 Chris { Chris , Julia } 1 }
+{ 1.4 Chris { Julia , Chris } 1 }
+{ 1.5 John { Julia , Chris } 0 }
+{ 2.0 Darwin { Bohr , Darwin , Einstein , Lavoisier , Newton , Turing } 1 }
+{ 2.1 Einstein { Bohr , Darwin , Einstein , Lavoisier , Newton , Turing } 1 }
+{ 2.2 Lavoisier { Bohr , Darwin , Einstein , Lavoisier , Newton , Turing } 1 }
+{ 2.3 Newton { Bohr , Darwin , Einstein , Lavoisier , Newton , Turing } 1 }
+{ 2.4 Bohr { Bohr , Darwin , Einstein , Lavoisier , Newton , Turing } 1 }
+{ 2.5 Turing { Bohr , Darwin , Einstein , Lavoisier , Newton , Turing } 1 }
+{ 2.6 Turing { Bohr , Darwin , Einstein , Lavoisier , Newton } 0 }
+{ 2.7 Bohr { Bohr , Darwin , Einstein , Lavoisier , Newton } 1 }
+{ 2.8 Newton { Bohr , Darwin , Einstein , Lavoisier , Newton } 1 }
+{ 3.0 Newton { Newton , Newton , Newton , Newton , Newton } 1 }
+{ 3.1 Bohr { Newton , Newton , Newton , Newton , Newton } 0 }
+{ 3.2 Roentgen { Newton , Newton , Newton , Newton , Roentgen } 1 }
+{ 3.3 Roentgen  { Bohr , Darwin , Einstein , Lavoisier , Newton } 0 }
+{ 3.4 Atanasoff  { Bohr , Darwin , Einstein , Lavoisier , Newton } 0 }
+

@@ -1,0 +1,12 @@
+{ 1.0 find a - 1 }
+{ 1.1 find j - 0 }
+{ 2.0 find_text Lorem - 1 }
+{ 2.1 find_text lorem - 0 }
+{ 2.2 find_text Loren - 0 }
+{ 2.3 find_text beautiful - 0 }
+{ 3.0 erase 1 - 1 }
+{ 4.0 insert 1 o 1 }
+{ 5.0 replace industry INDUSTRIQ 1 }
+{ 6.0 get_char_number - - 77 }
+{ 7.0 get_word_number - - 12 }
+ 
